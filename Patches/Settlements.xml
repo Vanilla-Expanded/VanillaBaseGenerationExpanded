@@ -11,7 +11,7 @@
         <modExtensions>
           <li Class="KCSG.CustomGenOption">
             <useStructureLayout>false</useStructureLayout>
-            <fullClear>true</fullClear>
+            <fullClear>false</fullClear>
             <chooseFromSettlements>
               <li>VFES_Empire</li>
             </chooseFromSettlements>
@@ -19,5 +19,35 @@
         </modExtensions>
       </value>
     </match>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[@Name="TribeBase"]</xpath>
+    <value>
+      <modExtensions>
+        <li Class="KCSG.CustomGenOption">
+          <useStructureLayout>false</useStructureLayout>
+          <fullClear>false</fullClear>
+          <chooseFromSettlements>
+            <li>VFES_Tribals</li>
+          </chooseFromSettlements>
+        </li>
+      </modExtensions>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[@Name="OutlanderFactionBase" or @Name="PirateBandBase"]</xpath>
+    <value>
+      <modExtensions>
+        <li Class="KCSG.CustomGenOption">
+          <useStructureLayout>false</useStructureLayout>
+          <fullClear>false</fullClear>
+          <chooseFromSettlements>
+            <li>VFES_Outlanders</li>
+          </chooseFromSettlements>
+        </li>
+      </modExtensions>
+    </value>
   </Operation>
 </Patch>
