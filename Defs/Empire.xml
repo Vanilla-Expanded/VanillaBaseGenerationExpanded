@@ -52,7 +52,7 @@
       </li>
       <li>
         <count>1~1</count>
-        <tag>EmpireRoyalBedroom</tag>
+        <tag>EmpireBedrooms</tag>
       </li>
       <li>
         <count>1~1</count>
@@ -444,67 +444,6 @@
     </layouts>
     <tags>
       <li>EmpireShuttle</li>
-    </tags>
-  </KCSG.StructureLayoutDef>
-  <!-- EmpireRoyalBedroom -->
-  <KCSG.StructureLayoutDef>
-    <defName>VFESRoyalBedroom1</defName>
-    <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,Apparel_Coronet,.,.</li>
-        <li>.,.,.,.,.,.,Apparel_Cape,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,CarpetFineWhite,.,CarpetFineWhite,.,.,.</li>
-        <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
-        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
-        <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
-        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
-        <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
-        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
-        <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
-        <li>Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth,.,.,.,Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
-        <li>Sandbags_Cloth,.,Wall_BlocksGranite,Door_Steel,Wall_BlocksGranite,Door_Steel,Wall_BlocksGranite,.,Sandbags_Cloth</li>
-        <li>Sandbags_Cloth,Wall_BlocksGranite,Wall_BlocksGranite,.,SculptureLarge_WoodLog,.,Wall_BlocksGranite,Wall_BlocksGranite,Sandbags_Cloth</li>
-        <li>.,Wall_BlocksGranite,Column_Jade,.,.,.,Column_Jade,Wall_BlocksGranite,.</li>
-        <li>.,Wall_BlocksGranite,.,.,.,.,Shelf_WoodLog_West,Wall_BlocksGranite,.</li>
-        <li>.,Wall_BlocksGranite,.,.,.,.,.,Wall_BlocksGranite,.</li>
-        <li>.,Wall_BlocksGranite,.,.,Drape_Cloth_South,.,ChessTable_Steel,Wall_BlocksGranite,.</li>
-        <li>.,Wall_BlocksGranite,.,.,.,.,Armchair_Cloth_South,Wall_BlocksGranite,.</li>
-        <li>.,Wall_BlocksGranite,Wall_BlocksGranite,.,RoyalBed_Steel_South,EndTable_Steel_South,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
-        <li>.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.</li>
-      </li>
-    </layouts>
-    <roofGrid>
-      <li>.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,1,1,1,1,1,.,.</li>
-      <li>.,1,1,1,1,1,1,1,.</li>
-      <li>.,1,1,1,1,1,1,1,.</li>
-      <li>.,1,1,1,1,1,1,1,.</li>
-      <li>.,1,1,1,1,1,1,1,.</li>
-      <li>.,1,1,1,1,1,1,1,.</li>
-      <li>.,1,1,1,1,1,1,1,.</li>
-      <li>.,1,1,1,1,1,1,1,.</li>
-      <li>.,.,1,1,1,1,1,.,.</li>
-    </roofGrid>
-    <tags>
-      <li>EmpireRoyalBedroom</li>
     </tags>
   </KCSG.StructureLayoutDef>
   <!-- EmpireThrone -->
@@ -1132,86 +1071,6 @@
     <defName>VFES_EmpireBedrooms1</defName>
     <layouts>
       <li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.,.,CarpetFineBurgundy,.,.,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,FineTileSlate,TileMarble,TileMarble,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,TileMarble,TileMarble,FineTileSlate,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,.,.,TileMarble,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.,.,TileMarble,TileMarble</li>
-        <li>TileMarble,.,TileMarble,FineTileMarble,FineTileMarble,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,FineTileMarble,FineTileMarble,TileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileMarble,FineTileMarble,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,FineTileMarble,FineTileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileMarble,FineTileMarble,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,FineTileMarble,FineTileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileMarble,FineTileMarble,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,FineTileMarble,FineTileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileMarble,FineTileMarble,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,FineTileMarble,FineTileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileMarble,FineTileMarble,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,FineTileMarble,FineTileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble</li>
-        <li>TileMarble,.,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,.,TileMarble</li>
-        <li>TileMarble,.,FineTileSlate,FineTileSlate,FineTileMarble,FineTileSlate,FineTileMarble,FineTileMarble,FineTileMarble,FineTileSlate,FineTileMarble,FineTileSlate,FineTileSlate,.,TileMarble</li>
-        <li>TileMarble,.,.,.,.,.,.,.,.,.,.,.,.,.,TileMarble</li>
-      </li>
-      <li>
-        <li>Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Wall_BlocksMarble,Wall_BlocksMarble,Autodoor_Uranium,Wall_BlocksMarble,Wall_BlocksMarble,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel</li>
-        <li>Fence_Steel,.,.,.,Column_BlocksMarble,Wall_BlocksMarble,.,.,.,Wall_BlocksMarble,Column_BlocksMarble,.,.,.,Fence_Steel</li>
-        <li>Fence_Steel,.,SculptureLarge_BlocksSlate,.,.,Wall_BlocksMarble,.,StandingLamp,.,Wall_BlocksMarble,.,.,SculptureLarge_WoodLog,.,Fence_Steel</li>
-        <li>Fence_Steel,.,.,.,Column_BlocksMarble,Wall_BlocksMarble,.,.,.,Wall_BlocksMarble,Column_BlocksMarble,.,.,.,Fence_Steel</li>
-        <li>Fence_Steel,.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,.,.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,Fence_Steel</li>
-        <li>Column_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,Heater,.,.,.,.,.,Heater,.,Wall_BlocksMarble,Wall_BlocksMarble,Column_BlocksMarble</li>
-        <li>.,Wall_BlocksMarble,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksMarble,.</li>
-        <li>.,Wall_BlocksMarble,.,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,.,Wall_BlocksMarble,.</li>
-        <li>Column_BlocksMarble,Wall_BlocksMarble,Column_BlocksMarble,.,.,.,.,.,.,.,.,.,Column_BlocksMarble,Wall_BlocksMarble,Column_BlocksMarble</li>
-        <li>.,Wall_BlocksMarble,Plant_Rose,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Plant_Rose,Wall_BlocksMarble,.</li>
-        <li>.,Wall_BlocksMarble,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksMarble,.</li>
-        <li>Column_BlocksMarble,Wall_BlocksMarble,Plant_Rose,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Plant_Rose,Wall_BlocksMarble,Column_BlocksMarble</li>
-        <li>.,Wall_BlocksMarble,StandingLamp_Blue,.,.,.,.,.,.,.,.,.,StandingLamp_Blue,Wall_BlocksMarble,.</li>
-        <li>.,Wall_BlocksMarble,Column_BlocksMarble,.,.,.,.,.,.,.,.,.,Column_BlocksMarble,Wall_BlocksMarble,.</li>
-        <li>Column_BlocksMarble,Wall_BlocksMarble,.,.,SculptureSmall_WoodLog,.,.,MegascreenTelevision_South,.,.,SculptureSmall_Uranium,.,.,Wall_BlocksMarble,Column_BlocksMarble</li>
-        <li>.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PlantPot_BlocksMarble,.,.,.,.,.,.,.,.,.,PlantPot_BlocksMarble,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PlantPot_BlocksMarble,.,.,.,.,.,.,.,.,.,PlantPot_BlocksMarble,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-    </layouts>
-    <roofGrid>
-      <li>.,.,.,.,1,1,1,1,1,1,1,.,.,.,.</li>
-      <li>.,.,.,.,1,1,1,1,1,1,1,.,.,.,.</li>
-      <li>.,.,.,.,1,1,1,1,1,1,1,.,.,.,.</li>
-      <li>.,.,.,.,1,1,1,1,1,1,1,.,.,.,.</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-    </roofGrid>
-    <tags>
-      <li>EmpireBedrooms</li>
-    </tags>
-  </KCSG.StructureLayoutDef>
-  <KCSG.StructureLayoutDef>
-    <defName>VFES_EmpireBedrooms2</defName>
-    <layouts>
-      <li>
         <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
         <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
         <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
@@ -1250,7 +1109,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_EmpireBedrooms3</defName>
+    <defName>VFES_EmpireBedrooms2</defName>
     <layouts>
       <li>
         <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
@@ -1291,7 +1150,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_EmpireBedrooms4</defName>
+    <defName>VFES_EmpireBedrooms3</defName>
     <layouts>
       <li>
         <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
@@ -1332,7 +1191,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_EmpireBedrooms5</defName>
+    <defName>VFES_EmpireBedrooms4</defName>
     <layouts>
       <li>
         <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
@@ -1367,6 +1226,66 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
+    </roofGrid>
+    <tags>
+      <li>EmpireBedrooms</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VFES_EmpireBedrooms5</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,Apparel_Coronet,.,.</li>
+        <li>.,.,.,.,.,.,Apparel_Cape,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,CarpetFineWhite,.,CarpetFineWhite,.,.,.</li>
+        <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
+        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
+        <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
+        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
+        <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
+        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
+        <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
+        <li>Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth,.,.,.,Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
+        <li>Sandbags_Cloth,.,Wall_BlocksGranite,Door_Steel,Wall_BlocksGranite,Door_Steel,Wall_BlocksGranite,.,Sandbags_Cloth</li>
+        <li>Sandbags_Cloth,Wall_BlocksGranite,Wall_BlocksGranite,.,SculptureLarge_WoodLog,.,Wall_BlocksGranite,Wall_BlocksGranite,Sandbags_Cloth</li>
+        <li>.,Wall_BlocksGranite,Column_Jade,.,.,.,Column_Jade,Wall_BlocksGranite,.</li>
+        <li>.,Wall_BlocksGranite,.,.,.,.,Shelf_WoodLog_West,Wall_BlocksGranite,.</li>
+        <li>.,Wall_BlocksGranite,.,.,.,.,.,Wall_BlocksGranite,.</li>
+        <li>.,Wall_BlocksGranite,.,.,Drape_Cloth_South,.,ChessTable_Steel,Wall_BlocksGranite,.</li>
+        <li>.,Wall_BlocksGranite,.,.,.,.,Armchair_Cloth_South,Wall_BlocksGranite,.</li>
+        <li>.,Wall_BlocksGranite,Wall_BlocksGranite,.,RoyalBed_Steel_South,EndTable_Steel_South,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
+        <li>.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,1,1,1,1,1,.,.</li>
+      <li>.,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,.</li>
+      <li>.,.,1,1,1,1,1,.,.</li>
     </roofGrid>
     <tags>
       <li>EmpireBedrooms</li>
