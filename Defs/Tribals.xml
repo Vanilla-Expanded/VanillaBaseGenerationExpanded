@@ -61,7 +61,10 @@
       <li>VFES_TribalCenter13</li>
       <li>VFES_TribalCenter14</li>
     </centerBuilding>
-    <roadDef>PackedDirt</roadDef>
+    <roadOptions>
+      <addLinkRoad>true</addLinkRoad>
+      <linkRoadDef>PackedDirt</linkRoadDef>
+    </roadOptions>
     <pawnGroupMultiplier>1.5</pawnGroupMultiplier>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
     <avoidBridgeable>true</avoidBridgeable>

@@ -70,13 +70,15 @@
     <!-- <centerBuilding>
       <li>VFES_EmpireCenterStele</li>
     </centerBuilding> -->
-    <addMainRoad>true</addMainRoad>
-    <mainRoadDef>PavedTile</mainRoadDef>
-    <roadDef>Concrete</roadDef>
+    <roadOptions>
+      <addMainRoad>true</addMainRoad>
+      <mainRoadDef>PavedTile</mainRoadDef>
+      <addLinkRoad>true</addLinkRoad>
+      <linkRoadDef>Concrete</linkRoadDef>
+    </roadOptions>
     <vanillaLikeDefenseNoSandBags>true</vanillaLikeDefenseNoSandBags>
     <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
-    <spaceAround>1</spaceAround>
     <avoidBridgeable>true</avoidBridgeable>
   </KCSG.SettlementLayoutDef>
   <!-- Center building -->

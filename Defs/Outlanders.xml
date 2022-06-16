@@ -53,9 +53,10 @@
         <tag>GenericAnimal</tag>
       </li>
     </allowedStructures>
-    <centerBuilding></centerBuilding>
-    <mainRoadDef>Concrete</mainRoadDef>
-    <roadDef>Concrete</roadDef>
+    <roadOptions>
+      <addLinkRoad>true</addLinkRoad>
+      <linkRoadDef>Concrete</linkRoadDef>
+    </roadOptions>
     <vanillaLikeDefenseNoSandBags>true</vanillaLikeDefenseNoSandBags>
     <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
