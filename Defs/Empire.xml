@@ -67,77 +67,103 @@
         <tag>EmpireStockpile</tag>
       </li>
     </allowedStructures>
-    <!-- <centerBuilding>
-      <li>VFES_EmpireCenterStele</li>
-    </centerBuilding> -->
+    <spaceAround>1</spaceAround>
+    <avoidBridgeable>false</avoidBridgeable>
+    <avoidMountains>false</avoidMountains>
     <roadOptions>
       <addMainRoad>true</addMainRoad>
+      <mainRoadCount>3</mainRoadCount>
       <mainRoadDef>PavedTile</mainRoadDef>
+      <mainRoadWidth>3</mainRoadWidth>
+
       <addLinkRoad>true</addLinkRoad>
       <linkRoadDef>Concrete</linkRoadDef>
+      <linkRoadWidth>1</linkRoadWidth>
     </roadOptions>
+    <stuffableOptions>
+      <randomizeWall>true</randomizeWall>
+      <randomizeFurniture>true</randomizeFurniture>
+      <excludedFunitureDefs>
+        <li>Barricade</li>
+        <li>Sandbags</li>
+        <li>Fence</li>
+      </excludedFunitureDefs>
+    </stuffableOptions>
+    <propsOptions>
+      <addMainRoadProps>true</addMainRoadProps>
+      <mainRoadPropsDefs>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarForklift</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryBlack</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyBlack</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupBlack</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageBlack</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryWhite</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyWhite</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupWhite</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageWhite</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliverySilver</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilySilver</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupSilver</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageSilver</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryBlue</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyBlue</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupBlue</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageBlue</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryRed</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyRed</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupRed</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageRed</li>
+      </mainRoadPropsDefs>
+      <mainRoadPropsChance>0.03</mainRoadPropsChance>
+      <mainRoadMinDistance>9</mainRoadMinDistance>
+
+      <addLinkRoadProps>true</addLinkRoadProps>
+      <linkRoadPropsDefs>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Cone</li>
+        <li MayRequire="VanillaExpanded.VFECore">Light_Streetlamp</li>
+      </linkRoadPropsDefs>
+      <linkRoadMinDistance>8</linkRoadMinDistance>
+
+      <scatterProps>true</scatterProps>
+      <scatterMinDistance>8</scatterMinDistance>
+      <scatterMaxAmount>50</scatterMaxAmount>
+      <scatterPropsDefs>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BinBag</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BoxLarge</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BoxSmall</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CardboardBoxLarge</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CardboardBoxSmall</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BrickPile</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelGreen</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelGrey</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelRed</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelYellow</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelBlue</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletCardboard</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBoxes</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Pallet</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelGreen</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelGrey</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelRed</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelYellow</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelBlue</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerGreen</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerGrey</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerRed</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerYellow</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerBlue</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Pipes</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Planks</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ConcreteBags</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenLogs</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenLogsLarge</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenWagon</li>
+      </scatterPropsDefs>
+    </propsOptions>
     <vanillaLikeDefenseNoSandBags>true</vanillaLikeDefenseNoSandBags>
     <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
-    <avoidBridgeable>true</avoidBridgeable>
   </KCSG.SettlementLayoutDef>
-  <!-- Center building -->
-  <KCSG.StructureLayoutDef>
-    <defName>VFES_EmpireCenterStele</defName>
-    <layouts>
-      <li>
-        <li>.,.,.,.,.,.,MetalTile,MetalTile,MetalTile,.,.,.,.,.,.</li>
-        <li>.,.,.,.,FineTileSlate,.,MetalTile,MetalTile,MetalTile,.,FineTileSlate,.,.,.,.</li>
-        <li>.,.,.,.,.,.,MetalTile,MetalTile,MetalTile,.,.,.,.,.,.</li>
-        <li>.,.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.</li>
-        <li>.,FineTileSlate,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,FineTileSlate,.</li>
-        <li>.,.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>.,.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.</li>
-        <li>.,FineTileSlate,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,FineTileSlate,.</li>
-        <li>.,.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.</li>
-        <li>.,.,.,.,.,.,MetalTile,MetalTile,MetalTile,.,.,.,.,.,.</li>
-        <li>.,.,.,.,FineTileSlate,.,MetalTile,MetalTile,MetalTile,.,FineTileSlate,.,.,.,.</li>
-        <li>.,.,.,.,.,.,MetalTile,MetalTile,MetalTile,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,Fence_Steel,.,.,.,Fence_Steel,.,.,.,.,.</li>
-        <li>.,.,.,Column_BlocksMarble,SculptureLarge_BlocksLimestone,Fence_Steel,.,.,.,Fence_Steel,SculptureLarge_Silver,Column_BlocksMarble,.,.,.</li>
-        <li>.,.,Brazier_BlocksMarble,Fence_Steel,Fence_Steel,Fence_Steel,.,.,.,Fence_Steel,Fence_Steel,Fence_Steel,Brazier_BlocksMarble,.,.</li>
-        <li>.,Column_BlocksMarble,Fence_Steel,Armchair_Cloth_North,Armchair_Cloth_North,.,.,.,.,.,Armchair_Cloth_North,Armchair_Cloth_North,Fence_Steel,Column_BlocksMarble,.</li>
-        <li>.,SculptureLarge_BlocksGranite,Fence_Steel,.,.,.,.,.,.,.,.,.,Fence_Steel,SculptureLarge_Jade,.</li>
-        <li>Fence_Steel,Fence_Steel,Fence_Steel,.,.,Column_BlocksMarble,Fence_Steel,Fence_Steel,Fence_Steel,Column_BlocksMarble,.,.,Fence_Steel,Fence_Steel,Fence_Steel</li>
-        <li>.,.,.,.,.,Fence_Steel,.,.,.,Fence_Steel,.,.,.,.,.</li>
-        <li>.,.,.,.,.,Fence_Steel,.,SteleGrand_BlocksMarble,.,Fence_Steel,.,.,.,.,.</li>
-        <li>.,.,.,.,.,Fence_Steel,.,.,.,Fence_Steel,.,.,.,.,.</li>
-        <li>Fence_Steel,Fence_Steel,Fence_Steel,.,.,Column_BlocksMarble,Fence_Steel,Fence_Steel,Fence_Steel,Column_BlocksMarble,.,.,Fence_Steel,Fence_Steel,Fence_Steel</li>
-        <li>.,SculptureLarge_Gold,Fence_Steel,.,.,.,.,.,.,.,.,.,Fence_Steel,SculptureLarge_BlocksLimestone,.</li>
-        <li>.,Column_BlocksMarble,Fence_Steel,Armchair_Cloth_South,Armchair_Cloth_South,.,.,.,.,.,Armchair_Cloth_South,Armchair_Cloth_South,Fence_Steel,Column_BlocksMarble,.</li>
-        <li>.,.,Brazier_BlocksMarble,Fence_Steel,Fence_Steel,Fence_Steel,.,.,.,Fence_Steel,Fence_Steel,Fence_Steel,Brazier_BlocksMarble,.,.</li>
-        <li>.,.,.,Column_BlocksMarble,SculptureLarge_Gold,Fence_Steel,.,.,.,Fence_Steel,SculptureLarge_BlocksGranite,Column_BlocksMarble,.,.,.</li>
-        <li>.,.,.,.,.,Fence_Steel,.,.,.,Fence_Steel,.,.,.,.,.</li>
-      </li>
-    </layouts>
-    <roofGrid>
-      <li>.,.,1,1,1,1,.,.,.,1,1,1,1,.,.</li>
-      <li>.,.,1,1,1,1,.,.,.,1,1,1,1,.,.</li>
-      <li>1,1,1,1,1,1,.,.,.,1,1,1,1,1,1</li>
-      <li>1,1,1,.,.,.,.,.,.,.,.,.,1,1,1</li>
-      <li>1,1,1,.,.,.,.,.,.,.,.,.,1,1,1</li>
-      <li>1,1,1,.,.,.,.,.,.,.,.,.,1,1,1</li>
-      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      <li>1,1,1,.,.,.,.,.,.,.,.,.,1,1,1</li>
-      <li>1,1,1,.,.,.,.,.,.,.,.,.,1,1,1</li>
-      <li>1,1,1,.,.,.,.,.,.,.,.,.,1,1,1</li>
-      <li>1,1,1,1,1,1,.,.,.,1,1,1,1,1,1</li>
-      <li>.,.,1,1,1,1,.,.,.,1,1,1,1,.,.</li>
-      <li>.,.,1,1,1,1,.,.,.,1,1,1,1,.,.</li>
-    </roofGrid>
-  </KCSG.StructureLayoutDef>
   <!-- EmpireProduction -->
   <KCSG.StructureLayoutDef>
     <defName>VFESEmpireSmeltingMachining</defName>

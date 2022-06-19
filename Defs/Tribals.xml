@@ -45,22 +45,9 @@
         <tag>GenericField</tag>
       </li>
     </allowedStructures>
-    <centerBuilding>
-      <li>VFES_TribalCenter1</li>
-      <li>VFES_TribalCenter2</li>
-      <li>VFES_TribalCenter3</li>
-      <li>VFES_TribalCenter4</li>
-      <li>VFES_TribalCenter5</li>
-      <li>VFES_TribalCenter6</li>
-      <li>VFES_TribalCenter7</li>
-      <li>VFES_TribalCenter8</li>
-      <li>VFES_TribalCenter9</li>
-      <li>VFES_TribalCenter10</li>
-      <li>VFES_TribalCenter11</li>
-      <li>VFES_TribalCenter12</li>
-      <li>VFES_TribalCenter13</li>
-      <li>VFES_TribalCenter14</li>
-    </centerBuilding>
+    <centralBuildingTags>
+      <li>TribalCenter</li>
+    </centralBuildingTags>
     <roadOptions>
       <addLinkRoad>true</addLinkRoad>
       <linkRoadDef>PackedDirt</linkRoadDef>
@@ -96,6 +83,9 @@
         <li>.,.,.,.,.,.,Grave_South,.,Grave_South</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter2</defName>
@@ -112,6 +102,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter3</defName>
@@ -139,6 +132,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter4</defName>
@@ -168,6 +164,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter5</defName>
@@ -195,6 +194,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter6</defName>
@@ -222,6 +224,9 @@
         <li>.,.,.,.,.,.,Grave_South,.,Grave_South</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter7</defName>
@@ -249,6 +254,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter8</defName>
@@ -287,6 +295,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter9</defName>
@@ -314,6 +325,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter10</defName>
@@ -341,6 +355,9 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter11</defName>
@@ -372,6 +389,9 @@
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter12</defName>
@@ -403,6 +423,9 @@
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter13</defName>
@@ -441,6 +464,9 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_TribalCenter14</defName>
@@ -472,6 +498,9 @@
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
+    <tags>
+      <li>TribalCenter</li>
+    </tags>
   </KCSG.StructureLayoutDef>
   <!-- TribalHospital -->
   <KCSG.StructureLayoutDef>
