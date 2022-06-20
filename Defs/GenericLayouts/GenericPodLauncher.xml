@@ -72,6 +72,7 @@
     <tags>
       <li>GenericPodLauncher</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_PodLauncher1</defName>
@@ -132,5 +133,6 @@
     <tags>
       <li>GenericPodLauncher</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
 </Defs>

@@ -454,6 +454,7 @@
     <tags>
       <li>EmpireShuttle</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFESDestroyedShuttle</defName>
@@ -463,7 +464,7 @@
         <li>Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,.,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,.,.,.,.,.,.,.,.,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,ShuttleCrashed,.,.,.,.</li>
+        <li>.,.,.,.,.,Shuttle,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
         <li>.,Sandbags_Cloth,.,.,.,.,.,.,.,.</li>
         <li>.,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,Turret_MiniTurret_Steel,Sandbags_Cloth,.</li>
@@ -473,6 +474,7 @@
     <tags>
       <li>EmpireShuttle</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <!-- EmpireThrone -->
   <KCSG.StructureLayoutDef>

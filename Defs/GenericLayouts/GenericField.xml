@@ -34,6 +34,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field2</defName>
@@ -68,6 +69,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field3</defName>
@@ -102,6 +104,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field4</defName>
@@ -136,6 +139,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field5</defName>
@@ -170,6 +174,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field6</defName>
@@ -204,6 +209,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field7</defName>
@@ -238,6 +244,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field8</defName>
@@ -264,6 +271,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field9</defName>
@@ -290,6 +298,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field10</defName>
@@ -316,6 +325,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field11</defName>
@@ -342,6 +352,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field12</defName>
@@ -368,6 +379,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field13</defName>
@@ -394,6 +406,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field14</defName>
@@ -420,6 +433,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field15</defName>
@@ -454,6 +468,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field16</defName>
@@ -488,6 +503,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field17</defName>
@@ -522,6 +538,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field18</defName>
@@ -556,6 +573,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field19</defName>
@@ -590,6 +608,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field20</defName>
@@ -624,6 +643,7 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Field21</defName>
@@ -658,5 +678,6 @@
     <tags>
       <li>GenericField</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
 </Defs>

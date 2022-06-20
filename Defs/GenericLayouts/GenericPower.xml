@@ -85,6 +85,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFESWoodGeneratorWoodStock</defName>
@@ -169,6 +170,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_ChemfuelPowerRefinery</defName>
@@ -265,6 +267,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_SolarArray</defName>
@@ -371,6 +374,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_ChemfuelGeneratorsAndFuel</defName>
@@ -681,6 +685,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Solar2</defName>
@@ -711,6 +716,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_ChemGen1</defName>
@@ -1002,6 +1008,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_Wind2</defName>
@@ -1050,6 +1057,7 @@
     <tags>
       <li>GenericPower</li>
     </tags>
+    <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VFES_GenericPowerChemfuel1</defName>
