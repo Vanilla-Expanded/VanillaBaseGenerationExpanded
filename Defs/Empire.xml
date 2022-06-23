@@ -2,7 +2,7 @@
 <Defs>
   <KCSG.SettlementLayoutDef>
     <defName>VFES_Empire</defName>
-    <settlementSize>82,82</settlementSize>
+    <settlementSize>150,150</settlementSize>
     <allowedStructures>
       <!-- Generic rooms -->
       <li>
@@ -126,7 +126,7 @@
 
       <scatterProps>true</scatterProps>
       <scatterMinDistance>8</scatterMinDistance>
-      <scatterMaxAmount>50</scatterMaxAmount>
+      <scatterMaxAmount>150</scatterMaxAmount>
       <scatterPropsDefs>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BinBag</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BoxLarge</li>
