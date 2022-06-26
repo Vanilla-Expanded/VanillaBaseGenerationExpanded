@@ -2,59 +2,91 @@
 <Defs>
   <KCSG.SettlementLayoutDef>
     <defName>VFES_Tribals</defName>
-    <settlementSize>62,62</settlementSize>
-    <allowedStructures>
-      <li>
-        <count>1~2</count>
-        <tag>TribalHospital</tag>
-      </li>
-      <li>
-        <count>2~30</count>
-        <tag>TribalBarrack</tag>
-      </li>
-      <li>
-        <count>1~2</count>
-        <tag>TribalFarm</tag>
-      </li>
-      <li>
-        <count>1~1</count>
-        <tag>TribalKitchen</tag>
-      </li>
-      <li>
-        <count>1~3</count>
-        <tag>TribalPrison</tag>
-      </li>
-      <li>
-        <count>1~1</count>
-        <tag>TribalGraveyard</tag>
-      </li>
-      <li>
-        <count>1~2</count>
-        <tag>TribalRecreation</tag>
-      </li>
-      <li>
-        <count>1~2</count>
-        <tag>TribalProduction</tag>
-      </li>
-      <li>
-        <count>1~3</count>
-        <tag>TribalStockpile</tag>
-      </li>
-      <li>
-        <count>2~5</count>
-        <tag>GenericField</tag>
-      </li>
-    </allowedStructures>
-    <centralBuildingTags>
-      <li>TribalCenter</li>
-    </centralBuildingTags>
+    <settlementSize>72,72</settlementSize>
+    <avoidBridgeable>true</avoidBridgeable>
+    <avoidMountains>true</avoidMountains>
+    <centerBuildings>
+      <centerSize>42,42</centerSize>
+      <spaceAround>1</spaceAround>
+      <allowedStructures>
+        <li>
+          <count>1~2</count>
+          <tag>TribalHospital</tag>
+        </li>
+        <li>
+          <count>2~30</count>
+          <tag>TribalBarrack</tag>
+        </li>
+        <li>
+          <count>1~1</count>
+          <tag>TribalKitchen</tag>
+        </li>
+        <li>
+          <count>1~3</count>
+          <tag>TribalPrison</tag>
+        </li>
+        <li>
+          <count>1~1</count>
+          <tag>TribalGraveyard</tag>
+        </li>
+        <li>
+          <count>1~2</count>
+          <tag>TribalRecreation</tag>
+        </li>
+        <li>
+          <count>1~2</count>
+          <tag>TribalProduction</tag>
+        </li>
+        <li>
+          <count>1~3</count>
+          <tag>TribalStockpile</tag>
+        </li>
+      </allowedStructures>
+      <centralBuildingTags>
+        <li>TribalCenter</li>
+      </centralBuildingTags>
+    </centerBuildings>
+    <peripheralBuildings>
+      <allowedStructures>
+        <li>
+          <count>2~5</count>
+          <tag>TribalFarm</tag>
+        </li>
+        <li>
+          <count>2~5</count>
+          <tag>GenericField</tag>
+        </li>
+      </allowedStructures>
+    </peripheralBuildings>
     <roadOptions>
       <addLinkRoad>true</addLinkRoad>
       <linkRoadDef>PackedDirt</linkRoadDef>
     </roadOptions>
+    <stuffableOptions>
+      <randomizeWall>true</randomizeWall>
+      <randomizeFurniture>true</randomizeFurniture>
+      <excludedFunitureDefs>
+        <li>Barricade</li>
+        <li>Sandbags</li>
+        <li>Fence</li>
+      </excludedFunitureDefs>
+    </stuffableOptions>
+    <propsOptions>
+      <scatterProps>true</scatterProps>
+      <scatterMinDistance>8</scatterMinDistance>
+      <scatterMaxAmount>150</scatterMaxAmount>
+      <scatterPropsDefs>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BoxLarge</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BoxSmall</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BrickPile</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Planks</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenLogs</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenLogsLarge</li>
+        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenWagon</li>
+      </scatterPropsDefs>
+    </propsOptions>
     <pawnGroupMultiplier>1.5</pawnGroupMultiplier>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
-    <avoidBridgeable>true</avoidBridgeable>
   </KCSG.SettlementLayoutDef>
   <!-- TribalCenter -->
   <KCSG.StructureLayoutDef>
@@ -544,7 +576,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter15</defName>
+    <defName>VFES_TribalCenter16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.</li>
@@ -567,7 +599,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter16</defName>
+    <defName>VFES_TribalCenter17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
