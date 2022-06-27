@@ -10,10 +10,10 @@
       <value>
         <modExtensions>
           <li Class="KCSG.CustomGenOption">
-            <fullClear>false</fullClear>
             <chooseFromSettlements>
               <li>VFES_Empire</li>
             </chooseFromSettlements>
+            <preventBridgeable>true</preventBridgeable>
           </li>
         </modExtensions>
       </value>
@@ -25,10 +25,10 @@
     <value>
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
-          <fullClear>false</fullClear>
           <chooseFromSettlements>
             <li>VFES_Tribals</li>
           </chooseFromSettlements>
+          <preventBridgeable>true</preventBridgeable>
         </li>
       </modExtensions>
     </value>
@@ -39,10 +39,10 @@
     <value>
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
-          <fullClear>false</fullClear>
           <chooseFromSettlements>
             <li>VFES_Outlanders</li>
           </chooseFromSettlements>
+          <preventBridgeable>true</preventBridgeable>
         </li>
       </modExtensions>
     </value>
@@ -53,12 +53,12 @@
     <value>
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
-          <fullClear>false</fullClear>
           <chooseFromSettlements>
+            <li>VFES_Pirates</li>
             <li>VFES_Outlanders</li>
           </chooseFromSettlements>
+          <preventBridgeable>true</preventBridgeable>
           <symbolResolvers>
-            <li>kcsg_randomdamage</li>
             <li>kcsg_randomfilth</li>
           </symbolResolvers>
           <filthTypes>
