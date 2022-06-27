@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <KCSG.SettlementLayoutDef>
-    <defName>VFES_Tribals</defName>
+    <defName>VBGE_Tribals</defName>
     <settlementSize>72,72</settlementSize>
     <avoidBridgeable>true</avoidBridgeable>
     <avoidMountains>true</avoidMountains>
@@ -90,7 +90,7 @@
   </KCSG.SettlementLayoutDef>
   <!-- TribalCenter -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter1</defName>
+    <defName>VBGE_TribalCenter1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,FlagstoneSandstone,.,.,.</li>
@@ -120,7 +120,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter2</defName>
+    <defName>VBGE_TribalCenter2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -139,7 +139,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter3</defName>
+    <defName>VBGE_TribalCenter3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,FlagstoneSlate,.,.,.,.</li>
@@ -169,7 +169,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter4</defName>
+    <defName>VBGE_TribalCenter4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,FlagstoneSlate,.,.,.</li>
@@ -201,7 +201,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter5</defName>
+    <defName>VBGE_TribalCenter5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
@@ -231,7 +231,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter6</defName>
+    <defName>VBGE_TribalCenter6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,FlagstoneSandstone,.,.,.</li>
@@ -261,7 +261,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter7</defName>
+    <defName>VBGE_TribalCenter7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,FlagstoneSandstone,.</li>
@@ -291,7 +291,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter8</defName>
+    <defName>VBGE_TribalCenter8</defName>
     <layouts>
       <li>
         <li>.,ChunkSandstone,.,.,.,.,ChunkSandstone,ChunkSandstone,.</li>
@@ -332,7 +332,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter9</defName>
+    <defName>VBGE_TribalCenter9</defName>
     <layouts>
       <li>
         <li>.,FlagstoneGranite,.,.,.,.,.,.,.</li>
@@ -362,7 +362,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter10</defName>
+    <defName>VBGE_TribalCenter10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
@@ -392,7 +392,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter11</defName>
+    <defName>VBGE_TribalCenter11</defName>
     <layouts>
       <li>
         <li>.,.,FlagstoneMarble,.,.,.,.,.,.,FlagstoneMarble,FlagstoneMarble</li>
@@ -426,7 +426,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter12</defName>
+    <defName>VBGE_TribalCenter12</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,FlagstoneLimestone,.,.,.</li>
@@ -460,7 +460,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter13</defName>
+    <defName>VBGE_TribalCenter13</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -501,7 +501,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter14</defName>
+    <defName>VBGE_TribalCenter14</defName>
     <layouts>
       <li>
         <li>.,.,FlagstoneSandstone,FlagstoneSandstone,.,.,.,.,.,.,.</li>
@@ -535,7 +535,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter15</defName>
+    <defName>VBGE_TribalCenter15</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.</li>
@@ -576,7 +576,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter16</defName>
+    <defName>VBGE_TribalCenter16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.</li>
@@ -599,7 +599,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalCenter17</defName>
+    <defName>VBGE_TribalCenter17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -628,7 +628,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalHospital -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital</defName>
+    <defName>VBGE_Hospital</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -668,7 +668,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalHospital2</defName>
+    <defName>VBGE_TribalHospital2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -732,7 +732,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalHospital3</defName>
+    <defName>VBGE_TribalHospital3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -792,7 +792,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalHospital4</defName>
+    <defName>VBGE_TribalHospital4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -852,7 +852,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalHospital5</defName>
+    <defName>VBGE_TribalHospital5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -884,7 +884,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalHospital6</defName>
+    <defName>VBGE_TribalHospital6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -928,7 +928,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalHospital7</defName>
+    <defName>VBGE_TribalHospital7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -980,7 +980,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalHospital8</defName>
+    <defName>VBGE_TribalHospital8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1057,7 +1057,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalBarrack -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack1</defName>
+    <defName>VBGE_TribalBarrack1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,FlagstoneSandstone,.,.,.,.,.,.</li>
@@ -1125,7 +1125,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack2</defName>
+    <defName>VBGE_TribalBarrack2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1197,7 +1197,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack3</defName>
+    <defName>VBGE_TribalBarrack3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1238,7 +1238,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack4</defName>
+    <defName>VBGE_TribalBarrack4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1279,7 +1279,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack5</defName>
+    <defName>VBGE_TribalBarrack5</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1309,7 +1309,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack6</defName>
+    <defName>VBGE_TribalBarrack6</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1339,7 +1339,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack7</defName>
+    <defName>VBGE_TribalBarrack7</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1369,7 +1369,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack8</defName>
+    <defName>VBGE_TribalBarrack8</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1399,7 +1399,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack9</defName>
+    <defName>VBGE_TribalBarrack9</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1429,7 +1429,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack10</defName>
+    <defName>VBGE_TribalBarrack10</defName>
     <layouts>
       <li>
         <li>.,.,.,FlagstoneGranite,.,.,.</li>
@@ -1455,7 +1455,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack11</defName>
+    <defName>VBGE_TribalBarrack11</defName>
     <layouts>
       <li>
         <li>.,.,.,FlagstoneGranite,.,.,.</li>
@@ -1481,7 +1481,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack12</defName>
+    <defName>VBGE_TribalBarrack12</defName>
     <layouts>
       <li>
         <li>FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,.,.</li>
@@ -1507,7 +1507,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack13</defName>
+    <defName>VBGE_TribalBarrack13</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1533,7 +1533,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack14</defName>
+    <defName>VBGE_TribalBarrack14</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1559,7 +1559,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack15</defName>
+    <defName>VBGE_TribalBarrack15</defName>
     <layouts>
       <li>
         <li>.,.,.,FlagstoneSlate,.,.,.</li>
@@ -1585,7 +1585,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack16</defName>
+    <defName>VBGE_TribalBarrack16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1611,7 +1611,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack17</defName>
+    <defName>VBGE_TribalBarrack17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1628,7 +1628,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack18</defName>
+    <defName>VBGE_TribalBarrack18</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1654,7 +1654,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack19</defName>
+    <defName>VBGE_TribalBarrack19</defName>
     <layouts>
       <li>
         <li>.,.,.,.,Bedroll_Cloth_East,.,.</li>
@@ -1671,7 +1671,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack20</defName>
+    <defName>VBGE_TribalBarrack20</defName>
     <layouts>
       <li>
         <li>.,.,.,.,FlagstoneMarble,.,.</li>
@@ -1697,7 +1697,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack21</defName>
+    <defName>VBGE_TribalBarrack21</defName>
     <layouts>
       <li>
         <li>.,.,FlagstoneMarble,.,.,.,.</li>
@@ -1723,7 +1723,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack22</defName>
+    <defName>VBGE_TribalBarrack22</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1749,7 +1749,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack23</defName>
+    <defName>VBGE_TribalBarrack23</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1775,7 +1775,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack24</defName>
+    <defName>VBGE_TribalBarrack24</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1810,7 +1810,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack25</defName>
+    <defName>VBGE_TribalBarrack25</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1836,7 +1836,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack26</defName>
+    <defName>VBGE_TribalBarrack26</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1862,7 +1862,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack27</defName>
+    <defName>VBGE_TribalBarrack27</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1888,7 +1888,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack28</defName>
+    <defName>VBGE_TribalBarrack28</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1914,7 +1914,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack29</defName>
+    <defName>VBGE_TribalBarrack29</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1940,7 +1940,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack30</defName>
+    <defName>VBGE_TribalBarrack30</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1966,7 +1966,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack31</defName>
+    <defName>VBGE_TribalBarrack31</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -1992,7 +1992,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack32</defName>
+    <defName>VBGE_TribalBarrack32</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -2018,7 +2018,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack33</defName>
+    <defName>VBGE_TribalBarrack33</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2053,7 +2053,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack34</defName>
+    <defName>VBGE_TribalBarrack34</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2070,7 +2070,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack35</defName>
+    <defName>VBGE_TribalBarrack35</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
@@ -2096,7 +2096,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalBarrack36</defName>
+    <defName>VBGE_TribalBarrack36</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2132,7 +2132,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalFarm -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalFarm</defName>
+    <defName>VBGE_TribalFarm</defName>
     <layouts>
       <li>
         <li>.,.,Wall_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,FenceGate_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Wall_WoodLog,.,.</li>
@@ -2155,7 +2155,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalFarm2</defName>
+    <defName>VBGE_TribalFarm2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -2216,7 +2216,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalKitchen -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen1</defName>
+    <defName>VBGE_TribalKitchen1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -2304,7 +2304,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen2</defName>
+    <defName>VBGE_TribalKitchen2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2376,7 +2376,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen3</defName>
+    <defName>VBGE_TribalKitchen3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -2420,7 +2420,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen4</defName>
+    <defName>VBGE_TribalKitchen4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -2468,7 +2468,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen5</defName>
+    <defName>VBGE_TribalKitchen5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2501,7 +2501,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen6</defName>
+    <defName>VBGE_TribalKitchen6</defName>
     <layouts>
       <li>
         <li>.,.,.,ChunkMarble,Pemmican,ChunkMarble,.,.,.,.,.,.,.,.</li>
@@ -2545,7 +2545,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen7</defName>
+    <defName>VBGE_TribalKitchen7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2586,7 +2586,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen8</defName>
+    <defName>VBGE_TribalKitchen8</defName>
     <layouts>
       <li>
         <li>.,.,.,.</li>
@@ -2612,7 +2612,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalKitchen9</defName>
+    <defName>VBGE_TribalKitchen9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2651,7 +2651,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalProduction -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd1</defName>
+    <defName>VBGE_TribalProd1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -2719,7 +2719,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd2</defName>
+    <defName>VBGE_TribalProd2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -2791,7 +2791,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd3</defName>
+    <defName>VBGE_TribalProd3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -2847,7 +2847,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd4</defName>
+    <defName>VBGE_TribalProd4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -2891,7 +2891,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd5</defName>
+    <defName>VBGE_TribalProd5</defName>
     <layouts>
       <li>
         <li>.,.,.</li>
@@ -2904,7 +2904,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd6</defName>
+    <defName>VBGE_TribalProd6</defName>
     <layouts>
       <li>
         <li>.,.,MeleeWeapon_Ikwa,.,.</li>
@@ -2930,7 +2930,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd7</defName>
+    <defName>VBGE_TribalProd7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -2986,7 +2986,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd8</defName>
+    <defName>VBGE_TribalProd8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -3038,7 +3038,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd9</defName>
+    <defName>VBGE_TribalProd9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -3106,7 +3106,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd10</defName>
+    <defName>VBGE_TribalProd10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3154,7 +3154,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd11</defName>
+    <defName>VBGE_TribalProd11</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -3198,7 +3198,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd12</defName>
+    <defName>VBGE_TribalProd12</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -3233,7 +3233,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd13</defName>
+    <defName>VBGE_TribalProd13</defName>
     <layouts>
       <li>
         <li>Wall_WoodLog,.,.,.,.,Wall_WoodLog</li>
@@ -3261,7 +3261,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd14</defName>
+    <defName>VBGE_TribalProd14</defName>
     <layouts>
       <li>
         <li>.,ChunkGranite,.,ChunkGranite,.</li>
@@ -3275,7 +3275,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd15</defName>
+    <defName>VBGE_TribalProd15</defName>
     <layouts>
       <li>
         <li>.,ChunkSandstone,.,.</li>
@@ -3291,7 +3291,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd16</defName>
+    <defName>VBGE_TribalProd16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3347,7 +3347,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProd17</defName>
+    <defName>VBGE_TribalProd17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3403,7 +3403,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalProduction18</defName>
+    <defName>VBGE_TribalProduction18</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3457,7 +3457,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalPrison -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalPrison1</defName>
+    <defName>VBGE_TribalPrison1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3541,7 +3541,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalPrison2</defName>
+    <defName>VBGE_TribalPrison2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -3585,7 +3585,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalPrison3</defName>
+    <defName>VBGE_TribalPrison3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -3620,7 +3620,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalPrison4</defName>
+    <defName>VBGE_TribalPrison4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -3655,7 +3655,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalPrison5</defName>
+    <defName>VBGE_TribalPrison5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3708,7 +3708,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalPrison6</defName>
+    <defName>VBGE_TribalPrison6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3792,7 +3792,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalGraveyard -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalGraveyard1</defName>
+    <defName>VBGE_TribalGraveyard1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -3833,7 +3833,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalGraveyard2</defName>
+    <defName>VBGE_TribalGraveyard2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,SteleLarge_BlocksMarble,.,.,.,.,.</li>
@@ -3853,7 +3853,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalGraveyard3</defName>
+    <defName>VBGE_TribalGraveyard3</defName>
     <layouts>
       <li>
         <li>Grave_East,.,.,.,.,Plant_Grass,.,Grave_West</li>
@@ -3868,7 +3868,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalGraveyard4</defName>
+    <defName>VBGE_TribalGraveyard4</defName>
     <layouts>
       <li>
         <li>Fence_WoodLog,Fence_WoodLog,FenceGate_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog</li>
@@ -3890,7 +3890,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalRecreation -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalRecreation1</defName>
+    <defName>VBGE_TribalRecreation1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,FlagstoneGranite,.,.,.,.,.,.</li>
@@ -3928,7 +3928,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TribalRecreation2</defName>
+    <defName>VBGE_TribalRecreation2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,CarpetCream,.,.,.,.,.,.</li>
@@ -3997,7 +3997,7 @@
   </KCSG.StructureLayoutDef>
   <!-- TribalStockpile -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock1</defName>
+    <defName>VBGE_TStock1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4038,7 +4038,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock2</defName>
+    <defName>VBGE_TStock2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4079,7 +4079,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock3</defName>
+    <defName>VBGE_TStock3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4120,7 +4120,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock4</defName>
+    <defName>VBGE_TStock4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4161,7 +4161,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock5</defName>
+    <defName>VBGE_TStock5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4202,7 +4202,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock6</defName>
+    <defName>VBGE_TStock6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4243,7 +4243,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock7</defName>
+    <defName>VBGE_TStock7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4284,7 +4284,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock8</defName>
+    <defName>VBGE_TStock8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4325,7 +4325,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock9</defName>
+    <defName>VBGE_TStock9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4366,7 +4366,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock10</defName>
+    <defName>VBGE_TStock10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4407,7 +4407,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock11</defName>
+    <defName>VBGE_TStock11</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4448,7 +4448,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock12</defName>
+    <defName>VBGE_TStock12</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4489,7 +4489,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock13</defName>
+    <defName>VBGE_TStock13</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4530,7 +4530,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock14</defName>
+    <defName>VBGE_TStock14</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4571,7 +4571,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock15</defName>
+    <defName>VBGE_TStock15</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4612,7 +4612,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock16</defName>
+    <defName>VBGE_TStock16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -4653,7 +4653,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TStock17</defName>
+    <defName>VBGE_TStock17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>

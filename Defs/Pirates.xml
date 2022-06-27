@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
   <KCSG.SettlementLayoutDef>
-    <defName>VFES_Pirates</defName>
+    <defName>VBGE_Pirates</defName>
     <settlementSize>65,65</settlementSize>
     <centerBuildings>
       <centerSize>65,65</centerSize>

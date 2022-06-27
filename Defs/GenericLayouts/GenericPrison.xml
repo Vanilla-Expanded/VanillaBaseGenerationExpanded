@@ -7,7 +7,7 @@
   </KCSG.SymbolDef>
   <!-- GenericPrison -->
   <KCSG.StructureLayoutDef>
-    <defName>VFESPrisonHospital</defName>
+    <defName>VBGEPrisonHospital</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -70,7 +70,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack</defName>
+    <defName>VBGE_PrisonBarrack</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -198,7 +198,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack2</defName>
+    <defName>VBGE_PrisonBarrack2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -274,7 +274,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack3</defName>
+    <defName>VBGE_PrisonBarrack3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -366,7 +366,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack4</defName>
+    <defName>VBGE_PrisonBarrack4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -449,7 +449,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack5</defName>
+    <defName>VBGE_PrisonBarrack5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -493,7 +493,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack6</defName>
+    <defName>VBGE_PrisonBarrack6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -546,7 +546,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack7</defName>
+    <defName>VBGE_PrisonBarrack7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -590,7 +590,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack8</defName>
+    <defName>VBGE_PrisonBarrack8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -643,7 +643,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack9</defName>
+    <defName>VBGE_PrisonBarrack9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -687,7 +687,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack10</defName>
+    <defName>VBGE_PrisonBarrack10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -739,7 +739,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack11</defName>
+    <defName>VBGE_PrisonBarrack11</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -791,7 +791,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack12</defName>
+    <defName>VBGE_PrisonBarrack12</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -843,7 +843,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack13</defName>
+    <defName>VBGE_PrisonBarrack13</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -906,7 +906,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack14</defName>
+    <defName>VBGE_PrisonBarrack14</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -958,7 +958,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack15</defName>
+    <defName>VBGE_PrisonBarrack15</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1041,7 +1041,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack16</defName>
+    <defName>VBGE_PrisonBarrack16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1124,7 +1124,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack17</defName>
+    <defName>VBGE_PrisonBarrack17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1207,7 +1207,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack18</defName>
+    <defName>VBGE_PrisonBarrack18</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1290,7 +1290,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack19</defName>
+    <defName>VBGE_PrisonBarrack19</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1373,7 +1373,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_PrisonBarrack20</defName>
+    <defName>VBGE_PrisonBarrack20</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>

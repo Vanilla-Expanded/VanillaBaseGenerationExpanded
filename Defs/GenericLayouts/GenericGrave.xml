@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericGrave -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Grave</defName>
+    <defName>VBGE_Grave</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -52,7 +52,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Grave2</defName>
+    <defName>VBGE_Grave2</defName>
     <layouts>
       <li>
         <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
@@ -85,7 +85,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Grave3</defName>
+    <defName>VBGE_Grave3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -135,7 +135,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Grave4</defName>
+    <defName>VBGE_Grave4</defName>
     <layouts>
       <li>
         <li>FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone</li>
@@ -164,7 +164,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_CasketArray1</defName>
+    <defName>VBGE_CasketArray1</defName>
     <layouts>
       <li>
         <li>.,.,.,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.,.,.</li>

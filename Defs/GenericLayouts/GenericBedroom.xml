@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericBedroom -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom1</defName>
+    <defName>VBGE_SingleRoom1</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -37,7 +37,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom2</defName>
+    <defName>VBGE_SingleRoom2</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -81,7 +81,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom3</defName>
+    <defName>VBGE_SingleRoom3</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -116,7 +116,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom4</defName>
+    <defName>VBGE_SingleRoom4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -160,7 +160,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom5</defName>
+    <defName>VBGE_SingleRoom5</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -204,7 +204,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom6</defName>
+    <defName>VBGE_SingleRoom6</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -248,7 +248,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom7</defName>
+    <defName>VBGE_SingleRoom7</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -292,7 +292,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom8</defName>
+    <defName>VBGE_SingleRoom8</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -327,7 +327,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom9</defName>
+    <defName>VBGE_SingleRoom9</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -371,7 +371,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom10</defName>
+    <defName>VBGE_SingleRoom10</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -406,7 +406,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom11</defName>
+    <defName>VBGE_SingleRoom11</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -441,7 +441,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom12</defName>
+    <defName>VBGE_SingleRoom12</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -476,7 +476,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom13</defName>
+    <defName>VBGE_SingleRoom13</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -520,7 +520,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom15</defName>
+    <defName>VBGE_SingleRoom15</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -564,7 +564,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom16</defName>
+    <defName>VBGE_SingleRoom16</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -608,7 +608,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom17</defName>
+    <defName>VBGE_SingleRoom17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -660,7 +660,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom18</defName>
+    <defName>VBGE_SingleRoom18</defName>
     <layouts>
       <li>
         <li>TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
@@ -701,7 +701,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom19</defName>
+    <defName>VBGE_SingleRoom19</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -742,7 +742,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom20</defName>
+    <defName>VBGE_SingleRoom20</defName>
     <layouts>
       <li>
         <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
@@ -783,7 +783,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom21</defName>
+    <defName>VBGE_SingleRoom21</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -824,7 +824,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom22</defName>
+    <defName>VBGE_SingleRoom22</defName>
     <layouts>
       <li>
         <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
@@ -865,7 +865,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom23</defName>
+    <defName>VBGE_SingleRoom23</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -928,7 +928,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom24</defName>
+    <defName>VBGE_SingleRoom24</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -980,7 +980,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom25</defName>
+    <defName>VBGE_SingleRoom25</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
@@ -1021,7 +1021,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom26</defName>
+    <defName>VBGE_SingleRoom26</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1084,7 +1084,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom27</defName>
+    <defName>VBGE_SingleRoom27</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1125,7 +1125,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom28</defName>
+    <defName>VBGE_SingleRoom28</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1166,7 +1166,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom29</defName>
+    <defName>VBGE_SingleRoom29</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1218,7 +1218,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom30</defName>
+    <defName>VBGE_SingleRoom30</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1259,7 +1259,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom31</defName>
+    <defName>VBGE_SingleRoom31</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1311,7 +1311,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom32</defName>
+    <defName>VBGE_SingleRoom32</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1346,7 +1346,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom33</defName>
+    <defName>VBGE_SingleRoom33</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1381,7 +1381,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom34</defName>
+    <defName>VBGE_SingleRoom34</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1416,7 +1416,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom35</defName>
+    <defName>VBGE_SingleRoom35</defName>
     <layouts>
       <li>
         <li>CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed</li>
@@ -1451,7 +1451,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom36</defName>
+    <defName>VBGE_SingleRoom36</defName>
     <layouts>
       <li>
         <li>CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
@@ -1486,7 +1486,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom37</defName>
+    <defName>VBGE_SingleRoom37</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1521,7 +1521,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom38</defName>
+    <defName>VBGE_SingleRoom38</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1556,7 +1556,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom39</defName>
+    <defName>VBGE_SingleRoom39</defName>
     <layouts>
       <li>
         <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
@@ -1591,7 +1591,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom40</defName>
+    <defName>VBGE_SingleRoom40</defName>
     <layouts>
       <li>
         <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
@@ -1626,7 +1626,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom41</defName>
+    <defName>VBGE_SingleRoom41</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1661,7 +1661,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom42</defName>
+    <defName>VBGE_SingleRoom42</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1696,7 +1696,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom43</defName>
+    <defName>VBGE_SingleRoom43</defName>
     <layouts>
       <li>
         <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
@@ -1731,7 +1731,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom44</defName>
+    <defName>VBGE_SingleRoom44</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1766,7 +1766,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom45</defName>
+    <defName>VBGE_SingleRoom45</defName>
     <layouts>
       <li>
         <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
@@ -1810,7 +1810,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom46</defName>
+    <defName>VBGE_SingleRoom46</defName>
     <layouts>
       <li>
         <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
@@ -1845,7 +1845,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom47</defName>
+    <defName>VBGE_SingleRoom47</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
@@ -1880,7 +1880,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom48</defName>
+    <defName>VBGE_SingleRoom48</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
@@ -1924,7 +1924,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom49</defName>
+    <defName>VBGE_SingleRoom49</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1959,7 +1959,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom50</defName>
+    <defName>VBGE_SingleRoom50</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1994,7 +1994,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom51</defName>
+    <defName>VBGE_SingleRoom51</defName>
     <layouts>
       <li>
         <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
@@ -2041,7 +2041,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom52</defName>
+    <defName>VBGE_SingleRoom52</defName>
     <layouts>
       <li>
         <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
@@ -2088,7 +2088,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom53</defName>
+    <defName>VBGE_SingleRoom53</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
@@ -2135,7 +2135,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom54</defName>
+    <defName>VBGE_SingleRoom54</defName>
     <layouts>
       <li>
         <li>CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
@@ -2182,7 +2182,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom55</defName>
+    <defName>VBGE_SingleRoom55</defName>
     <layouts>
       <li>
         <li>.,.,.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
@@ -2217,7 +2217,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleRoom56</defName>
+    <defName>VBGE_SingleRoom56</defName>
     <layouts>
       <li>
         <li>FlagstoneMarble,FlagstoneMarble,TileMarble,FlagstoneMarble,TileMarble,FlagstoneMarble,TileMarble,FlagstoneMarble,FlagstoneMarble</li>
@@ -2261,7 +2261,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack1</defName>
+    <defName>VBGE_Barrack1</defName>
     <layouts>
       <li>
         <li>Concrete,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.</li>
@@ -2296,7 +2296,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack2</defName>
+    <defName>VBGE_Barrack2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,CarpetCream,.,.,.,.</li>
@@ -2331,7 +2331,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack3</defName>
+    <defName>VBGE_Barrack3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -2375,7 +2375,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack4</defName>
+    <defName>VBGE_Barrack4</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2410,7 +2410,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack5</defName>
+    <defName>VBGE_Barrack5</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2445,7 +2445,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack6</defName>
+    <defName>VBGE_Barrack6</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2480,7 +2480,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack7</defName>
+    <defName>VBGE_Barrack7</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2515,7 +2515,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack8</defName>
+    <defName>VBGE_Barrack8</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2550,7 +2550,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack9</defName>
+    <defName>VBGE_Barrack9</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2585,7 +2585,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack10</defName>
+    <defName>VBGE_Barrack10</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2620,7 +2620,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack11</defName>
+    <defName>VBGE_Barrack11</defName>
     <layouts>
       <li>
         <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
@@ -2661,7 +2661,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack12</defName>
+    <defName>VBGE_Barrack12</defName>
     <layouts>
       <li>
         <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
@@ -2713,7 +2713,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack13</defName>
+    <defName>VBGE_Barrack13</defName>
     <layouts>
       <li>
         <li>CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
@@ -2754,7 +2754,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack14</defName>
+    <defName>VBGE_Barrack14</defName>
     <layouts>
       <li>
         <li>CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed,CarpetRed</li>
@@ -2795,7 +2795,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack15</defName>
+    <defName>VBGE_Barrack15</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2847,7 +2847,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack16</defName>
+    <defName>VBGE_Barrack16</defName>
     <layouts>
       <li>
         <li>TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
@@ -2888,7 +2888,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack17</defName>
+    <defName>VBGE_Barrack17</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2929,7 +2929,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack18</defName>
+    <defName>VBGE_Barrack18</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -2970,7 +2970,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack19</defName>
+    <defName>VBGE_Barrack19</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -3011,7 +3011,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack20</defName>
+    <defName>VBGE_Barrack20</defName>
     <layouts>
       <li>
         <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
@@ -3052,7 +3052,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack21</defName>
+    <defName>VBGE_Barrack21</defName>
     <layouts>
       <li>
         <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
@@ -3093,7 +3093,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack22</defName>
+    <defName>VBGE_Barrack22</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
@@ -3134,7 +3134,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack23</defName>
+    <defName>VBGE_Barrack23</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -3186,7 +3186,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack24</defName>
+    <defName>VBGE_Barrack24</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -3227,7 +3227,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack25</defName>
+    <defName>VBGE_Barrack25</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -3290,7 +3290,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack26</defName>
+    <defName>VBGE_Barrack26</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
@@ -3334,7 +3334,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack27</defName>
+    <defName>VBGE_Barrack27</defName>
     <layouts>
       <li>
         <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
@@ -3369,7 +3369,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack28</defName>
+    <defName>VBGE_Barrack28</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -3404,7 +3404,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack29</defName>
+    <defName>VBGE_Barrack29</defName>
     <layouts>
       <li>
         <li>CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
@@ -3439,7 +3439,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack30</defName>
+    <defName>VBGE_Barrack30</defName>
     <layouts>
       <li>
         <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
@@ -3483,7 +3483,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack31</defName>
+    <defName>VBGE_Barrack31</defName>
     <layouts>
       <li>
         <li>TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
@@ -3518,7 +3518,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack32</defName>
+    <defName>VBGE_Barrack32</defName>
     <layouts>
       <li>
         <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
@@ -3562,7 +3562,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack33</defName>
+    <defName>VBGE_Barrack33</defName>
     <layouts>
       <li>
         <li>.,.,.,TileMarble,.,.,.</li>
@@ -3618,7 +3618,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack34</defName>
+    <defName>VBGE_Barrack34</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,PavedTile,.,.,.</li>
@@ -3665,7 +3665,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack35</defName>
+    <defName>VBGE_Barrack35</defName>
     <layouts>
       <li>
         <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
@@ -3700,7 +3700,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack36</defName>
+    <defName>VBGE_Barrack36</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
@@ -3735,7 +3735,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack37</defName>
+    <defName>VBGE_Barrack37</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
@@ -3785,7 +3785,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack38</defName>
+    <defName>VBGE_Barrack38</defName>
     <layouts>
       <li>
         <li>.,.,TileMarble,.,TileMarble,.,.</li>
@@ -3820,7 +3820,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack39</defName>
+    <defName>VBGE_Barrack39</defName>
     <layouts>
       <li>
         <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
@@ -3861,7 +3861,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Barrack40</defName>
+    <defName>VBGE_Barrack40</defName>
     <layouts>
       <li>
         <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>

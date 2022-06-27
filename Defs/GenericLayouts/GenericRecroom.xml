@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericRecroom -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_RecroomTV</defName>
+    <defName>VBGE_RecroomTV</defName>
     <layouts>
       <li>
         <li>.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
@@ -82,7 +82,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom2</defName>
+    <defName>VBGE_Recroom2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -146,7 +146,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom3</defName>
+    <defName>VBGE_Recroom3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -196,7 +196,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom4</defName>
+    <defName>VBGE_Recroom4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -264,7 +264,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom5</defName>
+    <defName>VBGE_Recroom5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -377,7 +377,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom6</defName>
+    <defName>VBGE_Recroom6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -430,7 +430,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom7</defName>
+    <defName>VBGE_Recroom7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -482,7 +482,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom8</defName>
+    <defName>VBGE_Recroom8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -575,7 +575,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom9</defName>
+    <defName>VBGE_Recroom9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -627,7 +627,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Recroom10</defName>
+    <defName>VBGE_Recroom10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -691,7 +691,7 @@
   </KCSG.StructureLayoutDef>
   <!-- Need royalty -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_WatchRoom1</defName>
+    <defName>VBGE_WatchRoom1</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.,.,CarpetFineBurgundy,.,.,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>

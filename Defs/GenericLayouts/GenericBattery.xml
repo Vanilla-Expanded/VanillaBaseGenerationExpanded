@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericBattery -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries1</defName>
+    <defName>VBGE_Batteries1</defName>
     <layouts>
       <li>
         <li>.,.,.,Concrete,.,.,.</li>
@@ -37,7 +37,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries2</defName>
+    <defName>VBGE_Batteries2</defName>
     <layouts>
       <li>
         <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
@@ -63,7 +63,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries3</defName>
+    <defName>VBGE_Batteries3</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete</li>
@@ -89,7 +89,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries4</defName>
+    <defName>VBGE_Batteries4</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -115,7 +115,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries5</defName>
+    <defName>VBGE_Batteries5</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete</li>
@@ -141,7 +141,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries6</defName>
+    <defName>VBGE_Batteries6</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -167,7 +167,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries7</defName>
+    <defName>VBGE_Batteries7</defName>
     <layouts>
       <li>
         <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
@@ -193,7 +193,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Batteries8</defName>
+    <defName>VBGE_Batteries8</defName>
     <layouts>
       <li>
         <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>

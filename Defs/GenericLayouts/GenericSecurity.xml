@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericSecurity -->
   <KCSG.StructureLayoutDef>
-    <defName>VFESMortarsShellsStock</defName>
+    <defName>VBGEMortarsShellsStock</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -66,7 +66,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFESMortarTurretShellsStock</defName>
+    <defName>VBGEMortarTurretShellsStock</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -118,7 +118,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFESDoubleTurrets</defName>
+    <defName>VBGEDoubleTurrets</defName>
     <layouts>
       <li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.</li>
@@ -133,7 +133,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFESMortarShells</defName>
+    <defName>VBGEMortarShells</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -177,7 +177,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TurretComplex</defName>
+    <defName>VBGE_TurretComplex</defName>
     <layouts>
       <li>
         <li>.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
@@ -191,7 +191,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_TurretComplex2</defName>
+    <defName>VBGE_TurretComplex2</defName>
     <layouts>
       <li>
         <li>Barricade_Steel,Barricade_Steel,Barricade_Steel,.,.,.,.,.</li>
@@ -209,7 +209,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_MortarAndStock</defName>
+    <defName>VBGE_MortarAndStock</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -281,7 +281,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_MortarArray</defName>
+    <defName>VBGE_MortarArray</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -357,7 +357,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_MortarArray2</defName>
+    <defName>VBGE_MortarArray2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -409,7 +409,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_MortarArray3</defName>
+    <defName>VBGE_MortarArray3</defName>
     <layouts>
       <li>
         <li>.,Shell_HighExplosive,Shell_HighExplosive,.,.,.,.,.,.,.,.,.</li>
@@ -445,7 +445,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_MortarArray4</defName>
+    <defName>VBGE_MortarArray4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -485,7 +485,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SingleTurret</defName>
+    <defName>VBGE_SingleTurret</defName>
     <layouts>
       <li>
         <li>.,.,Uranium,.</li>

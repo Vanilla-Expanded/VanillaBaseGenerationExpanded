@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericProduction -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SmithySmelter</defName>
+    <defName>VBGE_SmithySmelter</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -70,7 +70,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Brewery</defName>
+    <defName>VBGE_Brewery</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -123,7 +123,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_DeepDrills</defName>
+    <defName>VBGE_DeepDrills</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -158,7 +158,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChikenPen</defName>
+    <defName>VBGE_ChikenPen</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -221,7 +221,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ResearchRoom</defName>
+    <defName>VBGE_ResearchRoom</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -265,7 +265,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SmithySmelter2</defName>
+    <defName>VBGE_SmithySmelter2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -353,7 +353,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Brewery2</defName>
+    <defName>VBGE_Brewery2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -409,7 +409,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Brewery3</defName>
+    <defName>VBGE_Brewery3</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
@@ -441,7 +441,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GeneralProduction</defName>
+    <defName>VBGE_GeneralProduction</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -500,8 +500,20 @@
       <li>GenericProduction</li>
     </tags>
   </KCSG.StructureLayoutDef>
+  <KCSG.SymbolDef>
+    <defName>VBGE_Corpse_Deer</defName>
+    <pawnKindDef>Deer</pawnKindDef>
+    <numberToSpawn>1</numberToSpawn>
+    <spawnDead>true</spawnDead>
+  </KCSG.SymbolDef>
+  <KCSG.SymbolDef>
+    <defName>VBGE_Corpse_Iguana</defName>
+    <pawnKindDef>Iguana</pawnKindDef>
+    <numberToSpawn>1</numberToSpawn>
+    <spawnDead>true</spawnDead>
+  </KCSG.SymbolDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericProduction1</defName>
+    <defName>VBGE_GenericProduction1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -516,8 +528,8 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,PsychoidLeaves,PsychoidLeaves,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,MealSimple,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,Meat_Cat,Meat_Cat,Corpse_Deer,MealSimple,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,Corpse_Deer,Corpse_Iguana,Meat_Cat,MealSimple,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,Meat_Cat,Meat_Cat,VBGE_Corpse_Deer,MealSimple,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,VBGE_Corpse_Deer,VBGE_Corpse_Iguana,Meat_Cat,MealSimple,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -594,7 +606,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Brewery4</defName>
+    <defName>VBGE_Brewery4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -655,14 +667,20 @@
       <li>GenericProduction</li>
     </tags>
   </KCSG.StructureLayoutDef>
+  <KCSG.SymbolDef>
+    <defName>VBGE_Corpse_Gazelle</defName>
+    <pawnKindDef>Gazelle</pawnKindDef>
+    <numberToSpawn>1</numberToSpawn>
+    <spawnDead>true</spawnDead>
+  </KCSG.SymbolDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production1</defName>
+    <defName>VBGE_Production1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Meat_Gazelle,.,Meat_Cow,Meat_Cow,.,.,.,.,.,.,Corpse_Gazelle,.,.,.,Corpse_Gazelle,.</li>
-        <li>.,Meat_Gazelle,.,Meat_Cow,Meat_Cow,.,.,.,.,.,.,.,Corpse_Gazelle,.,Corpse_Gazelle,Corpse_Gazelle,.</li>
-        <li>.,Meat_Gazelle,.,.,Meat_Cow,.,.,.,.,.,.,.,.,.,Corpse_Gazelle,Corpse_Gazelle,.</li>
+        <li>.,Meat_Gazelle,.,Meat_Cow,Meat_Cow,.,.,.,.,.,.,VBGE_Corpse_Gazelle,.,.,.,VBGE_Corpse_Gazelle,.</li>
+        <li>.,Meat_Gazelle,.,Meat_Cow,Meat_Cow,.,.,.,.,.,.,.,VBGE_Corpse_Gazelle,.,VBGE_Corpse_Gazelle,VBGE_Corpse_Gazelle,.</li>
+        <li>.,Meat_Gazelle,.,.,Meat_Cow,.,.,.,.,.,.,.,.,.,VBGE_Corpse_Gazelle,VBGE_Corpse_Gazelle,.</li>
         <li>.,Meat_Gazelle,.,.,Meat_Cow,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,Meat_Gazelle,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,Meat_Gazelle,.,.,RawCorn,RawCorn,.,RawCorn,.,.,.,.,.,.,.,.,.</li>
@@ -724,7 +742,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production2</defName>
+    <defName>VBGE_Production2</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -746,7 +764,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production3</defName>
+    <defName>VBGE_Production3</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -777,7 +795,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production4</defName>
+    <defName>VBGE_Production4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -829,7 +847,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production5</defName>
+    <defName>VBGE_Production5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -881,7 +899,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production6</defName>
+    <defName>VBGE_Production6</defName>
     <layouts>
       <li>
         <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
@@ -921,15 +939,21 @@
       <li>GenericProduction</li>
     </tags>
   </KCSG.StructureLayoutDef>
+  <KCSG.SymbolDef>
+    <defName>VBGE_Corpse_Muffalo</defName>
+    <pawnKindDef>Muffalo</pawnKindDef>
+    <numberToSpawn>1</numberToSpawn>
+    <spawnDead>true</spawnDead>
+  </KCSG.SymbolDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production7</defName>
+    <defName>VBGE_Production7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Meat_Muffalo,Corpse_Muffalo,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,Corpse_Muffalo,.,.,.,.,.</li>
-        <li>.,Meat_Muffalo,Corpse_Muffalo,.,Corpse_Muffalo,.,.,.,.,.,.</li>
+        <li>.,Meat_Muffalo,VBGE_Corpse_Muffalo,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,VBGE_Corpse_Muffalo,.,.,.,.,.</li>
+        <li>.,Meat_Muffalo,VBGE_Corpse_Muffalo,.,VBGE_Corpse_Muffalo,.,.,.,.,.,.</li>
         <li>.,Meat_Muffalo,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
@@ -966,7 +990,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production8</defName>
+    <defName>VBGE_Production8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1026,7 +1050,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production9</defName>
+    <defName>VBGE_Production9</defName>
     <layouts>
       <li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -1073,7 +1097,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production10</defName>
+    <defName>VBGE_Production10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1133,7 +1157,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production11</defName>
+    <defName>VBGE_Production11</defName>
     <layouts>
       <li>
         <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
@@ -1174,7 +1198,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production12</defName>
+    <defName>VBGE_Production12</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
@@ -1221,7 +1245,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production13</defName>
+    <defName>VBGE_Production13</defName>
     <layouts>
       <li>
         <li>SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile</li>
@@ -1268,7 +1292,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production14</defName>
+    <defName>VBGE_Production14</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1312,7 +1336,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production15</defName>
+    <defName>VBGE_Production15</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1348,7 +1372,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production16</defName>
+    <defName>VBGE_Production16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1408,7 +1432,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production17</defName>
+    <defName>VBGE_Production17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1468,7 +1492,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production18</defName>
+    <defName>VBGE_Production18</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1528,7 +1552,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production19</defName>
+    <defName>VBGE_Production19</defName>
     <layouts>
       <li>
         <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
@@ -1581,7 +1605,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production20</defName>
+    <defName>VBGE_Production20</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1641,7 +1665,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production21</defName>
+    <defName>VBGE_Production21</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1701,7 +1725,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production22</defName>
+    <defName>VBGE_Production22</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1761,7 +1785,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production23</defName>
+    <defName>VBGE_Production23</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1821,7 +1845,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production24</defName>
+    <defName>VBGE_Production24</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1881,7 +1905,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production25</defName>
+    <defName>VBGE_Production25</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1949,7 +1973,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production26</defName>
+    <defName>VBGE_Production26</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -2017,7 +2041,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production27</defName>
+    <defName>VBGE_Production27</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -2085,7 +2109,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production28</defName>
+    <defName>VBGE_Production28</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -2137,7 +2161,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production29</defName>
+    <defName>VBGE_Production29</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -2189,7 +2213,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production30</defName>
+    <defName>VBGE_Production30</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -2249,7 +2273,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Production31</defName>
+    <defName>VBGE_Production31</defName>
     <layouts>
       <li>
         <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>

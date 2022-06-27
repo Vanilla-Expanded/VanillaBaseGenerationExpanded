@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
   <KCSG.SettlementLayoutDef>
-    <defName>VFES_Outlanders</defName>
+    <defName>VBGE_Outlanders</defName>
     <settlementSize>65,65</settlementSize>
     <centerBuildings>
       <centerSize>50,50</centerSize>

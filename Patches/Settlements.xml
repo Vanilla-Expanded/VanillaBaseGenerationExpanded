@@ -11,7 +11,7 @@
         <modExtensions>
           <li Class="KCSG.CustomGenOption">
             <chooseFromSettlements>
-              <li>VFES_Empire</li>
+              <li>VBGE_Empire</li>
             </chooseFromSettlements>
             <preventBridgeable>true</preventBridgeable>
           </li>
@@ -26,7 +26,7 @@
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
           <chooseFromSettlements>
-            <li>VFES_Tribals</li>
+            <li>VBGE_Tribals</li>
           </chooseFromSettlements>
           <preventBridgeable>true</preventBridgeable>
         </li>
@@ -40,7 +40,7 @@
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
           <chooseFromSettlements>
-            <li>VFES_Outlanders</li>
+            <li>VBGE_Outlanders</li>
           </chooseFromSettlements>
           <preventBridgeable>true</preventBridgeable>
         </li>
@@ -54,8 +54,8 @@
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
           <chooseFromSettlements>
-            <li>VFES_Pirates</li>
-            <li>VFES_Outlanders</li>
+            <li>VBGE_Pirates</li>
+            <li>VBGE_Outlanders</li>
           </chooseFromSettlements>
           <preventBridgeable>true</preventBridgeable>
           <symbolResolvers>

@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericHospital -->
   <KCSG.StructureLayoutDef>
-    <defName>VFESHospitalStock</defName>
+    <defName>VBGEHospitalStock</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -61,7 +61,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_HospitalSimple</defName>
+    <defName>VBGE_HospitalSimple</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,SterileTile,.,.,.,.,.,.</li>
@@ -121,7 +121,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_HospitalSmall</defName>
+    <defName>VBGE_HospitalSmall</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -186,7 +186,7 @@
     </roofGrid>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital1</defName>
+    <defName>VBGE_Hospital1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -249,7 +249,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital2</defName>
+    <defName>VBGE_Hospital2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -301,7 +301,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital3</defName>
+    <defName>VBGE_Hospital3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -353,7 +353,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital4</defName>
+    <defName>VBGE_Hospital4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -405,7 +405,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital5</defName>
+    <defName>VBGE_Hospital5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -457,7 +457,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital6</defName>
+    <defName>VBGE_Hospital6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -509,7 +509,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital7</defName>
+    <defName>VBGE_Hospital7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -561,7 +561,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital8</defName>
+    <defName>VBGE_Hospital8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -613,7 +613,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Hospital9</defName>
+    <defName>VBGE_Hospital9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>

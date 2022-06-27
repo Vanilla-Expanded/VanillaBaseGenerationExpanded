@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericPower -->
   <KCSG.StructureLayoutDef>
-    <defName>VFESSolarPanelTurrets</defName>
+    <defName>VBGESolarPanelTurrets</defName>
     <layouts>
       <li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
@@ -43,7 +43,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFESChemfuelGeneratorsChemfuelStock</defName>
+    <defName>VBGEChemfuelGeneratorsChemfuelStock</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -88,7 +88,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFESWoodGeneratorWoodStock</defName>
+    <defName>VBGEWoodGeneratorWoodStock</defName>
     <layouts>
       <li>
         <li>WoodLog,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -152,7 +152,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFESQuadSolar</defName>
+    <defName>VBGEQuadSolar</defName>
     <layouts>
       <li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
@@ -173,7 +173,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChemfuelPowerRefinery</defName>
+    <defName>VBGE_ChemfuelPowerRefinery</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -237,7 +237,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SolarBatteries</defName>
+    <defName>VBGE_SolarBatteries</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,Concrete,.,.,.,.,.,.,.</li>
@@ -270,7 +270,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SolarArray</defName>
+    <defName>VBGE_SolarArray</defName>
     <layouts>
       <li>
         <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
@@ -314,7 +314,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_SolarBatteries2</defName>
+    <defName>VBGE_SolarBatteries2</defName>
     <layouts>
       <li>
         <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,TileMarble</li>
@@ -377,7 +377,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChemfuelGeneratorsAndFuel</defName>
+    <defName>VBGE_ChemfuelGeneratorsAndFuel</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -475,7 +475,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChemfuelGeneratorsAndFuel2</defName>
+    <defName>VBGE_ChemfuelGeneratorsAndFuel2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -523,7 +523,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChemfuelGeneratorsAndFuel3</defName>
+    <defName>VBGE_ChemfuelGeneratorsAndFuel3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -575,7 +575,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GeothermalGenerator</defName>
+    <defName>VBGE_GeothermalGenerator</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -605,7 +605,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GeothermalGenerator2</defName>
+    <defName>VBGE_GeothermalGenerator2</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -657,7 +657,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GeothermalGenerator3</defName>
+    <defName>VBGE_GeothermalGenerator3</defName>
     <layouts>
       <li>
         <li>.,Turret_MiniTurret_Steel,.,.,.,.,.,.,Turret_MiniTurret_Steel,Plant_Grass</li>
@@ -701,7 +701,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Solar1</defName>
+    <defName>VBGE_Solar1</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
@@ -732,7 +732,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Solar2</defName>
+    <defName>VBGE_Solar2</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete</li>
@@ -763,7 +763,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Solar3</defName>
+    <defName>VBGE_Solar3</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
@@ -811,7 +811,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Solar4</defName>
+    <defName>VBGE_Solar4</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
@@ -856,7 +856,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Solar5</defName>
+    <defName>VBGE_Solar5</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -957,7 +957,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChemGen1</defName>
+    <defName>VBGE_ChemGen1</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete</li>
@@ -989,7 +989,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChemGen2</defName>
+    <defName>VBGE_ChemGen2</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
@@ -1024,7 +1024,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ChemGen3</defName>
+    <defName>VBGE_ChemGen3</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
@@ -1092,7 +1092,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_WoodGen1</defName>
+    <defName>VBGE_WoodGen1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1144,7 +1144,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_WoodGen2</defName>
+    <defName>VBGE_WoodGen2</defName>
     <layouts>
       <li>
         <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
@@ -1185,7 +1185,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_WoodGen3</defName>
+    <defName>VBGE_WoodGen3</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -1220,7 +1220,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_WoodGen4</defName>
+    <defName>VBGE_WoodGen4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -1268,7 +1268,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Wind1</defName>
+    <defName>VBGE_Wind1</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -1317,7 +1317,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Wind2</defName>
+    <defName>VBGE_Wind2</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
@@ -1366,7 +1366,7 @@
     <needRoofClearance>true</needRoofClearance>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericPowerChemfuel1</defName>
+    <defName>VBGE_GenericPowerChemfuel1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>

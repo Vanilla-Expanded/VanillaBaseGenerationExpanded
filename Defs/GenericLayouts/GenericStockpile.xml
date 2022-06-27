@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericStockpile -->
   <KCSG.StructureLayoutDef>
-    <defName>VFESSmallStockpile1</defName>
+    <defName>VBGESmallStockpile1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,Concrete,.,.,.</li>
@@ -38,7 +38,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_ProtectedStockpile</defName>
+    <defName>VBGE_ProtectedStockpile</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -103,7 +103,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile1</defName>
+    <defName>VBGE_Stockpile1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -163,7 +163,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile2</defName>
+    <defName>VBGE_Stockpile2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -231,7 +231,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile3</defName>
+    <defName>VBGE_Stockpile3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -299,7 +299,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile4</defName>
+    <defName>VBGE_Stockpile4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -351,7 +351,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile5</defName>
+    <defName>VBGE_Stockpile5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -403,7 +403,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile6</defName>
+    <defName>VBGE_Stockpile6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -455,7 +455,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile7</defName>
+    <defName>VBGE_Stockpile7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -499,7 +499,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile8</defName>
+    <defName>VBGE_Stockpile8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -543,7 +543,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile9</defName>
+    <defName>VBGE_Stockpile9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -595,7 +595,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile10</defName>
+    <defName>VBGE_Stockpile10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -647,7 +647,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile11</defName>
+    <defName>VBGE_Stockpile11</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -707,7 +707,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile12</defName>
+    <defName>VBGE_Stockpile12</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -767,7 +767,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile13</defName>
+    <defName>VBGE_Stockpile13</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -819,7 +819,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile14</defName>
+    <defName>VBGE_Stockpile14</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -871,7 +871,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile15</defName>
+    <defName>VBGE_Stockpile15</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -931,7 +931,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile16</defName>
+    <defName>VBGE_Stockpile16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -983,7 +983,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile17</defName>
+    <defName>VBGE_Stockpile17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.</li>
@@ -1035,7 +1035,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile18</defName>
+    <defName>VBGE_Stockpile18</defName>
     <layouts>
       <li>
         <li>Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
@@ -1132,7 +1132,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile19</defName>
+    <defName>VBGE_Stockpile19</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -1189,7 +1189,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_Stockpile20</defName>
+    <defName>VBGE_Stockpile20</defName>
     <layouts>
       <li>
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>

@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericKitchen -->
   <KCSG.StructureLayoutDef>
-    <defName>VFESKitchenFreezerSmallDining</defName>
+    <defName>VBGEKitchenFreezerSmallDining</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -50,7 +50,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFESKitchenDining</defName>
+    <defName>VBGEKitchenDining</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -118,7 +118,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock</defName>
+    <defName>VBGE_KitchenAndStock</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -182,7 +182,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock2</defName>
+    <defName>VBGE_KitchenAndStock2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
@@ -275,7 +275,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock3</defName>
+    <defName>VBGE_KitchenAndStock3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -335,7 +335,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock4</defName>
+    <defName>VBGE_KitchenAndStock4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -402,14 +402,20 @@
       <li>GenericKitchen</li>
     </tags>
   </KCSG.StructureLayoutDef>
+  <KCSG.SymbolDef>
+    <defName>VBGE_Corpse_Elk</defName>
+    <pawnKindDef>Elk</pawnKindDef>
+    <numberToSpawn>1</numberToSpawn>
+    <spawnDead>true</spawnDead>
+  </KCSG.SymbolDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock5</defName>
+    <defName>VBGE_KitchenAndStock5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,Corpse_Elk,.,.,.,.,RawRice,RawRice,RawRice,RawRice,.</li>
-        <li>.,.,.,.,.,.,.,.,Corpse_Elk,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,Corpse_Elk,.,.,.,.,Meat_Deer,Meat_Deer,Meat_Deer,.,.</li>
+        <li>.,.,.,.,.,.,.,VBGE_Corpse_Elk,.,.,.,.,RawRice,RawRice,RawRice,RawRice,.</li>
+        <li>.,.,.,.,.,.,.,.,VBGE_Corpse_Elk,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,VBGE_Corpse_Elk,.,.,.,.,Meat_Deer,Meat_Deer,Meat_Deer,.,.</li>
         <li>.,MealFine,.,.,.,.,.,.,.,.,.,.,Meat_Deer,Meat_Deer,.,Meat_Deer,.</li>
         <li>.,MealFine,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,MealFine,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -455,7 +461,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock6</defName>
+    <defName>VBGE_KitchenAndStock6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -523,7 +529,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock7</defName>
+    <defName>VBGE_KitchenAndStock7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -591,7 +597,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_KitchenAndStock8</defName>
+    <defName>VBGE_KitchenAndStock8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>

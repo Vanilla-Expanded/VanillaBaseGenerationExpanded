@@ -2,7 +2,7 @@
 <Defs>
   <!-- GenericAnimal -->
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal1</defName>
+    <defName>VBGE_GenericAnimal1</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -75,7 +75,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal2</defName>
+    <defName>VBGE_GenericAnimal2</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -148,7 +148,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal3</defName>
+    <defName>VBGE_GenericAnimal3</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -221,7 +221,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal4</defName>
+    <defName>VBGE_GenericAnimal4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -294,7 +294,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal5</defName>
+    <defName>VBGE_GenericAnimal5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -367,7 +367,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal6</defName>
+    <defName>VBGE_GenericAnimal6</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -440,7 +440,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal7</defName>
+    <defName>VBGE_GenericAnimal7</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -513,7 +513,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal8</defName>
+    <defName>VBGE_GenericAnimal8</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -586,7 +586,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal9</defName>
+    <defName>VBGE_GenericAnimal9</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -659,7 +659,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal10</defName>
+    <defName>VBGE_GenericAnimal10</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -706,7 +706,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal11</defName>
+    <defName>VBGE_GenericAnimal11</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -779,7 +779,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal12</defName>
+    <defName>VBGE_GenericAnimal12</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -852,7 +852,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal13</defName>
+    <defName>VBGE_GenericAnimal13</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -925,7 +925,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal14</defName>
+    <defName>VBGE_GenericAnimal14</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.</li>
@@ -998,7 +998,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal15</defName>
+    <defName>VBGE_GenericAnimal15</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1071,7 +1071,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal16</defName>
+    <defName>VBGE_GenericAnimal16</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -1144,7 +1144,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal17</defName>
+    <defName>VBGE_GenericAnimal17</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1217,7 +1217,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal18</defName>
+    <defName>VBGE_GenericAnimal18</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1277,7 +1277,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal19</defName>
+    <defName>VBGE_GenericAnimal19</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1337,7 +1337,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal20</defName>
+    <defName>VBGE_GenericAnimal20</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1397,7 +1397,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal21</defName>
+    <defName>VBGE_GenericAnimal21</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1457,7 +1457,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal22</defName>
+    <defName>VBGE_GenericAnimal22</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1530,7 +1530,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal23</defName>
+    <defName>VBGE_GenericAnimal23</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1616,7 +1616,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal24</defName>
+    <defName>VBGE_GenericAnimal24</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1676,7 +1676,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal25</defName>
+    <defName>VBGE_GenericAnimal25</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1736,7 +1736,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal26</defName>
+    <defName>VBGE_GenericAnimal26</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1796,7 +1796,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal27</defName>
+    <defName>VBGE_GenericAnimal27</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1889,7 +1889,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal28</defName>
+    <defName>VBGE_GenericAnimal28</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1982,7 +1982,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal29</defName>
+    <defName>VBGE_GenericAnimal29</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -2080,7 +2080,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VFES_GenericAnimal30</defName>
+    <defName>VBGE_GenericAnimal30</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
