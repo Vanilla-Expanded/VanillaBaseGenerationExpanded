@@ -75,6 +75,7 @@
     </centerBuildings>
     <roadOptions>
       <addMainRoad>true</addMainRoad>
+      <mainRoadLinkToEdges>true</mainRoadLinkToEdges>
       <mainRoadCount>3</mainRoadCount>
       <mainRoadDef>PavedTile</mainRoadDef>
       <mainRoadWidth>3</mainRoadWidth>

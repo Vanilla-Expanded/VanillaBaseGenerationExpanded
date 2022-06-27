@@ -10,7 +10,6 @@
       <value>
         <modExtensions>
           <li Class="KCSG.CustomGenOption">
-            <useStructureLayout>false</useStructureLayout>
             <fullClear>false</fullClear>
             <chooseFromSettlements>
               <li>VFES_Empire</li>
@@ -26,7 +25,6 @@
     <value>
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
-          <useStructureLayout>false</useStructureLayout>
           <fullClear>false</fullClear>
           <chooseFromSettlements>
             <li>VFES_Tribals</li>
@@ -37,15 +35,37 @@
   </Operation>
 
   <Operation Class="PatchOperationAdd">
-    <xpath>/Defs/FactionDef[@Name="OutlanderFactionBase" or @Name="PirateBandBase"]</xpath>
+    <xpath>/Defs/FactionDef[@Name="OutlanderFactionBase"]</xpath>
     <value>
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
-          <useStructureLayout>false</useStructureLayout>
           <fullClear>false</fullClear>
           <chooseFromSettlements>
             <li>VFES_Outlanders</li>
           </chooseFromSettlements>
+        </li>
+      </modExtensions>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[@Name="PirateBandBase"]</xpath>
+    <value>
+      <modExtensions>
+        <li Class="KCSG.CustomGenOption">
+          <fullClear>false</fullClear>
+          <chooseFromSettlements>
+            <li>VFES_Outlanders</li>
+          </chooseFromSettlements>
+          <symbolResolvers>
+            <li>kcsg_randomdamage</li>
+            <li>kcsg_randomfilth</li>
+          </symbolResolvers>
+          <filthTypes>
+            <li>Filth_Dirt</li>
+            <li>Filth_Trash</li>
+            <li>Filth_RubbleBuilding</li>
+          </filthTypes>
         </li>
       </modExtensions>
     </value>
