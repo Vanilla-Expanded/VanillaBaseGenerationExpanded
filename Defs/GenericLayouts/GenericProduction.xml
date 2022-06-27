@@ -2248,4 +2248,48 @@
       <li>GenericProduction</li>
     </tags>
   </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VFES_Production31</defName>
+    <layouts>
+      <li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      </li>
+      <li>
+        <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Door_Steel,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,.,TableMachining_South,.,.,.,.,.,.,TableMachining_South,.,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,.,.,.,.,.,.,.,.,.,.,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,ElectricTailoringBench_WoodLog_West,.,.,Wall_BlocksMarble,Shelf_Steel_North,.,Wall_BlocksMarble,.,.,ElectricTailoringBench_WoodLog_East,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,.,.,.,.,Wall_BlocksMarble,Wall_BlocksMarble,ToolCabinet_West,.,.,.,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,.,.,.,ToolCabinet_East,Wall_BlocksMarble,Wall_BlocksMarble,.,.,.,.,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,TableSculpting_WoodLog_West,.,.,Wall_BlocksMarble,.,Shelf_Steel_South,Wall_BlocksMarble,.,.,ElectricSmelter_East,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,.,.,.,.,.,.,.,.,.,.,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,.,.,DrugLab_WoodLog_North,.,.,.,.,DrugLab_WoodLog_North,.,.,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
+    </roofGrid>
+    <tags>
+      <li>GenericProduction</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
 </Defs>

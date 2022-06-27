@@ -135,6 +135,35 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
+    <defName>VFES_Grave4</defName>
+    <layouts>
+      <li>
+        <li>FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone</li>
+        <li>FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FlagstoneSandstone,FlagstoneSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone</li>
+        <li>FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FlagstoneSandstone,FlagstoneSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone</li>
+        <li>FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FlagstoneSandstone,FlagstoneSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone</li>
+        <li>FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone,FineTileSandstone</li>
+      </li>
+      <li>
+        <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Column_Jade,.,.,Column_Jade,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Sarcophagus_BlocksMarble_East,.,Wall_BlocksSandstone,Wall_BlocksSandstone,.,.,Wall_BlocksSandstone,Wall_BlocksSandstone,Sarcophagus_BlocksMarble_East,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,.,.,.,Door_Steel,.,.,Door_Steel,.,.,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Sarcophagus_BlocksMarble_East,.,Wall_BlocksSandstone,Wall_BlocksSandstone,.,.,Wall_BlocksSandstone,Wall_BlocksSandstone,Sarcophagus_BlocksMarble_East,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Column_BlocksSandstone,.,.,Column_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>1,1,1,1,1,.,.,1,1,1,1,1</li>
+      <li>1,1,1,1,1,.,.,1,1,1,1,1</li>
+      <li>1,1,1,1,1,.,.,1,1,1,1,1</li>
+      <li>1,1,1,1,1,.,.,1,1,1,1,1</li>
+      <li>1,1,1,1,1,.,.,1,1,1,1,1</li>
+    </roofGrid>
+    <tags>
+      <li>GenericGrave</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
     <defName>VFES_CasketArray1</defName>
     <layouts>
       <li>
