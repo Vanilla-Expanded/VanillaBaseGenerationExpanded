@@ -3,7 +3,7 @@
   <KCSG.SettlementLayoutDef>
     <defName>VBGE_Empire</defName>
     <settlementSize>72,72</settlementSize>
-    <avoidBridgeable>false</avoidBridgeable>
+    <avoidBridgeable>true</avoidBridgeable>
     <avoidMountains>false</avoidMountains>
     <centerBuildings>
       <centerSize>72,72</centerSize>
@@ -11,43 +11,43 @@
       <allowedStructures>
         <!-- Generic rooms -->
         <li>
-          <count>2~5</count>
+          <count>2~10</count>
           <tag>GenericPower</tag>
         </li>
         <li>
-          <count>1~4</count>
+          <count>1~8</count>
           <tag>GenericBattery</tag>
         </li>
         <li>
-          <count>1~5</count>
+          <count>1~10</count>
           <tag>GenericSecurity</tag>
         </li>
         <li>
-          <count>1~1</count>
+          <count>1~2</count>
           <tag>GenericPodLauncher</tag>
         </li>
         <li>
-          <count>1~1</count>
+          <count>1~2</count>
           <tag>GenericKitchen</tag>
         </li>
         <li>
-          <count>2~5</count>
+          <count>2~15</count>
           <tag>GenericStockpile</tag>
         </li>
         <li>
-          <count>5~20</count>
+          <count>5~40</count>
           <tag>GenericBedroom</tag>
         </li>
         <li>
-          <count>1~2</count>
+          <count>1~4</count>
           <tag>GenericPrison</tag>
         </li>
         <li>
-          <count>0~2</count>
+          <count>0~4</count>
           <tag>GenericGrave</tag>
         </li>
         <li>
-          <count>1~1</count>
+          <count>1~4</count>
           <tag>GenericRecroom</tag>
         </li>
         <!-- Empire specific rooms -->
@@ -68,14 +68,13 @@
           <tag>EmpireThrone</tag>
         </li>
         <li>
-          <count>0~1</count>
+          <count>0~2</count>
           <tag>EmpireStockpile</tag>
         </li>
       </allowedStructures>
     </centerBuildings>
     <roadOptions>
       <addMainRoad>true</addMainRoad>
-      <mainRoadLinkToEdges>true</mainRoadLinkToEdges>
       <mainRoadCount>3</mainRoadCount>
       <mainRoadDef>PavedTile</mainRoadDef>
       <mainRoadWidth>3</mainRoadWidth>
