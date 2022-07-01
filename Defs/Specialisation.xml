@@ -505,7 +505,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VGBE_Production4</defName>
+    <defName>VGBE_BProduction4</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -552,26 +552,26 @@
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
       </li>
       <li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,PowerConduit,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -601,7 +601,7 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
-    <defName>VGBE_Production5</defName>
+    <defName>VGBE_BProduction5</defName>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -628,32 +628,32 @@
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,.,.,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Battery_East,.,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Battery_East,.,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,.,Wall_Steel,StandingLamp,Wall_Steel,.,.,.,.,.,.,Wall_Steel,StandingLamp,Wall_Steel,.,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,.,.,.,Wall_Steel,Wall_Steel,VFEPD_DecalLineDouble_North,Wall_Steel,Wall_Steel,VFEPD_DecalLineDouble_North,Wall_Steel,Wall_Steel,.,.,.,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,PowerConduit,VFEPD_ServerRack_South,VFEPD_ServerRack_South,PowerConduit,VFEPD_ServerRack_South,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,VFEPD_ServerRack_South,VFEPD_ServerRack_South,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,.,SimpleResearchBench_Steel_South,.,.,.,.,SimpleResearchBench_Steel_South,.,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,HiTechResearchBench_Steel_West,DiningChair_Steel_West,.,.,.,.,.,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,StandingLamp,.,Wall_Steel,.,.,Wall_Steel,.,StandingLamp,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,MultiAnalyzer,.,Wall_Steel,.,.,Wall_Steel,MultiAnalyzer,.,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,.,.,Wall_Steel,.,.,Wall_Steel,.,.,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,StandingLamp,.,Wall_Steel,.,.,Wall_Steel,.,StandingLamp,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,HiTechResearchBench_Steel_West,DiningChair_Steel_West,.,.,.,.,.,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,.,SimpleResearchBench_Steel_North,.,.,.,.,SimpleResearchBench_Steel_North,.,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,.,Wall_Steel,StandingLamp,Wall_Steel,.,.,.,.,.,.,Wall_Steel,StandingLamp,Wall_Steel,.,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,.,.,.,Wall_Steel,Wall_Steel,VFEPD_DecalLineDouble_North,Wall_Steel,Wall_Steel,VFEPD_DecalLineDouble_North,Wall_Steel,Wall_Steel,.,.,.,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,.,VFEPD_ServerRack_South,VFEPD_ServerRack_South,.,VFEPD_ServerRack_South,.,.,.,.,.,VFEPD_ServerRack_South,VFEPD_ServerRack_South,.,.,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,.,SimpleResearchBench_Steel_South,.,.,.,.,SimpleResearchBench_Steel_South,.,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,HiTechResearchBench_Steel_West,DiningChair_Steel_West,.,.,.,.,.,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,StandingLamp,.,Wall_Steel,.,.,Wall_Steel,.,StandingLamp,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,MultiAnalyzer,.,Wall_Steel,.,.,Wall_Steel,MultiAnalyzer,.,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,.,.,Wall_Steel,.,.,Wall_Steel,.,.,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,StandingLamp,.,Wall_Steel,.,.,Wall_Steel,.,StandingLamp,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,HiTechResearchBench_Steel_West,DiningChair_Steel_West,.,.,.,.,.,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,.,SimpleResearchBench_Steel_North,.,.,.,.,SimpleResearchBench_Steel_North,.,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Battery_East,.,Wall_Steel,VFEPD_DecalLineDoubleCornerInner_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDouble_South,VFEPD_DecalLineDoubleCornerInner_East,Wall_Steel,Battery_East,.,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,VFEPD_DecalLineDouble_West,.,.,VFEPD_ServerRack_South,.,VFEPD_TripleDisplay_South,StandingLamp,.,.,VFEPD_DecalLineDouble_East,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel</li>
       </li>
       <li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.</li>
-        <li>.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.</li>
         <li>.,.,Heater,.,.,.,.,.,.,VFEPD_DecalWordResearch_North,.,.,.,.,.,.,.,Heater,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,PowerConduit,PowerConduit,.,PowerConduit,.,.,.,.,.,PowerConduit,PowerConduit,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -666,8 +666,8 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,VFEPD_DecalWordResearch_South,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,.,.</li>
-        <li>.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -772,7 +772,7 @@
         <li>Wall_Steel,VFEPD_TripleDisplay_East,.,.,.,.,StandingLamp_Red,.,.,.,.,.,.,StandingLamp_Red,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Battery_North,.,.,.,HiTechResearchBench_Steel_North,.,.,.,.,.,.,.,.,HiTechResearchBench_Steel_North,.,.,.,Battery_North,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,VFEPD_PersonalConsole_South,.,.,VFEPD_PersonalConsole_South,.,.,.,.,.,.,.,Wall_Steel</li>
-        <li>PowerConduit,.,VFEPD_TripleDisplay_South,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,PowerConduit,.,VFEPD_TripleDisplay_South,Wall_Steel</li>
+        <li>.,.,VFEPD_TripleDisplay_South,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,VFEPD_TripleDisplay_South,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_Grass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_Dandelion,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Heater,Plant_Grass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_Bush,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Heater,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Plant_TallGrass,Plant_TallGrass,Plant_Bush,Plant_TallGrass,Plant_TallGrass,Plant_Astragalus,Plant_TallGrass,Plant_Brambles,VFEPD_BerryBush,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,VFEPD_Alocasia,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Wall_Steel,Wall_Steel</li>
@@ -788,25 +788,25 @@
         <li>Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel</li>
       </li>
       <li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>Wall_Steel,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,Plant_TallGrass,.,Plant_TallGrass,Plant_Grass,Plant_Grass,.,Plant_TallGrass,.,Plant_TallGrass,.,Plant_TallGrass,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,Plant_TallGrass,Plant_Grass,Plant_Grass,Plant_Brambles,Plant_Grass,.,Plant_TallGrass,.,Plant_TallGrass,.,.,Plant_TallGrass,Plant_TallGrass,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_Grass,.,Plant_TallGrass,Plant_Moss,.,.,Plant_Bush,.,Plant_TallGrass,.,PowerConduit</li>
-        <li>PowerConduit,.,Plant_ShrubLow,.,Plant_TallGrass,.,.,Plant_Chokevine,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_Astragalus,.,.,.,Plant_TallGrass,Plant_Dandelion,PowerConduit</li>
-        <li>PowerConduit,.,Plant_TallGrass,Plant_Astragalus,.,.,.,.,Plant_TallGrass,Plant_TallGrass,Plant_Grass,Plant_Bush,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_Bush,Plant_TallGrass,Plant_ShrubLow,PowerConduit</li>
-        <li>PowerConduit,Plant_TallGrass,Plant_TallGrass,.,.,Plant_TallGrass,.,Plant_HealrootWild,.,.,.,.,Plant_Grass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,PowerConduit</li>
-        <li>PowerConduit,Plant_TallGrass,.,Plant_TallGrass,Plant_HealrootWild,Plant_TallGrass,.,Plant_Bush,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_ShrubLow,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_ShrubLow,.,.,.,PowerConduit</li>
-        <li>PowerConduit,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,Plant_Bush,Plant_Clivia,Plant_ShrubLow,Plant_TallGrass,Plant_TallGrass,Plant_Chokevine,.,Plant_TallGrass,Plant_TallGrass,.,Plant_Clivia,Plant_HealrootWild,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,.,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,Plant_ShrubLow,.,Plant_TallGrass,.,PowerConduit</li>
-        <li>PowerConduit,.,.,Plant_TallGrass,.,Plant_TallGrass,Plant_ShrubLow,Plant_TallGrass,Plant_TallGrass,Plant_Brambles,.,.,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,Plant_Moss,Plant_Moss,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,.,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,.,.,.,.,.,Wall_Steel,.,.,.</li>
+        <li>.,.,.,.,Plant_TallGrass,.,Plant_TallGrass,Plant_Grass,Plant_Grass,.,Plant_TallGrass,.,Plant_TallGrass,.,Plant_TallGrass,.,.,.,.,.</li>
+        <li>.,.,.,Plant_TallGrass,Plant_Grass,Plant_Grass,Plant_Brambles,Plant_Grass,.,Plant_TallGrass,.,Plant_TallGrass,.,.,Plant_TallGrass,Plant_TallGrass,.,.,.,.</li>
+        <li>.,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_Grass,.,Plant_TallGrass,Plant_Moss,.,.,Plant_Bush,.,Plant_TallGrass,.,.</li>
+        <li>.,.,Plant_ShrubLow,.,Plant_TallGrass,.,.,Plant_Chokevine,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_Astragalus,.,.,.,Plant_TallGrass,Plant_Dandelion,.</li>
+        <li>.,.,Plant_TallGrass,Plant_Astragalus,.,.,.,.,Plant_TallGrass,Plant_TallGrass,Plant_Grass,Plant_Bush,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_Bush,Plant_TallGrass,Plant_ShrubLow,.</li>
+        <li>.,Plant_TallGrass,Plant_TallGrass,.,.,Plant_TallGrass,.,Plant_HealrootWild,.,.,.,.,Plant_Grass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,.</li>
+        <li>.,Plant_TallGrass,.,Plant_TallGrass,Plant_HealrootWild,Plant_TallGrass,.,Plant_Bush,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_ShrubLow,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_ShrubLow,.,.,.,.</li>
+        <li>.,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,Plant_Bush,Plant_Clivia,Plant_ShrubLow,Plant_TallGrass,Plant_TallGrass,Plant_Chokevine,.,Plant_TallGrass,Plant_TallGrass,.,Plant_Clivia,Plant_HealrootWild,.,.,.</li>
+        <li>.,.,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,.,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,Plant_ShrubLow,.,Plant_TallGrass,.,.</li>
+        <li>.,.,.,Plant_TallGrass,.,Plant_TallGrass,Plant_ShrubLow,Plant_TallGrass,Plant_TallGrass,Plant_Brambles,.,.,Plant_TallGrass,.,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,.,.</li>
+        <li>.,.,.,.,Plant_Moss,Plant_Moss,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,.,Plant_TallGrass,Plant_TallGrass,Plant_TallGrass,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -999,46 +999,46 @@
       <li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,Wall_Steel,Door_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel</li>
-        <li>Wall_Steel,Battery_East,.,.,Wall_Steel,.,.,.,PowerConduit,.,Wall_Steel,Battery_East,.,.,.,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,PowerConduit,.,Wall_Steel,PowerConduit,.,StandingLamp,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,.,.,.,.,Wall_Steel,PowerConduit,.,.,.,VFEPD_SpacerStorage_East,.,.,StandingLamp,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,VFEPD_DecalLineThin_West,.,.,.,StandingLamp,PowerConduit,.,DiningChair_Steel_West,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,Battery_East,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,Battery_East,.,.,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,Wall_Steel,.,.,StandingLamp,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,VFEPD_SpacerStorage_East,.,.,StandingLamp,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,VFEPD_DecalLineThin_West,.,.,.,StandingLamp,.,.,DiningChair_Steel_West,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Sandbags_Cloth,VFEPD_FilthBlood_North,.,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Wall_Steel,Wall_Steel,.,.,VFEPD_DecalWordResearch_East,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,VFEPD_FilthBlood_North,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Turret_MiniTurret_Steel,Door_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,.,VFEPD_FilthBlood_North,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Wall_Steel,Wall_Steel,Shelf_Steel_North,PowerConduit,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,VFEPD_DecalLineThin_West,.,.,.,VFEPD_LargeDecalWordKill_West,.,.,.,PowerConduit,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,VFEPD_FilthBlood_North,.,.,.,VFEPD_DecalLineThin_West,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Wall_Steel,Wall_Steel,.,PowerConduit,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,VFEPD_FilthBlood_North,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Turret_MiniTurret_Steel,Door_Steel,PowerConduit,PowerConduit,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,VFEPD_FilthBlood_North,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Turret_MiniTurret_Steel,Door_Steel,.,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,.,VFEPD_FilthBlood_North,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Wall_Steel,Wall_Steel,Shelf_Steel_North,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,VFEPD_DecalLineThin_West,.,.,.,VFEPD_LargeDecalWordKill_West,.,.,.,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,VFEPD_FilthBlood_North,.,.,.,VFEPD_DecalLineThin_West,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,VFEPD_FilthBlood_North,.,.,.,VFEPD_DecalLineThin_West,.,.,.,StandingLamp,PowerConduit,.,DiningChair_Steel_West,.,VFEPD_DecalWordResearch_East,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,.,.,.,.,Wall_Steel,PowerConduit,.,.,.,.,.,.,StandingLamp,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,Wall_Steel,PowerConduit,.,StandingLamp,.,.,Heater,Wall_Steel,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,VFEPD_FilthBlood_North,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Turret_MiniTurret_Steel,Door_Steel,.,.,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,VFEPD_DecalLineThin_West,.,.,.,Barricade_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,VFEPD_FilthBlood_North,.,.,.,VFEPD_DecalLineThin_West,.,.,.,StandingLamp,.,.,DiningChair_Steel_West,.,VFEPD_DecalWordResearch_East,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,Sandbags_Cloth,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,.,StandingLamp,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,Wall_Steel,.,.,StandingLamp,.,.,Heater,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Battery_East,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,Battery_East,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel</li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,Wall_Steel,Door_Steel,Wall_Steel</li>
       </li>
       <li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,ElectricCrematorium_BlocksLimestone_East,.,.,MultiAnalyzer,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,Table1x2c_Steel_East,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_South,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,Table1x2c_Steel_East,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,MultiAnalyzer,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,PowerConduit</li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,ElectricCrematorium_BlocksLimestone_East,.,.,MultiAnalyzer,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,Table1x2c_Steel_East,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_South,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,Table1x2c_Steel_East,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,MultiAnalyzer,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -1114,14 +1114,14 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.,.,.</li>
         <li>.,.,VFEPD_PowerConverter_East,.,.,.,.,VFEPD_PowerConverter_East,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,.</li>
-        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit,.,.,.,VFEPD_LargeDecalWordResearch_North,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit,StandingLamp,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,.,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_LargeDecalWordResearch_North,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,StandingLamp,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,VFEPD_DecalLineDouble_North,.,Wall_Steel</li>
         <li>Wall_Steel,.,Battery_North,.,.,.,.,.,.,.,Battery_North,.,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,SimpleResearchBench_Steel_West,DiningChair_Steel_West,.,DiningChair_Steel_East,SimpleResearchBench_Steel_East,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,.,PowerConduit,.,StandingLamp,.,.,.,StandingLamp,.,.,.,.,.,StandingLamp,.,.,VFEPD_Lockers_South,.,Wall_Steel</li>
-        <li>Wall_Steel,.,PowerConduit,.,.,.,.,.,.,.,.,DiningChair_Steel_North,.,.,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,StandingLamp,.,.,.,StandingLamp,.,.,.,.,.,StandingLamp,.,.,VFEPD_Lockers_South,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,DiningChair_Steel_North,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,Battery_North,.,SimpleResearchBench_Steel_West,DiningChair_Steel_West,.,DiningChair_Steel_East,.,.,.,.,DiningChair_Steel_West,.,.,VFEPD_Lockers_South,VFEPD_Lockers_South,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,DiningChair_Steel_East,.,Table2x4c_Steel_East,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,DiningChair_Steel_South,.,.,.,.,.,VFEPD_Lockers_South,VFEPD_Lockers_South,.,Wall_Steel</li>
@@ -1133,22 +1133,22 @@
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -1202,11 +1202,11 @@
       </li>
       <li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,Sandbags_Cloth,Barricade_Steel,Barricade_Steel,Sandbags_Cloth</li>
-        <li>Wall_Steel,Wall_Steel,StandingLamp,.,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel,.,.,.,.,Sandbags_Cloth,Turret_Autocannon,PowerConduit,Sandbags_Cloth</li>
-        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>Wall_Steel,.,.,.,.,VFEPD_SpacerContainer_West,.,.,VFEPD_SpacerContainerStack,.,.,Wall_Steel,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>Wall_Steel,.,VFEPD_SpacerContainer_North,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>Wall_Steel,.,.,.,DiningChair_Steel_North,.,.,.,.,.,.,Wall_Steel,Wall_Steel,.,.,.,.,StandingLamp,PowerConduit,.</li>
+        <li>Wall_Steel,Wall_Steel,StandingLamp,.,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel,.,.,.,.,Sandbags_Cloth,Turret_Autocannon,.,Sandbags_Cloth</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,.,.</li>
+        <li>Wall_Steel,.,.,.,.,VFEPD_SpacerContainer_West,.,.,VFEPD_SpacerContainerStack,.,.,Wall_Steel,.,.,.,.,.,.,.,.</li>
+        <li>Wall_Steel,.,VFEPD_SpacerContainer_North,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,.,.</li>
+        <li>Wall_Steel,.,.,.,DiningChair_Steel_North,.,.,.,.,.,.,Wall_Steel,Wall_Steel,.,.,.,.,StandingLamp,.,.</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel,Door_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>Wall_Steel,TubeTelevision_East,.,.,VFEPD_PlanningTable,.,DiningChair_Steel_West,.,.,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,DiningChair_Steel_East,.,.,.,.,.,.,DiningChair_Steel_East,Table1x2c_Steel_North,.,.,.,.,.,.,.,StandingLamp,Wall_Steel</li>
@@ -1223,26 +1223,26 @@
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
       </li>
       <li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1353,7 +1353,7 @@
         <li>.,Wall_Steel,StandingLamp,.,.,.,.,DiningChair_Steel_East,Table1x2c_Steel_East,.,.,.,VFEPD_Generator,.,DiningChair_Steel_South,.,.,StandingLamp,Wall_Steel,VFEPD_SmallExhaust_East</li>
         <li>Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,.,.,.,DiningChair_Steel_East,Table2x2c_Steel,VFEPD_Spices,DiningChair_Steel_West,.,.,.,.,.,.,.,.,Shelf_Steel_South,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,Battery_North,Battery_North,.,.,.,.,.,DiningChair_Steel_West,.,StandingLamp,.,Wall_Steel,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Battery_North,Battery_North,.,.,.,.,.,DiningChair_Steel_West,.,StandingLamp,.,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,VFEPD_Microwave_South,.,DiningChair_Steel_South,.,.,.,.,.,.,.,.,VFEPD_SteelBookshelf_North,.,VFEPD_SteelBookshelf_North,.,Wall_Steel</li>
         <li>Wall_Steel,Heater,Heater,.,.,.,.,.,VFEPD_Desk_Steel_North,.,.,VFEPD_Desk_Steel_North,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_SteelBookshelf_South,Wall_Steel</li>
@@ -1369,20 +1369,20 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,ElectricSmelter_North,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,ElectricSmelter_North,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -1481,18 +1481,18 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.</li>
-        <li>.,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,MineableComponentsIndustrial,.,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,MineableComponentsIndustrial,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -1535,22 +1535,22 @@
       </li>
       <li>
         <li>.,VFEPD_BrickPile_BlocksSlate,VFEPD_Cone,.,.,.,VFEPD_Cone,.</li>
-        <li>.,Wall_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,Plant_TallGrass</li>
-        <li>.,PowerConduit,DeepDrill_South,VFEPD_FilthRubbleRock_North,.,.,PowerConduit,.</li>
-        <li>.,PowerConduit,VFEPD_FilthRubbleRock_North,VFEPD_FilthRubbleRock_North,.,.,PowerConduit,.</li>
-        <li>.,PowerConduit,VFEPD_FilthRubbleRock_North,.,.,.,ChemfuelPoweredGenerator,.</li>
-        <li>.,PowerConduit,.,.,.,VFEPD_FilthRubbleRock_North,.,.</li>
-        <li>PowerConduit,Wall_Steel,VFEPD_BrickPile_BlocksSlate,.,VFEPD_FilthRubbleRock_North,DeepDrill_North,Wall_Steel,VFEPD_BrickPile_BlocksSlate</li>
-        <li>.,PowerConduit,VFEPD_Cone,.,.,VFEPD_FilthRubbleRock_North,VFEPD_Cone,Plant_Grass</li>
+        <li>.,Wall_Steel,.,.,.,.,Wall_Steel,Plant_TallGrass</li>
+        <li>.,.,DeepDrill_South,VFEPD_FilthRubbleRock_North,.,.,.,.</li>
+        <li>.,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthRubbleRock_North,.,.,.,.</li>
+        <li>.,.,VFEPD_FilthRubbleRock_North,.,.,.,ChemfuelPoweredGenerator,.</li>
+        <li>.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.</li>
+        <li>.,Wall_Steel,VFEPD_BrickPile_BlocksSlate,.,VFEPD_FilthRubbleRock_North,DeepDrill_North,Wall_Steel,VFEPD_BrickPile_BlocksSlate</li>
+        <li>.,.,VFEPD_Cone,.,.,VFEPD_FilthRubbleRock_North,VFEPD_Cone,Plant_Grass</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
-        <li>.,PowerConduit,VFEPD_FilthRubbleRock_North,.,.,.,PowerConduit,.</li>
+        <li>.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.</li>
         <li>.,VFEPD_FilthRubbleRock_North,.,.,.,.,VFEPD_PalletBarrelGreen,.</li>
         <li>.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.</li>
         <li>.,TableStonecutter_WoodLog_North,.,.,.,.,.,.</li>
-        <li>.,PowerConduit,.,.,.,.,PowerConduit,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
@@ -1589,30 +1589,30 @@
       <li>
         <li>Wall_Steel,.,.,.,Barricade_Steel,Barricade_Steel,Barricade_Steel,Barricade_Steel,Barricade_Steel,ChemfuelPoweredGenerator,.,.,Wall_Steel</li>
         <li>.,Wall_Steel,.,Plant_Grass,.,.,.,Shelf_Steel_West,.,.,.,Wall_Steel,.</li>
-        <li>.,.,Wall_Steel,Wall_Steel,StandingLamp,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,.,.</li>
+        <li>.,.,Wall_Steel,Wall_Steel,StandingLamp,.,.,.,.,Wall_Steel,Wall_Steel,.,.</li>
         <li>Barricade_Steel,Plant_TreeOak,Wall_Steel,Column_Steel,.,.,.,.,.,Column_Steel,Wall_Steel,VFEPD_ContainerGrey_North,.</li>
-        <li>Barricade_Steel,.,PowerConduit,.,.,DeepDrill_North,VFEPD_SwitchPanel_South,DeepDrill_North,.,StandingLamp,PowerConduit,.,.</li>
-        <li>Barricade_Steel,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit,.,.</li>
-        <li>Barricade_Steel,.,PowerConduit,.,.,.,GroundPenetratingScanner_East,.,.,.,PowerConduit,.,Plant_Grass</li>
-        <li>Barricade_Steel,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit,.,Plant_Grass</li>
-        <li>Barricade_Steel,.,PowerConduit,StandingLamp,.,DeepDrill_South,.,DeepDrill_South,.,.,PowerConduit,.,Shelf_Steel_South</li>
+        <li>Barricade_Steel,.,.,.,.,DeepDrill_North,VFEPD_SwitchPanel_South,DeepDrill_North,.,StandingLamp,.,.,.</li>
+        <li>Barricade_Steel,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>Barricade_Steel,.,.,.,.,.,GroundPenetratingScanner_East,.,.,.,.,.,Plant_Grass</li>
+        <li>Barricade_Steel,.,.,.,.,.,.,.,.,.,.,.,Plant_Grass</li>
+        <li>Barricade_Steel,.,.,StandingLamp,.,DeepDrill_South,.,DeepDrill_South,.,.,.,.,Shelf_Steel_South</li>
         <li>.,.,Wall_Steel,Column_Steel,.,.,.,.,StandingLamp,Column_Steel,Wall_Steel,ChemfuelPoweredGenerator,.</li>
-        <li>PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,.,.</li>
+        <li>.,.,Wall_Steel,Wall_Steel,.,.,.,.,.,Wall_Steel,Wall_Steel,.,.</li>
         <li>.,Wall_Steel,.,.,.,.,.,.,.,.,.,Wall_Steel,.</li>
         <li>Wall_Steel,.,Plant_Brambles,.,VFEPD_ContainerRed_East,.,.,.,.,Plant_Grass,Plant_TallGrass,.,Wall_Steel</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,.,.,.,Shelf_Steel_East,PowerConduit,PowerConduit,.,.</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit,.,.</li>
-        <li>.,.,VFEPD_Cone,.,.,.,.,.,.,.,VFEPD_Cone,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,Shelf_Steel_East,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,VFEPD_Cone,.,.,.,.,.,.,.,VFEPD_Cone,.,.</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit,.,.</li>
-        <li>.,.,PowerConduit,PowerConduit,VFEPD_Cone,.,.,.,VFEPD_Cone,PowerConduit,PowerConduit,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,VFEPD_Cone,.,.,.,.,.,.,.,VFEPD_Cone,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,VFEPD_Cone,.,.,.,VFEPD_Cone,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
@@ -1687,7 +1687,7 @@
         <li>Plant_Grass,Wall_Steel,Shelf_Steel_East,StandingLamp,VFEPD_ConcreteBags,.,Wall_Steel,Plant_TallGrass,Wall_Steel,Shelf_Steel_East,.,StandingLamp,.,Wall_Steel,.,ChemfuelPoweredGenerator,.,Wall_Steel</li>
         <li>Fence_Steel,Wall_Steel,Wall_Steel,.,VFEPD_ConcreteBags,Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel,VFEPD_BrickPile_BlocksSlate,.,Wall_Steel,Wall_Steel,.,.,.,Wall_Steel</li>
         <li>Fence_Steel,.,Wall_Steel,Door_Steel,Door_Steel,Wall_Steel,.,.,.,Wall_Steel,Door_Steel,Door_Steel,Wall_Steel,Plant_Grass,.,ChemfuelPoweredGenerator,.,Wall_Steel</li>
-        <li>Fence_Steel,.,.,.,.,.,.,.,.,.,.,.,Plant_Grass,PowerConduit,.,.,.,Wall_Steel</li>
+        <li>Fence_Steel,.,.,.,.,.,.,.,.,.,.,.,Plant_Grass,.,.,.,.,Wall_Steel</li>
         <li>Fence_Steel,.,.,VFEPD_DecalWordShipping_South,.,.,.,.,.,.,.,VFEPD_DecalWordShipping_South,Column_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Fence_Steel,.,.,.,.,.,.,.,.,Plant_Grass,.,.,StandingLamp,Wall_Steel,.,VFEPD_BrickPile_BlocksSlate,StandingLamp,Wall_Steel</li>
         <li>Fence_Steel,.,.,.,VFEPD_CarDeliverySilver_North,.,.,.,.,.,Plant_TallGrass,.,Stool_Steel_West,Wall_Steel,Shelf_Steel_East,VFEPD_FilthRubbleRock_North,.,Wall_Steel</li>
@@ -1701,23 +1701,23 @@
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.</li>
-        <li>.,PowerConduit,PowerConduit,.,.,PowerConduit,PowerConduit,.,PowerConduit,PowerConduit,.,.,PowerConduit,PowerConduit,.,.,.,.</li>
-        <li>.,PowerConduit,.,.,.,.,PowerConduit,.,PowerConduit,.,.,.,.,PowerConduit,.,.,.,.</li>
-        <li>.,PowerConduit,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,PowerConduit,.,.,.,.</li>
-        <li>.,PowerConduit,PowerConduit,.,.,PowerConduit,PowerConduit,.,PowerConduit,PowerConduit,.,.,PowerConduit,PowerConduit,.,.,.,.</li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -1769,42 +1769,42 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
+        <li>.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>.,.,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp,Wall_Steel</li>
         <li>.,.,Wall_Steel,.,Shelf_Steel_South,.,Shelf_Steel_South,.,Shelf_Steel_South,.,Shelf_Steel_South,.,Shelf_Steel_South,.,.,.,.,.,Wall_Steel</li>
         <li>StandingLamp,.,Wall_Steel,Shelf_Steel_North,.,Shelf_Steel_North,.,Shelf_Steel_North,.,Shelf_Steel_North,.,Shelf_Steel_North,.,.,.,Shelf_Steel_West,.,.,Wall_Steel</li>
         <li>.,.,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_East,.,Wall_Steel</li>
         <li>Sandbags_Cloth,.,Wall_Steel,StandingLamp,.,.,VFEPD_WarehouseShelfEmpty_South,.,VFEPD_WarehouseShelfEmpty_South,.,VFEPD_WarehouseShelfEmpty_South,.,.,.,.,Shelf_Steel_West,.,.,Wall_Steel</li>
         <li>Sandbags_Cloth,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,Shelf_Steel_East,.,Wall_Steel</li>
-        <li>Sandbags_Cloth,.,.,PowerConduit,.,.,.,PowerConduit,.,.,.,.,Wall_Steel,.,.,Shelf_Steel_West,.,.,Wall_Steel</li>
-        <li>Sandbags_Cloth,.,.,PowerConduit,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,PowerConduit,VFEPD_FilthMachineBits_North,.,.,.,Door_Steel,.,.,.,Shelf_Steel_East,.,Wall_Steel</li>
+        <li>Sandbags_Cloth,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,Shelf_Steel_West,.,.,Wall_Steel</li>
+        <li>Sandbags_Cloth,.,.,.,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthMachineBits_North,.,.,.,Door_Steel,.,.,.,Shelf_Steel_East,.,Wall_Steel</li>
         <li>Barricade_Steel,.,VFEPD_FilthMachineBits_North,DeepDrill_South,.,.,VFEPD_FilthMachineBits_North,DeepDrill_South,.,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel</li>
         <li>Barricade_Steel,.,.,Stool_Steel_North,.,.,VFEPD_FilthMachineBits_North,.,VFEPD_FilthRubbleRock_North,.,StandingLamp,.,Wall_Steel,Wall_Steel,.,.,.,.,Wall_Steel</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,StandingLamp,.,.,VFEPD_WarehouseShelfEmpty_South,Wall_Steel</li>
         <li>.,.,.,.,.,.,.,.,.,DiningChair_Steel_West,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
-        <li>.,.,VFEPD_FilthRubbleRock_North,.,.,.,VFEPD_FilthMachineBits_North,.,.,.,.,.,.,.,PowerConduit,.,.,.,.</li>
-        <li>.,.,VFEPD_FilthMachineBits_North,DeepDrill_North,VFEPD_FilthMachineBits_North,Stool_Steel_North,.,DeepDrill_North,.,.,VFEPD_PalletBoxes,.,.,.,PowerConduit,StandingLamp,.,.,Sandbags_Cloth</li>
-        <li>Barricade_Steel,.,.,PowerConduit,.,.,.,PowerConduit,VFEPD_FilthMachineBits_North,.,.,.,VFEPD_BoxLarge_South,.,PowerConduit,.,.,.,Sandbags_Cloth</li>
-        <li>Barricade_Steel,.,.,PowerConduit,.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit,.,Sandbags_Cloth,.,Sandbags_Cloth</li>
-        <li>Sandbags_Cloth,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
+        <li>.,.,VFEPD_FilthRubbleRock_North,.,.,.,VFEPD_FilthMachineBits_North,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,VFEPD_FilthMachineBits_North,DeepDrill_North,VFEPD_FilthMachineBits_North,Stool_Steel_North,.,DeepDrill_North,.,.,VFEPD_PalletBoxes,.,.,.,.,StandingLamp,.,.,Sandbags_Cloth</li>
+        <li>Barricade_Steel,.,.,.,.,.,.,.,VFEPD_FilthMachineBits_North,.,.,.,VFEPD_BoxLarge_South,.,.,.,.,.,Sandbags_Cloth</li>
+        <li>Barricade_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,.,Sandbags_Cloth</li>
+        <li>Sandbags_Cloth,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.</li>
       </li>
       <li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Door_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,PowerConduit,.,.,VFEPD_BoxSmall_South,PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Door_Steel,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,PowerConduit,.,.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,VFEPD_BoxSmall_South,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1863,32 +1863,32 @@
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,StandingLamp,.,.,Shelf_Steel_South,.,.,Shelf_Steel_North,.,Shelf_Steel_North,.,Shelf_Steel_North,.,Shelf_Steel_North,.,.,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
-        <li>PowerConduit,.,.,.,.,Wall_Steel,.,.,.,.,.,.,.,.,VFEPD_BoxLarge_South,.,Wall_Steel</li>
+        <li>.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,.,.,VFEPD_BoxLarge_South,.,Wall_Steel</li>
         <li>Sandbags_Cloth,.,.,.,.,Wall_Steel,Wall_Steel,.,Shelf_Steel_South,.,Shelf_Steel_South,Wall_Steel,Door_Steel,Door_Steel,Wall_Steel,StandingLamp,Wall_Steel</li>
         <li>Sandbags_Cloth,Turret_MiniTurret_Steel,.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Sandbags_Cloth,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,StandingLamp,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,VFEPD_FilthRubbleRock_North,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthMachineBits_North,.</li>
+        <li>.,.,.,StandingLamp,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.</li>
+        <li>.,.,.,VFEPD_FilthRubbleRock_North,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthMachineBits_North,.</li>
         <li>Sandbags_Cloth,Sandbags_Cloth,.,DeepDrill_North,.,VFEPD_FilthMachineBits_North,DeepDrill_North,.,.,DeepDrill_North,VFEPD_FilthMachineBits_North,.,.,.,VFEPD_FilthRubbleRock_North,DeepDrill_North,VFEPD_FilthRubbleRock_North</li>
         <li>.,Sandbags_Cloth,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
       </li>
       <li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,PowerConduit,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -1935,12 +1935,12 @@
         <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,PavedTile,PavedTile,PavedTile,.</li>
       </li>
       <li>
-        <li>PowerConduit,PowerConduit,StandingLamp,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,StandingLamp,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,GroundPenetratingScanner_East,.,.,Stool_Steel_North,.,GroundPenetratingScanner_West,.,Stool_Steel_North,.,.,.,Stool_Steel_North,.,GroundPenetratingScanner_West,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,GroundPenetratingScanner_East,.,.,Stool_Steel_North,.,GroundPenetratingScanner_West,.,Stool_Steel_North,.,.,.,Stool_Steel_North,.,GroundPenetratingScanner_West,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,VFEPD_PalletBoxes,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.,VFEPD_FilthRubbleRock_North,.,.,.</li>
         <li>Wall_Steel,.,.,.,Wall_Steel,.,.,.,.,.,DeepDrill_South,.,VFEPD_FilthMachineBits_North,DeepDrill_South,.,.,.,.</li>
         <li>Wall_Steel,Shelf_Steel_East,.,.,Wall_Steel,Wall_Steel,Wall_Steel,.,StandingLamp,.,.,VFEPD_FilthRubbleRock_North,.,.,VFEPD_FilthMachineBits_North,.,StandingLamp,.</li>
@@ -1954,23 +1954,23 @@
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.</li>
       </li>
       <li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,.,.,.,VFEPD_FilthMachineBits_North,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,VFEPD_FilthMachineBits_North,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2041,15 +2041,15 @@
       </li>
       <li>
         <li>.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,.</li>
-        <li>.,.,Wall_BlocksGranite,.,Shelf_Steel_North,.,Shelf_Steel_North,.,.,.,.,PowerConduit,.,.,.,.,Wall_BlocksGranite,.,.,.</li>
-        <li>.,.,Door_Steel,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,Door_Steel,.,.,.</li>
-        <li>.,.,Wall_BlocksGranite,.,.,.,.,.,Shelf_Steel_South,.,.,PowerConduit,.,.,.,.,Wall_BlocksGranite,.,.,.</li>
-        <li>.,.,Wall_BlocksGranite,StandingLamp,.,.,.,Granite,Granite,.,.,PowerConduit,Shelf_Steel_South,Granite,.,.,Wall_BlocksGranite,.,.,.</li>
-        <li>.,.,Wall_BlocksGranite,Granite,Granite,Wall_BlocksGranite,Granite,Granite,Granite,Granite,.,PowerConduit,Granite,Granite,Granite,.,Wall_BlocksGranite,.,.,.</li>
-        <li>.,.,Granite,Granite,Granite,Granite,.,Granite,Granite,Granite,Granite,PowerConduit,Granite,Granite,Granite,StandingLamp,Wall_BlocksGranite,.,.,.</li>
-        <li>.,Granite,Granite,Granite,Granite,Granite,VFEPD_FilthRubbleRock_North,.,Granite,Granite,Granite,PowerConduit,Granite,Granite,Granite,Granite,Wall_BlocksGranite,.,.,.</li>
-        <li>.,Granite,Granite,Granite,Granite,.,VFEPD_FilthRubbleRock_North,.,Granite,Granite,.,PowerConduit,VFEPD_FilthRubbleRock_North,.,Granite,Granite,Granite,.,.,.</li>
-        <li>.,.,Granite,Granite,.,StandingLamp,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,StandingLamp,.,.,.,.,.,.</li>
+        <li>.,.,Wall_BlocksGranite,.,Shelf_Steel_North,.,Shelf_Steel_North,.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,.,.,.</li>
+        <li>.,.,Door_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,Door_Steel,.,.,.</li>
+        <li>.,.,Wall_BlocksGranite,.,.,.,.,.,Shelf_Steel_South,.,.,.,.,.,.,.,Wall_BlocksGranite,.,.,.</li>
+        <li>.,.,Wall_BlocksGranite,StandingLamp,.,.,.,Granite,Granite,.,.,.,Shelf_Steel_South,Granite,.,.,Wall_BlocksGranite,.,.,.</li>
+        <li>.,.,Wall_BlocksGranite,Granite,Granite,Wall_BlocksGranite,Granite,Granite,Granite,Granite,.,.,Granite,Granite,Granite,.,Wall_BlocksGranite,.,.,.</li>
+        <li>.,.,Granite,Granite,Granite,Granite,.,Granite,Granite,Granite,Granite,.,Granite,Granite,Granite,StandingLamp,Wall_BlocksGranite,.,.,.</li>
+        <li>.,Granite,Granite,Granite,Granite,Granite,VFEPD_FilthRubbleRock_North,.,Granite,Granite,Granite,.,Granite,Granite,Granite,Granite,Wall_BlocksGranite,.,.,.</li>
+        <li>.,Granite,Granite,Granite,Granite,.,VFEPD_FilthRubbleRock_North,.,Granite,Granite,.,.,VFEPD_FilthRubbleRock_North,.,Granite,Granite,Granite,.,.,.</li>
+        <li>.,.,Granite,Granite,.,StandingLamp,.,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.</li>
         <li>.,.,Granite,.,VFEPD_FilthRubbleRock_North,Granite,Granite,Granite,MineablePlasteel,.,.,DeepDrill_North,.,.,.,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,.,.</li>
         <li>.,.,.,VFEPD_FilthRubbleRock_North,Column_Steel,Granite,Granite,MineablePlasteel,MineablePlasteel,MineablePlasteel,VFEPD_FilthRubbleRock_North,.,.,Column_Steel,.,Granite,Granite,.,.,.</li>
         <li>.,.,.,Granite,Granite,MineablePlasteel,MineablePlasteel,MineablePlasteel,MineablePlasteel,MineablePlasteel,Granite,Granite,.,.,Granite,Granite,Granite,Granite,.,.</li>
@@ -2060,16 +2060,16 @@
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Barricade_Steel,Barricade_Steel,.,.,.,.,.,.,.,.,.,.,.,Barricade_Steel,Barricade_Steel,Sandbags_Cloth,Sandbags_Cloth</li>
       </li>
       <li>
-        <li>.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,Shelf_Steel_North,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,Door_WoodLog,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,PowerConduit,.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,PowerConduit,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_North,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,Door_WoodLog,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -2129,22 +2129,22 @@
         <li>.,.,.,.,.,.,.,Limestone_RoughHewn,Limestone_RoughHewn,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>.,.,.,Limestone,Limestone,Limestone,PowerConduit,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthRubbleRock_North,.,.,.,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,.,.</li>
-        <li>.,.,Limestone,Limestone,Limestone,MineableSteel,PowerConduit,.,.,.,StandingLamp,.,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,.</li>
-        <li>.,Limestone,Limestone,Limestone,MineableSteel,MineableSteel,PowerConduit,.,VFEPD_FilthRubbleRock_North,MineableSteel,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone</li>
-        <li>Limestone,Limestone,Limestone,Limestone,MineableSteel,PowerConduit,PowerConduit,PowerConduit,MineableSteel,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.</li>
-        <li>Limestone,Limestone,Limestone,Limestone,.,PowerConduit,VFEPD_FilthRubbleRock_North,VFEPD_FilthMachineBits_North,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.</li>
-        <li>Limestone,Limestone,Limestone,MineableSteel,VFEPD_FilthRubbleRock_North,PowerConduit,.,MineableSteel,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.</li>
-        <li>Limestone,Limestone,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North,PowerConduit,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.</li>
-        <li>Limestone,Limestone,Limestone,StandingLamp,PowerConduit,PowerConduit,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.,.</li>
-        <li>Limestone,Limestone,Limestone,MineableSteel,.,PowerConduit,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.,.,.</li>
-        <li>Limestone,Limestone,Limestone,MineableSteel,VFEPD_FilthRubbleRock_North,PowerConduit,.,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,PowerConduit,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
-        <li>.,Limestone,Limestone,Limestone,.,PowerConduit,VFEPD_FilthRubbleRock_North,VFEPD_FilthRubbleRock_North,Limestone,Limestone,Limestone,Limestone,Limestone,VFEPD_FilthRubbleRock_North,Wall_BlocksLimestone,.,.,.,Shelf_Steel_West,Wall_BlocksLimestone</li>
-        <li>.,Limestone,Limestone,Limestone,Limestone,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Limestone,Limestone,.,VFEPD_FilthRubbleRock_North,Wall_BlocksLimestone,Shelf_Steel_East,.,.,.,Wall_BlocksLimestone</li>
-        <li>Limestone,Limestone,Limestone,Limestone,Limestone,MineableSteel,VFEPD_FilthRubbleRock_North,.,PowerConduit,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,.,.,Wall_BlocksLimestone,.,.,.,Shelf_Steel_West,Wall_BlocksLimestone</li>
-        <li>.,Limestone,Limestone,Limestone,Limestone,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North,PowerConduit,.,.,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,Wall_BlocksLimestone,Shelf_Steel_East,.,.,.,Wall_BlocksLimestone</li>
-        <li>.,.,Limestone,Limestone,Limestone,Limestone,.,.,PowerConduit,.,.,.,.,VFEPD_WarehouseShelfEmpty_South,Wall_BlocksLimestone,.,.,.,Shelf_Steel_West,Wall_BlocksLimestone</li>
-        <li>.,.,.,Limestone,Limestone,MineableSteel,.,VFEPD_FilthRubbleRock_North,PowerConduit,Wall_BlocksLimestone,Wall_BlocksLimestone,Door_Steel,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Shelf_Steel_East,.,.,.,Wall_BlocksLimestone</li>
+        <li>.,.,.,Limestone,Limestone,Limestone,.,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthRubbleRock_North,.,.,.,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,.,.</li>
+        <li>.,.,Limestone,Limestone,Limestone,MineableSteel,.,.,.,.,StandingLamp,.,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,.</li>
+        <li>.,Limestone,Limestone,Limestone,MineableSteel,MineableSteel,.,.,VFEPD_FilthRubbleRock_North,MineableSteel,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone</li>
+        <li>Limestone,Limestone,Limestone,Limestone,MineableSteel,.,.,.,MineableSteel,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.</li>
+        <li>Limestone,Limestone,Limestone,Limestone,.,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthMachineBits_North,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.</li>
+        <li>Limestone,Limestone,Limestone,MineableSteel,VFEPD_FilthRubbleRock_North,.,.,MineableSteel,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.</li>
+        <li>Limestone,Limestone,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North,.,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.</li>
+        <li>Limestone,Limestone,Limestone,StandingLamp,.,.,MineableSteel,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.,.</li>
+        <li>Limestone,Limestone,Limestone,MineableSteel,.,.,MineableSteel,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,.,.,.</li>
+        <li>Limestone,Limestone,Limestone,MineableSteel,VFEPD_FilthRubbleRock_North,.,.,MineableSteel,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
+        <li>.,Limestone,Limestone,Limestone,.,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthRubbleRock_North,Limestone,Limestone,Limestone,Limestone,Limestone,VFEPD_FilthRubbleRock_North,Wall_BlocksLimestone,.,.,.,Shelf_Steel_West,Wall_BlocksLimestone</li>
+        <li>.,Limestone,Limestone,Limestone,Limestone,.,.,.,.,.,Limestone,Limestone,.,VFEPD_FilthRubbleRock_North,Wall_BlocksLimestone,Shelf_Steel_East,.,.,.,Wall_BlocksLimestone</li>
+        <li>Limestone,Limestone,Limestone,Limestone,Limestone,MineableSteel,VFEPD_FilthRubbleRock_North,.,.,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,.,.,Wall_BlocksLimestone,.,.,.,Shelf_Steel_West,Wall_BlocksLimestone</li>
+        <li>.,Limestone,Limestone,Limestone,Limestone,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North,.,.,.,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,Wall_BlocksLimestone,Shelf_Steel_East,.,.,.,Wall_BlocksLimestone</li>
+        <li>.,.,Limestone,Limestone,Limestone,Limestone,.,.,.,.,.,.,.,VFEPD_WarehouseShelfEmpty_South,Wall_BlocksLimestone,.,.,.,Shelf_Steel_West,Wall_BlocksLimestone</li>
+        <li>.,.,.,Limestone,Limestone,MineableSteel,.,VFEPD_FilthRubbleRock_North,.,Wall_BlocksLimestone,Wall_BlocksLimestone,Door_Steel,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Shelf_Steel_East,.,.,.,Wall_BlocksLimestone</li>
         <li>.,.,.,Barricade_Steel,Barricade_Steel,.,.,VFEPD_FilthRubbleRock_North,.,Wall_BlocksLimestone,.,.,.,StandingLamp,Wall_BlocksLimestone,.,.,.,StandingLamp,Wall_BlocksLimestone</li>
         <li>.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,Wall_BlocksLimestone,Battery_East,.,.,.,.,.,.,Battery_East,.,Wall_BlocksLimestone</li>
         <li>.,.,.,.,Barricade_Steel,Barricade_Steel,.,.,.,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
@@ -2157,18 +2157,18 @@
         <li>.,.,.,.,.,.,DeepDrill_East,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,VFEPD_WarehouseShelfEmpty_West,.,.,.,.,.,.,.,.,.,Limestone,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,VFEPD_WarehouseShelfEmpty_West,.,.,.,.,.,.,.,.,.,Limestone,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2223,24 +2223,24 @@
       </li>
       <li>
         <li>.,.,.,VFEPD_BrickPile_BlocksMarble,.,VFEPD_BrickPile_BlocksMarble,.,.,.,.,.,.,.,VFEPD_CarForklift_West,.,.,.,.</li>
-        <li>.,.,.,VFEPD_BrickPile_BlocksMarble,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,VFEPD_BrickPile_BlocksMarble,.,StandingLamp,.,Shelf_Steel_South,.,.,.,.,.,.,.,.,StandingLamp,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,Marble,Marble,.,.,.,.,.,Shelf_Steel_South,.,.,Wall_Steel,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,Marble,Marble,Shelf_Steel_North,.,.,Marble,.,Marble,Marble,Marble,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,Marble,Marble,Wall_Steel,AncientFence,AncientFence,.,.,.,AncientFence,Wall_Steel,Marble,Marble,Marble,Marble,.,.,PowerConduit</li>
-        <li>PowerConduit,.,Marble,Wall_Steel,Marble,.,.,.,Fence_WoodLog,MineableSteel,MineableSteel,MineableSteel,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,PowerConduit</li>
-        <li>PowerConduit,Fence_WoodLog,MineableSteel,MineableSteel,MineableSteel,.,AncientLongCrate,.,MineableSteel,MineableSteel,MineableSteel,AncientLargeCrate,VFEPD_FilthRubbleSlag_North,.,Wall_Steel,Marble,.,PowerConduit</li>
-        <li>PowerConduit,Fence_WoodLog,MineableSteel,VFEPD_FilthRubbleRock_North,Column_WoodLog,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,.,MineableSteel,VFEPD_FilthRubbleRock_North,.,.,Column_WoodLog,Wall_Steel,Marble,.,PowerConduit</li>
-        <li>PowerConduit,Fence_WoodLog,PowerConduit,AncientSecurityTurret,PowerConduit,DeepDrill_North,StandingLamp,DeepDrill_North,.,VFEPD_FilthRubbleRock_North,.,StandingLamp,AncientLargeCrate,MineableComponentsIndustrial,MineableSteel,Marble,.,PowerConduit</li>
-        <li>PowerConduit,Fence_WoodLog,.,AncientSmallCrate,VFEPD_FilthRubbleRock_North,AncientLongCrate,VFEPD_FilthRubbleSlag_North,.,AncientLargeCrate,.,Shelf_Steel_South,.,Wall_Steel,MineableSteel,MineableSteel,VFEPD_BoxLarge_South,.,PowerConduit</li>
-        <li>PowerConduit,Wall_Steel,MineableComponentsIndustrial,.,Shelf_Steel_South,.,Marble,Fence_WoodLog,MineableSteel,MineableSteel,VFEPD_FilthRubbleSlag_North,.,VFEPD_FilthRubbleRock_North,AncientSecurityTurret,Fence_WoodLog,.,.,PowerConduit</li>
-        <li>PowerConduit,MineableComponentsIndustrial,MineableComponentsIndustrial,MineableComponentsIndustrial,Column_WoodLog,.,MineableSteel,MineableSteel,MineableSteel,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North,AncientSmallCrate,Column_WoodLog,Wall_Steel,Marble,VFEPD_BoxLarge_South,PowerConduit</li>
-        <li>PowerConduit,Marble,Marble,Marble,VFEPD_FilthRubbleRock_North,.,AncientLargeCrate,MineableSteel,MineableSteel,MineableSteel,MineableSteel,.,VFEPD_FilthRubbleSlag_North,MineableComponentsIndustrial,MineableComponentsIndustrial,Marble,.,PowerConduit</li>
+        <li>.,.,.,VFEPD_BrickPile_BlocksMarble,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.</li>
+        <li>.,VFEPD_BrickPile_BlocksMarble,.,StandingLamp,.,Shelf_Steel_South,.,.,.,.,.,.,.,.,StandingLamp,.,.,.</li>
+        <li>.,.,.,.,Marble,Marble,.,.,.,.,.,Shelf_Steel_South,.,.,Wall_Steel,.,.,.</li>
+        <li>.,.,.,Marble,Marble,Shelf_Steel_North,.,.,Marble,.,Marble,Marble,Marble,.,.,.,.,.</li>
+        <li>.,Marble,Marble,Wall_Steel,AncientFence,AncientFence,.,.,.,AncientFence,Wall_Steel,Marble,Marble,Marble,Marble,.,.,.</li>
+        <li>.,.,Marble,Wall_Steel,Marble,.,.,.,Fence_WoodLog,MineableSteel,MineableSteel,MineableSteel,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,.</li>
+        <li>.,Fence_WoodLog,MineableSteel,MineableSteel,MineableSteel,.,AncientLongCrate,.,MineableSteel,MineableSteel,MineableSteel,AncientLargeCrate,VFEPD_FilthRubbleSlag_North,.,Wall_Steel,Marble,.,.</li>
+        <li>.,Fence_WoodLog,MineableSteel,VFEPD_FilthRubbleRock_North,Column_WoodLog,VFEPD_FilthRubbleRock_North,.,VFEPD_FilthRubbleRock_North,.,MineableSteel,VFEPD_FilthRubbleRock_North,.,.,Column_WoodLog,Wall_Steel,Marble,.,.</li>
+        <li>.,Fence_WoodLog,.,AncientSecurityTurret,.,DeepDrill_North,StandingLamp,DeepDrill_North,.,VFEPD_FilthRubbleRock_North,.,StandingLamp,AncientLargeCrate,MineableComponentsIndustrial,MineableSteel,Marble,.,.</li>
+        <li>.,Fence_WoodLog,.,AncientSmallCrate,VFEPD_FilthRubbleRock_North,AncientLongCrate,VFEPD_FilthRubbleSlag_North,.,AncientLargeCrate,.,Shelf_Steel_South,.,Wall_Steel,MineableSteel,MineableSteel,VFEPD_BoxLarge_South,.,.</li>
+        <li>.,Wall_Steel,MineableComponentsIndustrial,.,Shelf_Steel_South,.,Marble,Fence_WoodLog,MineableSteel,MineableSteel,VFEPD_FilthRubbleSlag_North,.,VFEPD_FilthRubbleRock_North,AncientSecurityTurret,Fence_WoodLog,.,.,.</li>
+        <li>.,MineableComponentsIndustrial,MineableComponentsIndustrial,MineableComponentsIndustrial,Column_WoodLog,.,MineableSteel,MineableSteel,MineableSteel,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North,AncientSmallCrate,Column_WoodLog,Wall_Steel,Marble,VFEPD_BoxLarge_South,.</li>
+        <li>.,Marble,Marble,Marble,VFEPD_FilthRubbleRock_North,.,AncientLargeCrate,MineableSteel,MineableSteel,MineableSteel,MineableSteel,.,VFEPD_FilthRubbleSlag_North,MineableComponentsIndustrial,MineableComponentsIndustrial,Marble,.,.</li>
         <li>Fence_Steel,Marble,VFEPD_FilthRubbleSlag_North,.,Marble,.,VFEPD_FilthRubbleRock_North,.,Marble,MineableSteel,MineableSteel,Wall_Steel,Fence_WoodLog,Fence_WoodLog,MineableComponentsIndustrial,Marble,.,Fence_Steel</li>
         <li>Fence_Steel,.,.,AncientFence,Wall_Steel,Wall_Steel,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Marble,Marble,.,Marble,Marble,Marble,.,Fence_Steel</li>
         <li>Fence_Steel,.,.,StandingLamp,Marble,MineableComponentsIndustrial,Marble,Marble,Marble,Marble,Marble,.,.,.,StandingLamp,.,.,Fence_Steel</li>
-        <li>Fence_Steel,Fence_Steel,Fence_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Fence_Steel,Fence_Steel,Fence_Steel</li>
+        <li>Fence_Steel,Fence_Steel,Fence_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Fence_Steel,Fence_Steel,Fence_Steel</li>
         <li>.,.,.,.,.,.,VFEPD_CarForklift_East,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -2254,15 +2254,15 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_North,.,.,.,.,VFEPD_BoxSmall_South</li>
         <li>.,.,.,MineableSteel,.,.,.,.,.,.,AncientLongCrate,.,.,.,.,.,.,.</li>
-        <li>.,PowerConduit,Marble,PowerConduit,.,PowerConduit,PowerConduit,PowerConduit,.,.,.,VFEPD_FilthRubbleSlag_North,.,.,.,.,.,.</li>
+        <li>.,.,Marble,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleSlag_North,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,AncientSmallCrate,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_South,.,.,.,.,.</li>
-        <li>PowerConduit,.,Marble,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,VFEPD_PalletBoxes,.,.,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,Marble,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_PalletBoxes,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
@@ -2327,14 +2327,14 @@
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
       </li>
       <li>
-        <li>.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>.,.,.,.,PowerConduit,StandingLamp_Blue,.,PowerConduit</li>
-        <li>.,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,VFEPD_FilthTrash_North,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,StandingLamp_Blue,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,VFEPD_FilthTrash_North,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2400,19 +2400,19 @@
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
       </li>
       <li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,.,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,PowerConduit,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2498,24 +2498,24 @@
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
       </li>
       <li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,.</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2560,20 +2560,20 @@
         <li>Barricade_Steel,Barricade_Steel,Barricade_Steel,Barricade_Steel,.,Barricade_Steel,Barricade_Steel,Barricade_Steel</li>
         <li>Barricade_Steel,OrbitalTradeBeacon,.,.,.,.,Turret_MiniTurret_Steel,Barricade_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,.,Battery_West,PowerConduit,Column_Steel,PowerConduit,PowerSwitch,Wall_Steel</li>
+        <li>Wall_Steel,.,Battery_West,.,Column_Steel,.,PowerSwitch,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,.,StandingLamp,.,Wall_Steel,Wall_Steel</li>
-        <li>Sandbags_Cloth,VFEPD_BinBag,.,.,.,.,PowerConduit,.</li>
+        <li>Sandbags_Cloth,VFEPD_BinBag,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,.,.,.,.,PowerConduit,.</li>
         <li>.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,PowerConduit,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
@@ -2606,23 +2606,23 @@
       </li>
       <li>
         <li>Barricade_Steel,.,.,.,.,.,.,.</li>
-        <li>Barricade_Steel,.,.,.,.,.,PowerConduit,OrbitalTradeBeacon</li>
-        <li>.,.,PowerConduit,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,PowerConduit</li>
-        <li>Barricade_Steel,PowerConduit,PowerConduit,.,Stool_Steel_West,Table1x2c_Steel_North,Wall_Steel,.</li>
+        <li>Barricade_Steel,.,.,.,.,.,.,OrbitalTradeBeacon</li>
+        <li>.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
+        <li>Barricade_Steel,.,.,.,Stool_Steel_West,Table1x2c_Steel_North,Wall_Steel,.</li>
         <li>Barricade_Steel,.,.,.,Stool_Steel_West,.,Wall_Steel,.</li>
         <li>Barricade_Steel,.,.,.,.,StandingLamp,Wall_Steel,.</li>
-        <li>Barricade_Steel,.,.,.,.,.,PowerConduit,.</li>
+        <li>Barricade_Steel,.,.,.,.,.,.,.</li>
         <li>Wall_Steel,Barricade_Steel,Barricade_Steel,Barricade_Steel,Barricade_Steel,Barricade_Steel,Wall_Steel,Wall_Steel</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,PowerConduit</li>
-        <li>.,.,.,.,PowerConduit,PowerConduit,PowerConduit,.</li>
-        <li>.,Turret_Autocannon,.,.,.,.,PowerConduit,.</li>
-        <li>.,.,.,.,.,.,PowerConduit,.</li>
-        <li>.,.,.,.,.,.,PowerConduit,.</li>
         <li>.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,Turret_Autocannon,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2663,29 +2663,29 @@
         <li>.,.,.,Fence_Steel,.,.,.,.,.,Fence_Steel,.,.,.</li>
         <li>.,LongRangeMineralScanner_West,.,Wall_Steel,Wall_Steel,.,.,.,.,Wall_Steel,.,LongRangeMineralScanner_South,.</li>
         <li>.,.,.,Wall_Steel,StandingLamp,.,.,Stool_Steel_North,Stool_Steel_North,Wall_Steel,.,.,.</li>
-        <li>Fence_Steel,OrbitalTradeBeacon,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Fence_Steel</li>
+        <li>Fence_Steel,OrbitalTradeBeacon,.,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Fence_Steel</li>
         <li>Fence_Steel,.,Plant_Grass,Wall_Steel,VitalsMonitor_West,Stool_Steel_West,.,StandingLamp,VFEPD_DataConveyor_North,.,Wall_Steel,Sandbags_Cloth,.</li>
         <li>Fence_Steel,.,.,Wall_Steel,VitalsMonitor_West,Stool_Steel_West,.,.,.,Battery_West,Wall_Steel,Sandbags_Cloth,.</li>
-        <li>Fence_Steel,OrbitalTradeBeacon,PowerConduit,Wall_Steel,.,.,.,.,.,.,Wall_Steel,Sandbags_Cloth,.</li>
+        <li>Fence_Steel,OrbitalTradeBeacon,.,Wall_Steel,.,.,.,.,.,.,Wall_Steel,Sandbags_Cloth,.</li>
         <li>Fence_Steel,.,Plant_Grass,Wall_Steel,VFEPD_DataConsole_East,.,.,DiningChair_Steel_East,.,CommsConsole_West,Wall_Steel,Wall_Steel,Fence_Steel</li>
         <li>Fence_Steel,.,Plant_Grass,Wall_Steel,.,.,FlatscreenTelevision_South,VFEPD_SwitchPanel_South,.,.,Wall_Steel,Sandbags_Cloth,.</li>
-        <li>Fence_Steel,OrbitalTradeBeacon,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Sandbags_Cloth,Plant_Bush</li>
+        <li>Fence_Steel,OrbitalTradeBeacon,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Sandbags_Cloth,Plant_Bush</li>
         <li>Fence_Steel,Fence_Steel,Fence_Steel,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Plant_Grass</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,.,PowerConduit,PowerConduit,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,.,.,PowerConduit,.,.,.,.,.,PowerConduit,.,.,.</li>
-        <li>.,PowerConduit,Turret_MiniTurret_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit,.,.</li>
-        <li>.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit,.,.</li>
-        <li>.,PowerConduit,.,PowerConduit,.,.,.,.,.,.,PowerConduit,.,.</li>
-        <li>.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>.,.,.,PowerConduit,.,.,.,.,.,.,PowerConduit,.,.</li>
-        <li>.,PowerConduit,Turret_MiniTurret_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.</li>
-        <li>.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,Turret_MiniTurret_Steel,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,Turret_MiniTurret_Steel,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2730,39 +2730,39 @@
       </li>
       <li>
         <li>Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Barricade_Steel,Barricade_Steel,Barricade_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
-        <li>Fence_Steel,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,PowerConduit,Barricade_Steel,PowerConduit,PowerConduit,Barricade_Steel,Wall_Steel,.,.,.,Wall_Steel</li>
+        <li>Fence_Steel,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Barricade_Steel,.,.,Barricade_Steel,Wall_Steel,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,ChemfuelPoweredGenerator,.,.,.,Barricade_Steel,.,.,Barricade_Steel,Wall_Steel,.,.,.,Wall_Steel</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,Barricade_Steel,Wall_Steel,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel</li>
-        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,PowerConduit,Wall_Steel,.,.,.,Wall_Steel</li>
-        <li>Fence_Steel,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,Wall_Steel</li>
-        <li>Fence_Steel,.,VFEPD_LargeDecalSymbolZero_North,VFEPD_LargeDecalSymbolOne_North,.,.,.,VFEPD_LargeDecalSymbolZero_North,VFEPD_LargeDecalSymbolTwo_North,.,PowerConduit,.,.,.,Shelf_Steel_West,Wall_Steel</li>
-        <li>Fence_Steel,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,Shelf_Steel_South,.,Wall_Steel</li>
-        <li>Wall_Steel,Battery_North,.,VFEPD_DecalArrowLong_South,.,.,.,VFEPD_DecalArrowLong_South,.,PowerConduit,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
+        <li>.,.,.,.,.,.,.,.,.,.,Barricade_Steel,Wall_Steel,DiningChair_Steel_East,HiTechResearchBench_Steel_East,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,Wall_Steel</li>
+        <li>Fence_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
+        <li>Fence_Steel,.,VFEPD_LargeDecalSymbolZero_North,VFEPD_LargeDecalSymbolOne_North,.,.,.,VFEPD_LargeDecalSymbolZero_North,VFEPD_LargeDecalSymbolTwo_North,.,.,.,.,.,Shelf_Steel_West,Wall_Steel</li>
+        <li>Fence_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_South,.,Wall_Steel</li>
+        <li>Wall_Steel,Battery_North,.,VFEPD_DecalArrowLong_South,.,.,.,VFEPD_DecalArrowLong_South,.,.,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,VFEPD_SkipWhite_South,.,.,.,.,.,Wall_Steel,.,StandingLamp_Blue,Shelf_Steel_North,.,Wall_Steel</li>
         <li>Wall_Steel,Battery_North,.,.,.,.,VFEPD_FilthChemfuel_North,StandingLamp_Blue,.,.,Wall_Steel,.,Table1x2c_Steel_North,Stool_Steel_North,.,Wall_Steel</li>
         <li>Wall_Steel,.,Column_Steel,.,.,.,.,Column_Steel,.,.,Wall_Steel,.,.,.,VFEPD_DataConsole_West,Wall_Steel</li>
         <li>Wall_Steel,.,StandingLamp_Blue,.,.,.,.,.,.,VFEPD_ContainerGrey_South,Wall_Steel,.,VFEPD_ElectricalCabinet_North,.,.,Wall_Steel</li>
         <li>Wall_Steel,Shelf_Steel_East,.,.,VFEPD_FilthChemfuel_North,VFEPD_SkipWhite_South,.,.,.,.,Wall_Steel,.,Wall_Steel,VFEPD_PalletBarrelGreen,.,Wall_Steel</li>
         <li>Wall_Steel,.,Shelf_Steel_South,.,.,.,.,.,.,.,Door_Steel,.,Wall_Steel,.,.,Wall_Steel</li>
-        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
       </li>
       <li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,PowerConduit,Turret_Autocannon,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>Door_Steel,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,Door_Steel,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,Door_Steel,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,Shelf_Steel_West,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,PowerConduit,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,Door_Steel,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,Turret_Autocannon,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>Door_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,Door_Steel,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,Door_Steel,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,Wall_Steel,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,Shelf_Steel_West,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,Door_Steel,.,.,.,.,.,.,.,.</li>
       </li>
     </layouts>
     <roofGrid>
@@ -2835,7 +2835,7 @@
         <li>.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.</li>
       </li>
       <li>
-        <li>.,Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,PowerConduit,Wall_Steel,PowerConduit,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth,.</li>
+        <li>.,Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel,.,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth,.</li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,.,Door_Steel,PodLauncher_East,.,PodLauncher_East,.,Door_Steel,.,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,StandingLamp_Red,.,Wall_Steel,.,CommsConsole_North,.,Wall_Steel,Wall_Steel,.,StandingLamp_Red,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth</li>
         <li>Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,VFEPD_PersonalConsole_East,.,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
@@ -2857,26 +2857,26 @@
         <li>.,Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth,.</li>
       </li>
       <li>
-        <li>.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,TransportPod,PowerConduit,TransportPod,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.</li>
-        <li>.,.,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.</li>
-        <li>.,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit</li>
-        <li>PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit</li>
-        <li>.,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.</li>
-        <li>.,.,PowerConduit,PowerConduit,.,.,.,.,.,.,.,.,.,.,.,.,PowerConduit,PowerConduit,.,.</li>
-        <li>.,.,.,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,PowerConduit,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,TransportPod,.,TransportPod,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
