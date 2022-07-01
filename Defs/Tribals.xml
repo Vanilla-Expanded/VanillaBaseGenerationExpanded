@@ -85,7 +85,9 @@
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenWagon</li>
       </scatterPropsDefs>
     </propsOptions>
-    <pawnGroupMultiplier>1.5</pawnGroupMultiplier>
+    <defenseOptions>
+      <pawnGroupMultiplier>1.25</pawnGroupMultiplier>
+    </defenseOptions>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
   </KCSG.SettlementLayoutDef>
   <!-- TribalCenter -->

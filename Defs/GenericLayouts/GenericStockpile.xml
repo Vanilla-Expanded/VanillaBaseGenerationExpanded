@@ -982,7 +982,7 @@
       <li>GenericStockpile</li>
     </tags>
   </KCSG.StructureLayoutDef>
-  <KCSG.StructureLayoutDef>
+  <!-- <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile17</defName>
     <layouts>
       <li>
@@ -1033,7 +1033,7 @@
     <tags>
       <li>GenericStockpile</li>
     </tags>
-  </KCSG.StructureLayoutDef>
+  </KCSG.StructureLayoutDef> -->
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile18</defName>
     <layouts>

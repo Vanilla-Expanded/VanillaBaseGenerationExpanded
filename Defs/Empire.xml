@@ -11,15 +11,15 @@
       <allowedStructures>
         <!-- Generic rooms -->
         <li>
-          <count>2~10</count>
+          <count>3~5</count>
           <tag>GenericPower</tag>
         </li>
         <li>
-          <count>1~8</count>
+          <count>1~5</count>
           <tag>GenericBattery</tag>
         </li>
         <li>
-          <count>1~10</count>
+          <count>1~5</count>
           <tag>GenericSecurity</tag>
         </li>
         <li>
@@ -163,8 +163,22 @@
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenWagon</li>
       </scatterPropsDefs>
     </propsOptions>
-    <vanillaLikeDefenseNoSandBags>true</vanillaLikeDefenseNoSandBags>
-    <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
+    <defenseOptions>
+      <addEdgeDefense>true</addEdgeDefense>
+      <addSandbags>false</addSandbags>
+      <addTurrets>true</addTurrets>
+      <allowedTurretsDefs>
+        <li>Turret_MiniTurret</li>
+        <li MayRequire="VanillaExpanded.VFESecurity">VFES_Turret_MilitaryTurret</li>
+        <li MayRequire="VanillaExpanded.VFESecurity">VFES_Turret_Searchlight</li>
+        <li MayRequire="VanillaExpanded.VFESecurity">VFES_Turret_Flame</li>
+      </allowedTurretsDefs>
+      <addMortars>true</addMortars>
+      <allowedMortarsDefs>
+        <li>Turret_Mortar</li>
+      </allowedMortarsDefs>
+      <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
+    </defenseOptions>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
   </KCSG.SettlementLayoutDef>
   <!-- EmpireProduction -->

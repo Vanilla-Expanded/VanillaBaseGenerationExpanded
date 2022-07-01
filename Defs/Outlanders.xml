@@ -135,8 +135,24 @@
       <addLinkRoad>true</addLinkRoad>
       <linkRoadDef>Concrete</linkRoadDef>
     </roadOptions>
-    <vanillaLikeDefenseNoSandBags>true</vanillaLikeDefenseNoSandBags>
-    <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
+    <defenseOptions>
+      <addEdgeDefense>true</addEdgeDefense>
+      <addSandbags>false</addSandbags>
+      <addTurrets>true</addTurrets>
+      <cellsPerTurret>20</cellsPerTurret>
+      <allowedTurretsDefs>
+        <li>Turret_MiniTurret</li>
+        <li MayRequire="VanillaExpanded.VFESecurity">VFES_Turret_MilitaryTurret</li>
+        <li MayRequire="VanillaExpanded.VFESecurity">VFES_Turret_Searchlight</li>
+        <li MayRequire="VanillaExpanded.VFESecurity">VFES_Turret_Flame</li>
+      </allowedTurretsDefs>
+      <addMortars>true</addMortars>
+      <cellsPerMortar>60</cellsPerMortar>
+      <allowedMortarsDefs>
+        <li>Turret_Mortar</li>
+      </allowedMortarsDefs>
+      <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
+    </defenseOptions>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
   </KCSG.SettlementLayoutDef>
 </Defs>
