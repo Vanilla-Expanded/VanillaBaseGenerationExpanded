@@ -11,7 +11,11 @@
         <modExtensions>
           <li Class="KCSG.CustomGenOption">
             <chooseFromSettlements>
-              <li>VBGE_Empire</li>
+              <li>VBGE_EmpireProduction</li>
+              <li>VBGE_EmpireMining</li>
+              <li>VBGE_EmpireSlavery</li>
+              <li>VBGE_EmpireLogging</li>
+              <li>VBGE_EmpireDefence</li>
             </chooseFromSettlements>
             <preventBridgeable>true</preventBridgeable>
           </li>

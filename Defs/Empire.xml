@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <KCSG.SettlementLayoutDef>
-    <defName>VBGE_Empire</defName>
+  <KCSG.SettlementLayoutDef Abstract="True" Name="VBGE_BaseEmpire">
     <settlementSize>72,72</settlementSize>
     <avoidBridgeable>true</avoidBridgeable>
     <avoidMountains>false</avoidMountains>
@@ -9,51 +8,41 @@
       <centerSize>72,72</centerSize>
       <spaceAround>1</spaceAround>
       <allowedStructures>
-        <!-- Generic rooms -->
         <li>
-          <count>3~5</count>
+          <count>2~5</count>
           <tag>GenericPower</tag>
         </li>
         <li>
-          <count>1~5</count>
+          <count>1~2</count>
           <tag>GenericBattery</tag>
         </li>
         <li>
-          <count>1~5</count>
+          <count>0~2</count>
           <tag>GenericSecurity</tag>
         </li>
         <li>
-          <count>1~2</count>
+          <count>0~1</count>
           <tag>GenericPodLauncher</tag>
         </li>
         <li>
-          <count>1~2</count>
+          <count>1~1</count>
           <tag>GenericKitchen</tag>
         </li>
         <li>
-          <count>2~15</count>
+          <count>2~5</count>
           <tag>GenericStockpile</tag>
         </li>
         <li>
-          <count>5~40</count>
+          <count>2~6</count>
           <tag>GenericBedroom</tag>
         </li>
         <li>
-          <count>1~4</count>
-          <tag>GenericPrison</tag>
-        </li>
-        <li>
-          <count>0~4</count>
+          <count>0~1</count>
           <tag>GenericGrave</tag>
         </li>
         <li>
-          <count>1~4</count>
+          <count>1~1</count>
           <tag>GenericRecroom</tag>
-        </li>
-        <!-- Empire specific rooms -->
-        <li>
-          <count>1~2</count>
-          <tag>EmpireProduction</tag>
         </li>
         <li>
           <count>1~1</count>
@@ -66,10 +55,6 @@
         <li>
           <count>1~1</count>
           <tag>EmpireThrone</tag>
-        </li>
-        <li>
-          <count>0~2</count>
-          <tag>EmpireStockpile</tag>
         </li>
       </allowedStructures>
     </centerBuildings>
@@ -95,7 +80,6 @@
     <propsOptions>
       <addMainRoadProps>true</addMainRoadProps>
       <mainRoadPropsDefs>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarForklift</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryBlack</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyBlack</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupBlack</li>
@@ -125,7 +109,7 @@
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Cone</li>
         <li MayRequire="VanillaExpanded.VFECore">Light_Streetlamp</li>
       </linkRoadPropsDefs>
-      <linkRoadMinDistance>8</linkRoadMinDistance>
+      <linkRoadMinDistance>12</linkRoadMinDistance>
 
       <scatterProps>true</scatterProps>
       <scatterMinDistance>8</scatterMinDistance>
@@ -177,262 +161,122 @@
       <allowedMortarsDefs>
         <li>Turret_Mortar</li>
       </allowedMortarsDefs>
-      <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
+      <pawnGroupMultiplier>1.45</pawnGroupMultiplier>
     </defenseOptions>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
   </KCSG.SettlementLayoutDef>
-  <!-- EmpireProduction -->
-  <KCSG.StructureLayoutDef>
-    <defName>VBGEEmpireSmeltingMachining</defName>
-    <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,BroadshieldCore,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,Steel,Apparel_PackJump,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-      </li>
-      <li>
-        <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
-        <li>Wall_BlocksGranite,.,.,.,.,Wall_BlocksGranite,.</li>
-        <li>Wall_BlocksGranite,TableMachining_West,Stool_Steel_East,.,.,Wall_BlocksGranite,.</li>
-        <li>Wall_BlocksGranite,.,.,.,.,Autodoor_BlocksGranite,.</li>
-        <li>Wall_BlocksGranite,.,.,.,.,Wall_BlocksGranite,.</li>
-        <li>Wall_BlocksGranite,Shelf_Steel_East,.,.,Stool_Steel_South,Wall_BlocksGranite,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,Shelf_Steel_South,.,ElectricSmelter_North,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
-      </li>
-    </layouts>
-    <roofGrid>
-      <li>1,1,1,1,1,1,.</li>
-      <li>1,1,1,1,1,1,.</li>
-      <li>1,1,1,1,1,1,.</li>
-      <li>1,1,1,1,1,1,.</li>
-      <li>1,1,1,1,1,1,.</li>
-      <li>1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1</li>
-    </roofGrid>
-    <tags>
-      <li>EmpireProduction</li>
-    </tags>
-  </KCSG.StructureLayoutDef>
-  <KCSG.StructureLayoutDef>
-    <defName>VBGEEmpireMiscProd</defName>
-    <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,Apparel_PackBroadshield,WoodLog,WoodLog,.,Apparel_PsychicFoilHelmet,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,Steel,WoodLog,Plasteel,Steel,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,Steel,Plasteel,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,Steel,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,OrbitalTargeterBombardment,.,.,Plasteel,.,Steel,.,.,.,.,.,.,.,.</li>
-        <li>.,Steel,.,.,Apparel_RobeRoyal,.,.,Apparel_Gunlink,.,.,.,.,.,.,.,.</li>
-        <li>.,.,Steel,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.,.,.,.,.,.,.,.</li>
-        <li>.,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>.,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>.,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-        <li>TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,.,.,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone,TileLimestone</li>
-      </li>
-      <li>
-        <li>.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,.</li>
-        <li>.,Wall_BlocksGranite,.,.,.,.,.,Wall_BlocksGranite,.,CommsConsole_North,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
-        <li>.,Wall_BlocksGranite,.,.,.,.,.,Wall_BlocksGranite,.,.,.,.,TableMachining_South,.,.,Wall_BlocksGranite</li>
-        <li>.,Wall_BlocksGranite,.,.,.,.,.,Wall_BlocksGranite,.,Stool_Steel_North,.,.,Stool_Steel_North,Stool_Steel_East,ElectricTailoringBench_Steel_East,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,Wall_BlocksGranite,.,.,OrbitalTradeBeacon,.,.,Wall_BlocksGranite,Wall_BlocksGranite,.,.,StandingLamp,.,.,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,.,.,.,.,.,.,Door_Steel,.,.,ToolCabinet_North,.,.,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,.,.,.,.,.,.,Wall_BlocksGranite,.,.,Stool_Steel_South,.,.,.,Autodoor_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,ElectricSmithy_North,.,.,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Autodoor_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
-      </li>
-    </layouts>
-    <roofGrid>
-      <li>.,1,1,1,1,1,1,1,1,1,1,1,.,.,.,.</li>
-      <li>.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,.,.,1,1,1,1,1,1,1,1</li>
-    </roofGrid>
-    <tags>
-      <li>EmpireProduction</li>
-    </tags>
-  </KCSG.StructureLayoutDef>
-  <!-- EmpireStockpile -->
-  <KCSG.StructureLayoutDef>
-    <defName>VBGEEmpireStockpile1</defName>
-    <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,MeleeWeapon_Warhammer,.,.,.,.,.,MeleeWeapon_PsyfocusStaff,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,Gun_ChargeRifle,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,PsychicAmplifier,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>Concrete,Concrete,Concrete,Concrete,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.</li>
-      </li>
-      <li>
-        <li>.,Barricade_BlocksGranite,Barricade_BlocksGranite,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.</li>
-        <li>.,Barricade_BlocksGranite,Turret_MiniTurret_Steel,Turret_Autocannon,.,Turret_MiniTurret_Steel,Sandbags_Cloth,.,.</li>
-        <li>.,Barricade_BlocksGranite,.,.,.,.,Sandbags_Cloth,.,.</li>
-        <li>.,Barricade_BlocksGranite,.,.,.,.,Sandbags_Cloth,.,.</li>
-        <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Autodoor_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,.,.,.,.,Shelf_Steel_North,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,Shelf_Steel_East,.,.,.,.,.,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,.,.,StandingLamp,.,.,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,.,.,Shelf_Steel_South,.,.,Shelf_Steel_West,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,Wall_BlocksGranite,Autodoor_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,Wall_BlocksGranite</li>
-        <li>Sandbags_Cloth,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,.,Shelf_Steel_South,Wall_BlocksGranite</li>
-        <li>Sandbags_Cloth,Turret_MiniTurret_Steel,.,.,Turret_MiniTurret_Steel,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
-        <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.</li>
-      </li>
-    </layouts>
-    <roofGrid>
-      <li>.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.</li>
-      <li>1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1</li>
-      <li>1,1,1,1,1,1,1,1,1</li>
-      <li>.,.,.,.,1,1,1,1,1</li>
-      <li>.,.,.,.,.,1,1,1,1</li>
-      <li>.,.,.,.,.,.,.,.,.</li>
-    </roofGrid>
-    <isStorage>true</isStorage>
-    <tags>
-      <li>EmpireStockpile</li>
-    </tags>
-  </KCSG.StructureLayoutDef>
-  <KCSG.StructureLayoutDef>
-    <defName>VBGEEmpireStockpile2</defName>
-    <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Apparel_Gunlink,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gold,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gun_EmpLauncher,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Gun_PumpShotgun,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,MeleeWeapon_Zeushammer,.,.,.,.,MeleeWeapon_MonoSwordBladelink,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>Concrete,Concrete,Concrete,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>.,Concrete,Concrete,Concrete,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,Concrete,Concrete,Concrete,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,Concrete,Concrete,Concrete,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Door_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,Turret_Autocannon,.,Barricade_BlocksGranite,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
-        <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,.,Wall_BlocksGranite,.,.,Barricade_BlocksGranite,.,.,.,.,.,.,Shelf_Steel_North,.,Wall_BlocksGranite,.</li>
-        <li>Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,Wall_BlocksGranite,Barricade_BlocksGranite,Barricade_BlocksGranite,Barricade_BlocksGranite,.,.,.,.,.,TrapSpike_Plasteel,.,Shelf_Steel_West,Wall_BlocksGranite,.</li>
-        <li>Sandbags_Cloth,Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth,.,.,.,.,.,Wall_BlocksGranite,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,.</li>
-        <li>.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,Wall_BlocksGranite,.,TrapSpike_Plasteel,.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,.,.,.,.,.,Shelf_Steel_South,.,.,Barricade_BlocksGranite,Barricade_BlocksGranite,Barricade_BlocksGranite,Wall_BlocksGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Door_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,Barricade_BlocksGranite,Turret_Autocannon,.,Wall_BlocksGranite,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,.,.,VanometricPowerCell_East,.,Wall_BlocksGranite,.,Shelf_Steel_South,Barricade_BlocksGranite,.,.,Wall_BlocksGranite,.</li>
-        <li>.,.,Sandbags_Cloth,Sandbags_Cloth,.,.,Sandbags_Cloth,Sandbags_Cloth,.,.,Wall_BlocksGranite,Shelf_Steel_East,.,.,Shelf_Steel_West,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
-        <li>.,.,Sandbags_Cloth,.,.,.,.,Sandbags_Cloth,.,.,Wall_BlocksGranite,.,.,.,.,Wall_BlocksGranite,Turret_Autocannon,.,Barricade_BlocksGranite,.,.,.,.</li>
-        <li>.,.,.,.,SolarGenerator,.,.,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,Barricade_BlocksGranite,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Barricade_BlocksGranite,Barricade_BlocksGranite,Barricade_BlocksGranite,Barricade_BlocksGranite,.,.,.,.</li>
-        <li>.,.,Sandbags_Cloth,.,.,.,.,Sandbags_Cloth,.,.,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
-        <li>.,.,Sandbags_Cloth,Sandbags_Cloth,.,.,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
-      </li>
-    </layouts>
-    <roofGrid>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,1,1,1,1,1,1,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-    </roofGrid>
-    <isStorage>true</isStorage>
-    <tags>
-      <li>EmpireStockpile</li>
-    </tags>
-  </KCSG.StructureLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
+    <defName>VBGE_EmpireProduction</defName>
+    <centerBuildings>
+      <centralBuildingTags>
+        <li>VGBE_Production</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_Production</tag>
+          <count>2~3</count>
+        </li>
+        <li>
+          <count>2~5</count>
+          <tag>GenericProduction</tag>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
+    <defName>VBGE_EmpireMining</defName>
+    <centerBuildings>
+      <centralBuildingTags>
+        <li>VGBE_Mining</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_Mining</tag>
+          <count>2~3</count>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
+    <defName>VBGE_EmpireSlavery</defName>
+    <centerBuildings>
+      <centralBuildingTags>
+        <li>VGBE_Slavery</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_Slavery</tag>
+          <count>2~3</count>
+        </li>
+        <li>
+          <count>1~3</count>
+          <tag>GenericPrison</tag>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
+    <defName>VBGE_EmpireLogging</defName>
+    <centerBuildings>
+      <centralBuildingTags>
+        <li>VGBE_Logging</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_Logging</tag>
+          <count>2~3</count>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
+    <defName>VBGE_EmpireDefence</defName>
+    <settlementSize>60,60</settlementSize>
+    <centerBuildings Inherit="False">
+      <centerSize>60,60</centerSize>
+      <spaceAround>1</spaceAround>
+      <allowedStructures>
+        <li>
+          <count>1~3</count>
+          <tag>GenericPower</tag>
+        </li>
+        <li>
+          <count>1~2</count>
+          <tag>GenericBattery</tag>
+        </li>
+        <li>
+          <count>1~2</count>
+          <tag>GenericSecurity</tag>
+        </li>
+        <li>
+          <count>2~2</count>
+          <tag>GenericPodLauncher</tag>
+        </li>
+        <li>
+          <count>1~1</count>
+          <tag>GenericKitchen</tag>
+        </li>
+        <li>
+          <count>2~5</count>
+          <tag>GenericStockpile</tag>
+        </li>
+        <li>
+          <count>2~2</count>
+          <tag>GenericBedroom</tag>
+        </li>
+      </allowedStructures>
+      <centralBuildingTags>
+        <li>VGBE_Defence</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_Defence</tag>
+          <count>2~3</count>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+    <pawnGroupMultiplier>1.8</pawnGroupMultiplier>
+  </KCSG.SettlementLayoutDef>
   <!-- EmpireShuttle -->
   <KCSG.StructureLayoutDef>
     <defName>VBGEEmpireShuttle1</defName>

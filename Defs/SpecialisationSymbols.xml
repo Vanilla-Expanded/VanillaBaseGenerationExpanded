@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CarForklift_North</defName>
+    <thing>VFEPD_CarForklift</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Planks_North</defName>
+    <thing>VFEPD_Planks</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_OakTree</defName>
+    <thing>VFEPD_OakTree</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenLogsLarge_North</defName>
+    <thing>VFEPD_WoodenLogsLarge</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenLogsLarge_East</defName>
+    <thing>VFEPD_WoodenLogsLarge</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenLogsLarge_South</defName>
+    <thing>VFEPD_WoodenLogsLarge</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PowerPole</defName>
+    <thing>VFEPD_PowerPole</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthSand_North</defName>
+    <thing>VFEPD_FilthSand</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ElectricalCabinet_North</defName>
+    <thing>VFEPD_ElectricalCabinet</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BoxLarge_South</defName>
+    <thing>VFEPD_BoxLarge</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Planks_South</defName>
+    <thing>VFEPD_Planks</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WarehouseShelfEmpty_East</defName>
+    <thing>VFEPD_WarehouseShelfEmpty</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CarDeliverySilver_South</defName>
+    <thing>VFEPD_CarDeliverySilver</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SwitchPanel_South</defName>
+    <thing>VFEPD_SwitchPanel</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DataConsole_East</defName>
+    <thing>VFEPD_DataConsole</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WarehouseShelfEmpty_North</defName>
+    <thing>VFEPD_WarehouseShelfEmpty</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenLogs_South</defName>
+    <thing>VFEPD_WoodenLogs</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthRubbleSlag_North</defName>
+    <thing>VFEPD_FilthRubbleSlag</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Desk_BlocksMarble_East</defName>
+    <thing>VFEPD_Desk</thing>
+    <stuff>BlocksMarble</stuff>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PalletBarrelRed</defName>
+    <thing>VFEPD_PalletBarrelRed</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Bush</defName>
+    <thing>VFEPD_Bush</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthTrash_North</defName>
+    <thing>VFEPD_FilthTrash</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BinBag</defName>
+    <thing>VFEPD_BinBag</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ContainerGreen_South</defName>
+    <thing>VFEPD_ContainerGreen</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ContainerRed_South</defName>
+    <thing>VFEPD_ContainerRed</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Knives_South</defName>
+    <thing>VFEPD_Knives</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DataConsole_South</defName>
+    <thing>VFEPD_DataConsole</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthChemfuel_North</defName>
+    <thing>VFEPD_FilthChemfuel</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PalletBoxes</defName>
+    <thing>VFEPD_PalletBoxes</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BoxSmall_South</defName>
+    <thing>VFEPD_BoxSmall</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WarehouseShelfBoxes_South</defName>
+    <thing>VFEPD_WarehouseShelfBoxes</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PalletBarrelBlue</defName>
+    <thing>VFEPD_PalletBarrelBlue</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Cone</defName>
+    <thing>VFEPD_Cone</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BrickPile_BlocksSlate</defName>
+    <thing>VFEPD_BrickPile</thing>
+    <stuff>BlocksSlate</stuff>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthRubbleRock_North</defName>
+    <thing>VFEPD_FilthRubbleRock</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PalletBarrelGreen</defName>
+    <thing>VFEPD_PalletBarrelGreen</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ContainerGrey_North</defName>
+    <thing>VFEPD_ContainerGrey</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ContainerRed_East</defName>
+    <thing>VFEPD_ContainerRed</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BarrelRed_North</defName>
+    <thing>VFEPD_BarrelRed</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ConcreteBags</defName>
+    <thing>VFEPD_ConcreteBags</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalWordShipping_South</defName>
+    <thing>VFEPD_DecalWordShipping</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CarDeliverySilver_North</defName>
+    <thing>VFEPD_CarDeliverySilver</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SpacerStorage_North</defName>
+    <thing>VFEPD_SpacerStorage</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthVomit_North</defName>
+    <thing>VFEPD_FilthVomit</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WaterTank</defName>
+    <thing>VFEPD_WaterTank</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CardboardBoxSmall_South</defName>
+    <thing>VFEPD_CardboardBoxSmall</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WaterDispenser_North</defName>
+    <thing>VFEPD_WaterDispenser</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Microwave_West</defName>
+    <thing>VFEPD_Microwave</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenCupboardNarrow_South</defName>
+    <thing>VFEPD_WoodenCupboardNarrow</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalSymbolTwo_East</defName>
+    <thing>VFEPD_LargeDecalSymbolTwo</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalSymbolZero_West</defName>
+    <thing>VFEPD_LargeDecalSymbolZero</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SteelVendingMachine_South</defName>
+    <thing>VFEPD_SteelVendingMachine</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalWordPrison_North</defName>
+    <thing>VFEPD_DecalWordPrison</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CardboardBoxLarge_South</defName>
+    <thing>VFEPD_CardboardBoxLarge</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Fridge_South</defName>
+    <thing>VFEPD_Fridge</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WaterDispenser_South</defName>
+    <thing>VFEPD_WaterDispenser</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SteelBookshelf_South</defName>
+    <thing>VFEPD_SteelBookshelf</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DataConveyor_North</defName>
+    <thing>VFEPD_DataConveyor</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalSymbolTwo_North</defName>
+    <thing>VFEPD_LargeDecalSymbolTwo</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalSymbolZero_North</defName>
+    <thing>VFEPD_LargeDecalSymbolZero</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalSymbolOne_North</defName>
+    <thing>VFEPD_LargeDecalSymbolOne</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SkipWhite_South</defName>
+    <thing>VFEPD_SkipWhite</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalArrowLong_South</defName>
+    <thing>VFEPD_DecalArrowLong</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DataConsole_West</defName>
+    <thing>VFEPD_DataConsole</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ContainerGrey_South</defName>
+    <thing>VFEPD_ContainerGrey</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthDirt_North</defName>
+    <thing>VFEPD_FilthDirt</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CarPickupBlue_North</defName>
+    <thing>VFEPD_CarPickupBlue</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalArrowLong_South</defName>
+    <thing>VFEPD_LargeDecalArrowLong</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CarDeliveryBlack_South</defName>
+    <thing>VFEPD_CarDeliveryBlack</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenLogs_North</defName>
+    <thing>VFEPD_WoodenLogs</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenLogsLarge_West</defName>
+    <thing>VFEPD_WoodenLogsLarge</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_CoffeeTable_WoodLog_South</defName>
+    <thing>VFEPD_CoffeeTable</thing>
+    <stuff>WoodLog</stuff>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Lockers_South</defName>
+    <thing>VFEPD_Lockers</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SpacerContainer_South</defName>
+    <thing>VFEPD_SpacerContainer</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SpacerContainerLarge_West</defName>
+    <thing>VFEPD_SpacerContainerLarge</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalWordSmallLab_North</defName>
+    <thing>VFEPD_DecalWordSmallLab</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalLineDouble_South</defName>
+    <thing>VFEPD_DecalLineDouble</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalWordResearch_North</defName>
+    <thing>VFEPD_DecalWordResearch</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Lockers_West</defName>
+    <thing>VFEPD_Lockers</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Lockers_East</defName>
+    <thing>VFEPD_Lockers</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalLineDouble_North</defName>
+    <thing>VFEPD_DecalLineDouble</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ServerRack_South</defName>
+    <thing>VFEPD_ServerRack</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalWordResearch_South</defName>
+    <thing>VFEPD_DecalWordResearch</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalLineDoubleCornerInner_East</defName>
+    <thing>VFEPD_DecalLineDoubleCornerInner</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalLineDoubleCornerInner_South</defName>
+    <thing>VFEPD_DecalLineDoubleCornerInner</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalLineDouble_West</defName>
+    <thing>VFEPD_DecalLineDouble</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_TripleDisplay_South</defName>
+    <thing>VFEPD_TripleDisplay</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalLineDouble_East</defName>
+    <thing>VFEPD_DecalLineDouble</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_TripleDisplay_East</defName>
+    <thing>VFEPD_TripleDisplay</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BerryBush</defName>
+    <thing>VFEPD_BerryBush</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_TripleDisplay_North</defName>
+    <thing>VFEPD_TripleDisplay</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Alocasia</defName>
+    <thing>VFEPD_Alocasia</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PersonalConsole_South</defName>
+    <thing>VFEPD_PersonalConsole</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_TripleDisplay_West</defName>
+    <thing>VFEPD_TripleDisplay</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SpacerStorage_East</defName>
+    <thing>VFEPD_SpacerStorage</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalWordResearch_East</defName>
+    <thing>VFEPD_DecalWordResearch</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DecalLineThin_West</defName>
+    <thing>VFEPD_DecalLineThin</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthBlood_North</defName>
+    <thing>VFEPD_FilthBlood</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalWordKill_West</defName>
+    <thing>VFEPD_LargeDecalWordKill</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PowerConverter_East</defName>
+    <thing>VFEPD_PowerConverter</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_LargeDecalWordResearch_North</defName>
+    <thing>VFEPD_LargeDecalWordResearch</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Microwave_South</defName>
+    <thing>VFEPD_Microwave</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SpacerContainer_North</defName>
+    <thing>VFEPD_SpacerContainer</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PlanningTable</defName>
+    <thing>VFEPD_PlanningTable</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SpacerContainer_West</defName>
+    <thing>VFEPD_SpacerContainer</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_SpacerContainerStack</defName>
+    <thing>VFEPD_SpacerContainerStack</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ContainerRed_West</defName>
+    <thing>VFEPD_ContainerRed</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+</Defs>
