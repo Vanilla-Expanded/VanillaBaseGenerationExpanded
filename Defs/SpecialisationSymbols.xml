@@ -629,4 +629,215 @@
     <rotation>West</rotation>
   </KCSG.SymbolDef>
 
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BrickPile_BlocksGranite</defName>
+    <thing>VFEPD_BrickPile</thing>
+    <stuff>BlocksGranite</stuff>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BrewingBarrel</defName>
+    <thing>VFEPD_BrewingBarrel</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenSign</defName>
+    <thing>VFEPD_WoodenSign</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_PoplarTree</defName>
+    <thing>VFEPD_PoplarTree</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenWagon_West</defName>
+    <thing>VFEPD_WoodenWagon</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenChestLarge_West</defName>
+    <thing>VFEPD_WoodenChestLarge</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_TeakTree</defName>
+    <thing>VFEPD_TeakTree</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BoxLarge_West</defName>
+    <thing>VFEPD_BoxLarge</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenLogs_West</defName>
+    <thing>VFEPD_WoodenLogs</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenWagon_North</defName>
+    <thing>VFEPD_WoodenWagon</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BoxLarge_North</defName>
+    <thing>VFEPD_BoxLarge</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BoxSmall_West</defName>
+    <thing>VFEPD_BoxSmall</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_BoxLarge_East</defName>
+    <thing>VFEPD_BoxLarge</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenWagon_East</defName>
+    <thing>VFEPD_WoodenWagon</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_HayBaleMedium_West</defName>
+    <thing>VFEPD_HayBaleMedium</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthAnimalFilth_North</defName>
+    <thing>VFEPD_FilthAnimalFilth</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_HayBaleMedium_South</defName>
+    <thing>VFEPD_HayBaleMedium</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_HayBaleSmall_South</defName>
+    <thing>VFEPD_HayBaleSmall</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Anvil_West</defName>
+    <thing>VFEPD_Anvil</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WeaponRackSwords_West</defName>
+    <thing>VFEPD_WeaponRackSwords</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ArmorStandFull_East</defName>
+    <thing>VFEPD_ArmorStandFull</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_TanningRack_South</defName>
+    <thing>VFEPD_TanningRack</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_FilthMachineBits_North</defName>
+    <thing>VFEPD_FilthMachineBits</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenChest_East</defName>
+    <thing>VFEPD_WoodenChest</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenChestLarge_South</defName>
+    <thing>VFEPD_WoodenChestLarge</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WoodenBookshelf_South</defName>
+    <thing>VFEPD_WoodenBookshelf</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Banner_Leather_Bird_North</defName>
+    <thing>VFEPD_Banner</thing>
+    <stuff>Leather_Bird</stuff>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ArmorStandFull_South</defName>
+    <thing>VFEPD_ArmorStandFull</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WeaponRackSwords_South</defName>
+    <thing>VFEPD_WeaponRackSwords</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ArrowCage</defName>
+    <thing>VFEPD_ArrowCage</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WeaponRackSpears_South</defName>
+    <thing>VFEPD_WeaponRackSpears</thing>
+    <rotation>South</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_WeaponRackSpears_East</defName>
+    <thing>VFEPD_WeaponRackSpears</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_ArmorStandEmpty_North</defName>
+    <thing>VFEPD_ArmorStandEmpty</thing>
+    <rotation>North</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DinnerSet_West</defName>
+    <thing>VFEPD_DinnerSet</thing>
+    <rotation>West</rotation>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_Spices</defName>
+    <thing>VFEPD_Spices</thing>
+  </KCSG.SymbolDef>
+
+  <KCSG.SymbolDef>
+    <defName>VFEPD_DinnerSet_East</defName>
+    <thing>VFEPD_DinnerSet</thing>
+    <rotation>East</rotation>
+  </KCSG.SymbolDef>
+
 </Defs>

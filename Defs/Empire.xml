@@ -264,18 +264,18 @@
           <count>2~2</count>
           <tag>GenericBedroom</tag>
         </li>
-      </allowedStructures>
-      <centralBuildingTags>
-        <li>VGBE_Defence</li>
-      </centralBuildingTags>
-      <allowedStructures>
         <li>
           <tag>VGBE_Defence</tag>
           <count>2~3</count>
         </li>
       </allowedStructures>
+      <centralBuildingTags>
+        <li>VGBE_Defence</li>
+      </centralBuildingTags>
     </centerBuildings>
-    <pawnGroupMultiplier>1.8</pawnGroupMultiplier>
+    <defenseOptions>
+      <pawnGroupMultiplier>1.8</pawnGroupMultiplier>
+    </defenseOptions>
   </KCSG.SettlementLayoutDef>
   <!-- EmpireShuttle -->
   <KCSG.StructureLayoutDef>

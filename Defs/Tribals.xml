@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <KCSG.SettlementLayoutDef>
-    <defName>VBGE_Tribals</defName>
+  <KCSG.SettlementLayoutDef Abstract="True" Name="VBGE_BaseTribal">
     <settlementSize>72,72</settlementSize>
     <avoidBridgeable>true</avoidBridgeable>
     <avoidMountains>true</avoidMountains>
     <centerBuildings>
-      <centerSize>42,42</centerSize>
+      <centerSize>52,52</centerSize>
       <spaceAround>1</spaceAround>
       <allowedStructures>
         <li>
-          <count>1~2</count>
+          <count>0~1</count>
           <tag>TribalHospital</tag>
         </li>
         <li>
-          <count>2~30</count>
+          <count>2~10</count>
           <tag>TribalBarrack</tag>
         </li>
         <li>
@@ -22,29 +21,22 @@
           <tag>TribalKitchen</tag>
         </li>
         <li>
-          <count>1~3</count>
+          <count>0~1</count>
           <tag>TribalPrison</tag>
         </li>
         <li>
-          <count>1~1</count>
+          <count>0~1</count>
           <tag>TribalGraveyard</tag>
         </li>
         <li>
-          <count>1~2</count>
+          <count>0~1</count>
           <tag>TribalRecreation</tag>
-        </li>
-        <li>
-          <count>1~2</count>
-          <tag>TribalProduction</tag>
         </li>
         <li>
           <count>1~3</count>
           <tag>TribalStockpile</tag>
         </li>
       </allowedStructures>
-      <centralBuildingTags>
-        <li>TribalCenter</li>
-      </centralBuildingTags>
     </centerBuildings>
     <peripheralBuildings>
       <allowedStructures>
@@ -62,19 +54,10 @@
       <addLinkRoad>true</addLinkRoad>
       <linkRoadDef>PackedDirt</linkRoadDef>
     </roadOptions>
-    <stuffableOptions>
-      <randomizeWall>true</randomizeWall>
-      <randomizeFurniture>true</randomizeFurniture>
-      <excludedFunitureDefs>
-        <li>Barricade</li>
-        <li>Sandbags</li>
-        <li>Fence</li>
-      </excludedFunitureDefs>
-    </stuffableOptions>
     <propsOptions>
       <scatterProps>true</scatterProps>
       <scatterMinDistance>8</scatterMinDistance>
-      <scatterMaxAmount>150</scatterMaxAmount>
+      <scatterMaxAmount>100</scatterMaxAmount>
       <scatterPropsDefs>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BoxLarge</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BoxSmall</li>
@@ -85,13 +68,106 @@
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenWagon</li>
       </scatterPropsDefs>
     </propsOptions>
-    <defenseOptions>
-      <pawnGroupMultiplier>1.25</pawnGroupMultiplier>
-    </defenseOptions>
     <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
   </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
+    <defName>VBGE_TribalProduction</defName>
+    <centerBuildings>
+      <centralBuildingTags>
+        <li>VGBE_TribalProduction</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_TribalProduction</tag>
+          <count>2~3</count>
+        </li>
+        <li>
+          <count>1~3</count>
+          <tag>TribalProduction</tag>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
+    <defName>VBGE_TribalMining</defName>
+    <centerBuildings>
+      <centralBuildingTags>
+        <li>VGBE_TribalMining</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_TribalMining</tag>
+          <count>1~3</count>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
+    <defName>VBGE_TribalSlavery</defName>
+    <centerBuildings>
+      <allowedStructures>
+        <li>
+          <count>3~5</count>
+          <tag>TribalPrison</tag>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
+    <defName>VBGE_TribalLogging</defName>
+    <centerBuildings>
+      <centralBuildingTags>
+        <li>VGBE_TribalLogging</li>
+      </centralBuildingTags>
+      <allowedStructures>
+        <li>
+          <tag>VGBE_TribalLogging</tag>
+          <count>2~3</count>
+        </li>
+      </allowedStructures>
+    </centerBuildings>
+  </KCSG.SettlementLayoutDef>
+  <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
+    <defName>VBGE_TribalDefence</defName>
+    <centerBuildings Inherit="False">
+      <centerSize>52,52</centerSize>
+      <spaceAround>1</spaceAround>
+      <allowedStructures>
+        <li>
+          <count>1~1</count>
+          <tag>TribalHospital</tag>
+        </li>
+        <li>
+          <count>2~10</count>
+          <tag>TribalBarrack</tag>
+        </li>
+        <li>
+          <count>1~1</count>
+          <tag>TribalKitchen</tag>
+        </li>
+        <li>
+          <count>1~1</count>
+          <tag>TribalGraveyard</tag>
+        </li>
+        <li>
+          <count>1~3</count>
+          <tag>TribalStockpile</tag>
+        </li>
+        <li>
+          <count>0~2</count>
+          <tag>VGBE_TribalDefence</tag>
+        </li>
+      </allowedStructures>
+      <centralBuildingTags>
+        <li>VGBE_TribalDefence</li>
+      </centralBuildingTags>
+    </centerBuildings>
+    <defenseOptions>
+      <pawnGroupMultiplier>1.8</pawnGroupMultiplier>
+    </defenseOptions>
+  </KCSG.SettlementLayoutDef>
   <!-- TribalCenter -->
-  <KCSG.StructureLayoutDef>
+  <!-- <KCSG.StructureLayoutDef>
     <defName>VBGE_TribalCenter1</defName>
     <layouts>
       <li>
@@ -627,7 +703,7 @@
     <tags>
       <li>TribalCenter</li>
     </tags>
-  </KCSG.StructureLayoutDef>
+  </KCSG.StructureLayoutDef> -->
   <!-- TribalHospital -->
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Hospital</defName>
@@ -908,7 +984,7 @@
         <li>Wall_WoodLog,Bedroll_Leather_Light_East,.,GameOfUrBoard_WoodLog_East,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,.,.,.,.,.,.,.,.,Campfire_East,.,.,Door_WoodLog</li>
         <li>Wall_WoodLog,TorchLamp,.,.,.,.,Shelf_WoodLog_South,.,.,.,.,.,Wall_WoodLog</li>
-        <li>Wall_WoodLog,.,.,Plant_Grass,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,.,.,.,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
       </li>
@@ -1058,6 +1134,221 @@
     </tags>
   </KCSG.StructureLayoutDef>
   <!-- TribalBarrack -->
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalBBarrack1</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,WoodPlankFloor,.,WoodPlankFloor,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,VFEPD_WoodenSign,.,.,VFEPD_Bush,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_Bush</li>
+        <li>.,.,.,.,.,VFEPD_PoplarTree,.,.,.,.,Door_WoodLog,.,.,Bedroll_Leather_Light_West,Wall_WoodLog,Wall_WoodLog</li>
+        <li>VFEPD_OakTree,.,VFEPD_BoxLarge_South,VFEPD_Bush,.,.,.,.,.,VFEPD_BrewingBarrel,Wall_WoodLog,.,.,.,PlantPot_WoodLog,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,VFEPD_BrewingBarrel,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Stool_WoodLog_North,.,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,Wall_WoodLog,PlantPot_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,TorchLamp,VFEPD_OakTree,.,.,VFEPD_BoxLarge_South,Wall_WoodLog,Table1x2c_WoodLog_East,.,TorchLamp,Wall_WoodLog</li>
+        <li>Wall_WoodLog,TorchLamp,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_BoxLarge_South,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,VFEPD_BrewingBarrel,Wall_WoodLog,.,Table1x2c_WoodLog_West,Wall_WoodLog,.,Wall_WoodLog,VFEPD_BrewingBarrel,PlantPot_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Wall_WoodLog,Bedroll_Leather_Light_South,.,.,Wall_WoodLog,Wall_WoodLog,Stool_WoodLog_North,.,Door_WoodLog,.,Door_WoodLog,.,.,.,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,.,Shelf_WoodLog_South,Wall_WoodLog,.,.,TorchLamp,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,Bedroll_Leather_Light_South,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Bedroll_Leather_Light_South,.,.,.,.,Wall_WoodLog,Stool_WoodLog_North,.,.,.,Wall_WoodLog</li>
+        <li>VFEPD_PoplarTree,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,VFEPD_WoodenCupboardDouble_South,Wall_WoodLog,.,Table1x2c_WoodLog_West,Stool_WoodLog_West,TorchLamp,Wall_WoodLog</li>
+        <li>.,.,VFEPD_Bush,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>TribalBarrack</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalBBarrack2</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,WoodPlankFloor,.,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,WoodPlankFloor,.,.,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+        <li>.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
+        <li>.,VFEPD_PoplarTree,.,.,.,.,.,.,.,Wall_WoodLog,VFEPD_BoxLarge_South,VFEPD_BrewingBarrel,Wall_WoodLog,Wall_WoodLog</li>
+        <li>VFEPD_TeakTree,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_Bush,.,.,Wall_WoodLog,.,.,Bedroll_Leather_Light_West,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,VFEPD_BoxLarge_South,PlantPot_WoodLog,Wall_WoodLog,VFEPD_BrewingBarrel,.,.,Wall_WoodLog,.,.,.,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,TorchLamp,.,.,Door_WoodLog,.,.,.,Wall_WoodLog,Wall_WoodLog,.,TorchLamp,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,.,.,VFEPD_CoffeeTableSmall_WoodLog,Wall_WoodLog,.,VFEPD_WoodenSign,.,VFEPD_Bush,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,Bedroll_Leather_Light_South,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,.,.,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,Door_WoodLog,.,VFEPD_BrewingBarrel,.,TorchLamp,.,.,.,.</li>
+        <li>Wall_WoodLog,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_PoplarTree,.,.</li>
+        <li>Wall_WoodLog,BedrollDouble_Leather_Plain_East,.,.,PlantPot_WoodLog,Wall_WoodLog,VFEPD_BoxLarge_South,.,.,TorchLamp,Wall_WoodLog,Wall_WoodLog,.,.</li>
+        <li>Wall_WoodLog,TorchLamp,.,VFEPD_BrewingBarrel,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_CoffeeTableSmall_WoodLog,.,.,Shelf_WoodLog_West,Wall_WoodLog,.,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,Wall_WoodLog,Bedroll_Leather_Light_East,.,.,.,Wall_WoodLog,.,.</li>
+        <li>.,.,.,.,VFEPD_Bush,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,VFEPD_TeakTree</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>TribalBarrack</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalBBarrack3</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,.,.,.,.,.,.,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,.,WoodPlankFloor,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.</li>
+        <li>.,.,.,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog,.,TorchLamp,Wall_WoodLog,Wall_WoodLog,.</li>
+        <li>VFEPD_OakTree,.,.,.,.,VFEPD_Bush,TorchLamp,.,Wall_WoodLog,.,.,.,Table1x2c_WoodLog_North,Wall_WoodLog,VFEPD_PoplarTree</li>
+        <li>.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Bedroll_Leather_Light_South,.,Stool_WoodLog_East,VFEPD_CuttingBoard_West,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,TorchLamp,.,.,Wall_WoodLog,Wall_WoodLog,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Wall_WoodLog,TorchLamp,.,.,Wall_WoodLog,Wall_WoodLog,.,.,VFEPD_BoxLarge_South,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_DinnerSet_North,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,VFEPD_BoxLarge_South,Wall_WoodLog,VFEPD_CoffeeTableSmall_WoodLog,.,.,Wall_WoodLog,VFEPD_BrewingBarrel,.,Stool_WoodLog_North,.,Door_WoodLog</li>
+        <li>Wall_WoodLog,VFEPD_BrewingBarrel,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,Bedroll_Leather_Light_West,Wall_WoodLog,.,.,.,VFEPD_WoodenLogs_South,Wall_WoodLog</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Bedroll_Leather_Light_South,Wall_WoodLog,Wall_WoodLog,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Bedroll_Leather_Light_South,.,TorchLamp,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,VFEPD_PoplarTree,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,TorchLamp</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,Table1x2c_WoodLog_East,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>TribalBarrack</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VBGE_TribalBarrack1</defName>
     <layouts>
@@ -1340,7 +1631,7 @@
       <li>TribalBarrack</li>
     </tags>
   </KCSG.StructureLayoutDef>
-  <KCSG.StructureLayoutDef>
+  <!-- <KCSG.StructureLayoutDef>
     <defName>VBGE_TribalBarrack7</defName>
     <layouts>
       <li>
@@ -1671,7 +1962,7 @@
     <tags>
       <li>TribalBarrack</li>
     </tags>
-  </KCSG.StructureLayoutDef>
+  </KCSG.StructureLayoutDef> -->
   <KCSG.StructureLayoutDef>
     <defName>VBGE_TribalBarrack20</defName>
     <layouts>
@@ -1863,7 +2154,7 @@
       <li>TribalBarrack</li>
     </tags>
   </KCSG.StructureLayoutDef>
-  <KCSG.StructureLayoutDef>
+  <!-- <KCSG.StructureLayoutDef>
     <defName>VBGE_TribalBarrack27</defName>
     <layouts>
       <li>
@@ -2131,7 +2422,7 @@
     <tags>
       <li>TribalBarrack</li>
     </tags>
-  </KCSG.StructureLayoutDef>
+  </KCSG.StructureLayoutDef> -->
   <!-- TribalFarm -->
   <KCSG.StructureLayoutDef>
     <defName>VBGE_TribalFarm</defName>
@@ -2140,7 +2431,7 @@
         <li>.,.,Wall_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,FenceGate_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Wall_WoodLog,.,.</li>
         <li>.,Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog,.</li>
         <li>Wall_WoodLog,Wall_WoodLog,TorchLamp,.,.,.,Plant_Smokeleaf,.,.,.,TorchLamp,Wall_WoodLog,Wall_WoodLog</li>
-        <li>Fence_WoodLog,.,.,.,.,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,.,.,Plant_Grass,.,Fence_WoodLog</li>
+        <li>Fence_WoodLog,.,.,.,.,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,.,.,.,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,.,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,.,.,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,.,.,Fence_WoodLog</li>
         <li>FenceGate_WoodLog,.,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Column_WoodLog,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,.,FenceGate_WoodLog</li>
@@ -2173,11 +2464,11 @@
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>Soil,Soil,Soil,Soil,Soil,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>Soil,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>Soil,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>Soil,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>Soil,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,Mud,Mud,Mud,Mud,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
         <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
@@ -3447,7 +3738,7 @@
         <li>.,.,Fence_WoodLog,.,MineableGold,.,.,MineableGold,.,.,Fence_WoodLog,.</li>
         <li>.,.,Fence_WoodLog,.,Fence_WoodLog,MineableGold,.,.,.,.,Fence_WoodLog,.</li>
         <li>.,.,.,TorchLamp,.,.,.,.,TorchLamp,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,Plant_Grass,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,Fence_WoodLog,.,Shelf_WoodLog_South,.,Shelf_WoodLog_South,Fence_WoodLog,.,.,.,.</li>
         <li>.,.,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -3842,7 +4133,7 @@
         <li>.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,Sarcophagus_Steel_West,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
-        <li>SteleLarge_BlocksMarble,.,.,.,NatureShrine_Small_WoodLog,.,Plant_Grass,Sarcophagus_Steel_North,SteleLarge_BlocksMarble,.</li>
+        <li>SteleLarge_BlocksMarble,.,.,.,NatureShrine_Small_WoodLog,.,.,Sarcophagus_Steel_North,SteleLarge_BlocksMarble,.</li>
         <li>.,.,Sarcophagus_Steel_South,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,Sarcophagus_Steel_East,.,.,.,.,.</li>
@@ -3858,10 +4149,10 @@
     <defName>VBGE_TribalGraveyard3</defName>
     <layouts>
       <li>
-        <li>Grave_East,.,.,.,.,Plant_Grass,.,Grave_West</li>
+        <li>Grave_East,.,.,.,.,.,.,Grave_West</li>
         <li>.,.,.,.,.,.,.,.</li>
         <li>Grave_East,.,.,SteleLarge_BlocksSandstone,.,.,.,Grave_West</li>
-        <li>.,.,.,.,.,.,.,Plant_Grass</li>
+        <li>.,.,.,.,.,.,.,.</li>
         <li>Grave_East,.,.,.,.,.,.,Grave_West</li>
       </li>
     </layouts>
@@ -3876,10 +4167,10 @@
         <li>Fence_WoodLog,Fence_WoodLog,FenceGate_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,.,.,.,.,.,.,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,.,.,.,.,.,.,.,Fence_WoodLog</li>
-        <li>Fence_WoodLog,.,Plant_Dandelion,.,Plant_Daylily,.,Plant_Rose,.,Plant_Dandelion,.,Fence_WoodLog</li>
+        <li>Fence_WoodLog,.,.,.,Plant_Daylily,.,Plant_Rose,.,.,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,.,.,.,.,.,.,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,Grave_South,.,Grave_South,.,Grave_South,.,Grave_South,.,Fence_WoodLog</li>
-        <li>Fence_WoodLog,.,Plant_Daylily,.,Plant_Rose,.,Plant_Dandelion,.,Plant_Daylily,.,Fence_WoodLog</li>
+        <li>Fence_WoodLog,.,Plant_Daylily,.,Plant_Rose,.,.,.,Plant_Daylily,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,.,.,.,.,.,.,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,Grave_South,.,Grave_South,.,Grave_South,.,Grave_South,.,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,.,.,.,.,.,.,.,Fence_WoodLog</li>
@@ -3912,11 +4203,11 @@
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,Plant_Grass,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,Plant_Grass,.,.,.,.</li>
-        <li>.,.,Plant_Grass,.,.,.,HorseshoesPin_WoodLog,.,.,.,Plant_Grass,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,HorseshoesPin_WoodLog,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -4709,6 +5000,928 @@
     </modRequirements>
     <tags>
       <li>TribalStockpile</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <!-- VGBE_TribalMining -->
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalMining1</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,StrawMatting,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,StrawMatting,StrawMatting,.,.,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,StrawMatting,.,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.,.</li>
+        <li>.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,Granite,Granite,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>Granite,Granite,Granite,.,.,.,VFEPD_FilthRubbleRock_North,.,.,VFEPD_BrickPile_BlocksGranite,Granite,Granite,VFEPD_FilthRubbleRock_North,.</li>
+        <li>.,Granite,.,.,.,MineableSteel,Granite,Granite,.,MineableSteel,MineableSteel,Granite,.,.</li>
+        <li>.,.,.,.,MineableSteel,MineableSteel,MineableSteel,Granite,.,MineableSteel,MineableSteel,Granite,VFEPD_BrickPile_BlocksGranite,VFEPD_Bush</li>
+        <li>.,.,VFEPD_OakTree,.,.,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North,.,.,.,.,.,VFEPD_OakTree</li>
+        <li>VFEPD_WoodenSign,.,.,VFEPD_BrickPile_BlocksGranite,VFEPD_FilthRubbleRock_North,.,.,.,.,VFEPD_BrewingBarrel,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,.,MineableSteel,MineableSteel,Granite,.,Campfire_East,.,.,Wall_WoodLog,Wall_WoodLog,.,Bedroll_Leather_Light_West,Wall_WoodLog</li>
+        <li>.,MineableSteel,MineableSteel,Granite,Granite,.,.,Wall_WoodLog,AnimalFlap_Leather_Plain,Wall_WoodLog,.,.,.,Wall_WoodLog</li>
+        <li>.,VFEPD_FilthRubbleRock_North,Granite,Granite,VFEPD_FilthRubbleRock_North,.,VFEPD_BoxSmall_South,Wall_WoodLog,.,.,.,.,Bedroll_Leather_Light_South,Wall_WoodLog</li>
+        <li>.,VFEPD_BrickPile_BlocksGranite,Granite,MineableSteel,MineableSteel,.,VFEPD_BoxLarge_South,Wall_WoodLog,.,.,.,.,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,.,.,MineableSteel,MineableSteel,.,.,Wall_WoodLog,Bedroll_Leather_Light_East,.,Bedroll_Leather_Light_South,Wall_WoodLog,Wall_WoodLog,.</li>
+        <li>.,VFEPD_OakTree,.,.,.,.,VFEPD_BrewingBarrel,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,VFEPD_PoplarTree</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalMining</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalMining2</defName>
+    <layouts>
+      <li>
+        <li>.,Gravel,Gravel,Gravel,.,Granite_Rough,.,Granite_Rough,Granite_Rough,.,.,Gravel,Granite_Rough,Gravel</li>
+        <li>.,.,Gravel,Granite_Rough,Granite_Rough,Granite_Rough,.,Granite_Rough,Granite_Rough,.,Granite_Rough,.,Granite_Rough,Gravel</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Granite_Rough</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,Granite_Rough,Granite_Rough,.,.,.,Granite_Rough,Granite_Rough</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,Granite_Rough,Granite_Rough,Granite_Rough,.,Granite_Rough,Granite_Rough</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Granite_Rough,.,.,.,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,.,Granite_Rough,.,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,.,Granite_Rough,.,Granite_Rough,Granite_Rough,.,.,.,Granite_Rough,Granite_Rough</li>
+        <li>.,.,.,.,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,.,.,.,.,Granite_Rough,.</li>
+        <li>.,.,Granite_Rough,.,Granite_Rough,.,.,.,.,.,.,.,Granite_Rough,.</li>
+        <li>.,.,Granite_Rough,.,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,.,.,.,.</li>
+        <li>.,.,.,.,.,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,Granite_Rough,.,Granite_Rough,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,Granite,Granite,MineableSteel,MineableSteel,.,.</li>
+        <li>VFEPD_BrewingBarrel,.,.,VFEPD_BrewingBarrel,VFEPD_BoxLarge_South,.,.,VFEPD_FilthRubbleRock_North,Granite,Granite,MineableSteel,MineableSteel,MineableSteel,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,Granite,Granite,Granite,Granite,Granite,Granite,VFEPD_BrickPile_BlocksGranite</li>
+        <li>Wall_WoodLog,.,.,Bedroll_Leather_Light_North,Wall_WoodLog,.,VFEPD_OakTree,VFEPD_FilthRubbleRock_North,MineableSteel,MineableSteel,Granite,Granite,Granite,Granite</li>
+        <li>Wall_WoodLog,Bedroll_Leather_Light_South,.,.,Wall_WoodLog,.,.,.,.,.,.,Granite,Granite,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,.,.,Door_WoodLog,.,.,VFEPD_BoxSmall_South,Granite,VFEPD_BrickPile_BlocksGranite,MineableSteel,.,.,.</li>
+        <li>.,Wall_WoodLog,.,VFEPD_BoxLarge_South,Wall_WoodLog,TorchLamp,.,MineableSteel,MineableSteel,Granite,MineableSteel,MineableSteel,MineableSteel,VFEPD_FilthRubbleRock_North</li>
+        <li>VFEPD_PoplarTree,Wall_WoodLog,TorchLamp,Wall_WoodLog,Wall_WoodLog,.,.,.,Granite,Granite,Granite,MineableSteel,MineableSteel,.</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_BrickPile_BlocksGranite,.,VFEPD_FilthRubbleRock_North,MineableSteel,Granite,Granite,Granite,Granite,MineableSteel,.</li>
+        <li>.,.,.,.,.,VFEPD_FilthRubbleRock_North,MineableSteel,MineableSteel,MineableSteel,Granite,Granite,Granite,Granite,Granite</li>
+        <li>VFEPD_BoxLarge_South,.,VFEPD_WoodenWagon_West,.,.,.,MineableSteel,MineableSteel,Granite,Granite,MineableSteel,MineableSteel,Granite,VFEPD_BrewingBarrel</li>
+        <li>VFEPD_Bush,.,.,VFEPD_BrewingBarrel,.,.,Granite,Granite,.,Granite,MineableSteel,VFEPD_FilthRubbleRock_North,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,MineableSteel,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalMining</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalMining3</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,.,.,WoodPlankFloor,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Shelf_WoodLog_North,.,Wall_WoodLog,Wall_WoodLog,VFEPD_PoplarTree</li>
+        <li>Wall_WoodLog,.,.,.,.,VFEPD_BrickPile_BlocksGranite,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,TableStonecutter_WoodLog_West,Stool_WoodLog_East,.,.,.,Wall_WoodLog,VFEPD_Bush</li>
+        <li>Wall_WoodLog,VFEPD_FilthRubbleRock_North,.,.,.,.,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Wall_WoodLog,Wall_WoodLog,VFEPD_BrickPile_BlocksGranite,TorchLamp,.,.,VFEPD_BrickPile_BlocksGranite,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,VFEPD_FilthRubbleRock_North,.,VFEPD_BrickPile_BlocksGranite,.,VFEPD_WoodenChestLarge_West,Wall_WoodLog</li>
+        <li>Wall_WoodLog,VFEPD_FilthRubbleRock_North,Stool_WoodLog_East,.,.,.,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,VFEPD_FilthRubbleRock_North,.,.,.,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,Wall_WoodLog,VFEPD_BrickPile_BlocksGranite,.,.,Shelf_WoodLog_South,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,TableStonecutter_WoodLog_West,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalMining</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <!-- VGBE_TribalLogging -->
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalLogging1</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.</li>
+        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.</li>
+        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.</li>
+        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,VFEPD_BrewingBarrel</li>
+        <li>.,.,.,.,.,.,VFEPD_OakTree,.,VFEPD_PoplarTree,.,.,.,.,.</li>
+        <li>Fence_WoodLog,.,.,.,VFEPD_WoodenLogsLarge_South,.,.,.,.,.,.,.,.,.</li>
+        <li>Fence_WoodLog,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_WoodenLogs_South,.,.,.,.,VFEPD_OakTree,.</li>
+        <li>Fence_WoodLog,.,Wall_WoodLog,Wall_WoodLog,.,Bedroll_Leather_Light_West,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_TeakTree,.,.,.,.</li>
+        <li>Fence_WoodLog,.,Wall_WoodLog,PlantPot_WoodLog,.,.,Stool_WoodLog_East,Table1x2c_WoodLog_North,Wall_WoodLog,.,.,.,.,.</li>
+        <li>Fence_WoodLog,.,Wall_WoodLog,TorchLamp,.,.,.,.,Wall_WoodLog,.,.,VFEPD_PoplarTree,.,VFEPD_TeakTree</li>
+        <li>Fence_WoodLog,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,Wall_WoodLog,Wall_WoodLog,.,.,.,.,.</li>
+        <li>Fence_WoodLog,.,Wall_WoodLog,Shelf_WoodLog_North,.,Wall_WoodLog,AnimalFlap_Leather_Plain,Wall_WoodLog,TorchLamp,.,VFEPD_OakTree,.,.,.</li>
+        <li>Fence_WoodLog,.,Wall_WoodLog,.,.,.,.,Door_WoodLog,.,.,.,.,.,.</li>
+        <li>Fence_WoodLog,.,Wall_WoodLog,TorchLamp,.,.,.,Wall_WoodLog,.,.,.,.,.,.</li>
+        <li>.,.,Wall_WoodLog,Wall_WoodLog,.,Shelf_WoodLog_South,Wall_WoodLog,Wall_WoodLog,.,VFEPD_TeakTree,.,.,VFEPD_PoplarTree,VFEPD_BoxSmall_South</li>
+        <li>.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_Bush,.,.,.,VFEPD_WoodenLogs_South,VFEPD_BoxLarge_West,VFEPD_BoxLarge_South</li>
+        <li>.,.,VFEPD_PoplarTree,.,.,.,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalLogging</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalLogging2</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,StrawMatting,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,VFEPD_TeakTree,.,.,.,.,.,VFEPD_WoodenLogsLarge_North,.,.,.,.,TorchLamp</li>
+        <li>VFEPD_TeakTree,.,.,.,.,VFEPD_TeakTree,.,.,VFEPD_TeakTree,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,VFEPD_WoodenLogs_South</li>
+        <li>.,VFEPD_TeakTree,.,.,VFEPD_TeakTree,.,.,.,Wall_WoodLog,Wall_WoodLog,Shelf_WoodLog_North,.,.,Wall_WoodLog,VFEPD_WoodenLogs_West</li>
+        <li>.,.,.,.,.,VFEPD_TeakTree,.,VFEPD_TeakTree,Wall_WoodLog,.,.,.,.,Wall_WoodLog,Wall_WoodLog</li>
+        <li>VFEPD_WoodenWagon_North,.,VFEPD_TeakTree,VFEPD_TeakTree,.,.,.,.,Wall_WoodLog,Shelf_WoodLog_East,.,.,.,Shelf_WoodLog_West,Wall_WoodLog</li>
+        <li>.,.,.,.,.,VFEPD_TeakTree,VFEPD_TeakTree,.,Wall_WoodLog,Wall_WoodLog,.,TorchLamp,.,.,Wall_WoodLog</li>
+        <li>.,.,.,.,.,.,.,.,VFEPD_WoodenLogs_West,Wall_WoodLog,.,.,VFEPD_WoodenLogs_South,VFEPD_WoodenLogs_South,Wall_WoodLog</li>
+        <li>Fence_WoodLog,.,VFEPD_TeakTree,.,VFEPD_TeakTree,.,.,.,VFEPD_WoodenLogs_West,Wall_WoodLog,AnimalFlap_Leather_Plain,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Fence_WoodLog,.,.,.,VFEPD_BoxLarge_North,.,.,.,Wall_WoodLog,Wall_WoodLog,.,.,.,Wall_WoodLog,.</li>
+        <li>Fence_WoodLog,.,.,VFEPD_BoxLarge_West,VFEPD_BoxSmall_South,TorchLamp,.,.,Wall_WoodLog,.,TorchLamp,.,Bedroll_Leather_Light_South,Wall_WoodLog,.</li>
+        <li>Fence_WoodLog,.,.,.,VFEPD_BoxLarge_East,VFEPD_BoxSmall_West,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
+        <li>Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalLogging</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <!-- VGBE_TribalProduction -->
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalProduction1</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,Chicken,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,Chicken,.,Chicken,.,.,Chicken,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,Chicken,.,.</li>
+        <li>.,.,.,.,.,.,.,.,Chicken,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,Fence_WoodLog,Fence_WoodLog,FenceGate_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,.,.</li>
+        <li>.,VFEPD_WoodenWagon_East,.,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_BoxLarge_South</li>
+        <li>Plant_Brambles,.,.,Fence_WoodLog,.,.,.,.,.,.,Wall_WoodLog,EggBox_WoodLog,AnimalSleepingBox_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,.,VFEPD_PoplarTree,Fence_WoodLog,VFEPD_HayBaleMedium_West,.,.,.,VFEPD_PoplarTree,.,Wall_WoodLog,.,VFEPD_FilthAnimalFilth_North,EggBox_WoodLog,Wall_WoodLog</li>
+        <li>.,.,Fence_WoodLog,Fence_WoodLog,.,PenMarker_WoodLog,.,.,.,VFEPD_FilthAnimalFilth_North,Wall_WoodLog,.,.,EggBox_WoodLog,Wall_WoodLog</li>
+        <li>.,.,Fence_WoodLog,.,.,.,.,.,.,.,AnimalFlap_Leather_Plain,VFEPD_FilthAnimalFilth_North,.,AnimalSleepingBox_WoodLog,Wall_WoodLog</li>
+        <li>.,.,Fence_WoodLog,.,.,VFEPD_TeakTree,.,.,.,.,Wall_WoodLog,VFEPD_HayBaleSmall_South,VFEPD_FilthAnimalFilth_North,EggBox_WoodLog,Wall_WoodLog</li>
+        <li>.,.,Fence_WoodLog,Fence_WoodLog,.,.,.,.,VFEPD_Bush,VFEPD_HayBaleMedium_South,Wall_WoodLog,VFEPD_BrewingBarrel,AnimalSleepingBox_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,.,.,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,VFEPD_FilthAnimalFilth_North,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,VFEPD_FilthAnimalFilth_North,.,.,TorchLamp,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,VFEPD_FilthAnimalFilth_North,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,VFEPD_FilthAnimalFilth_North,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalProduction</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalProduction2</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,.,.</li>
+        <li>.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,WoodPlankFloor,.,.,.</li>
+        <li>.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,VFEPD_BerryBush,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,VFEPD_Bush</li>
+        <li>VFEPD_TeakTree,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,PlantPot_WoodLog,.,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,FermentingBarrel_East,FermentingBarrel_East,FermentingBarrel_East,Wall_WoodLog,.,.,.,VFEPD_FilthTrash_North,.,Wall_WoodLog</li>
+        <li>VFEPD_BerryBush,Wall_WoodLog,FermentingBarrel_South,.,.,.,Wall_WoodLog,Shelf_WoodLog_East,.,.,Stool_WoodLog_East,Brewery_East,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,FermentingBarrel_South,.,Brazier_BlocksGranite,.,Wall_WoodLog,Wall_WoodLog,TorchLamp,.,.,.,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,FermentingBarrel_South,.,PassiveCooler,.,VFEPD_BrewingBarrel,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,Wall_WoodLog,FermentingBarrel_South,.,.,.,.,.,.,.,VFEPD_WineRack_West,Wall_WoodLog,VFEPD_PoplarTree</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,VFEPD_WineRack_West,Wall_WoodLog,.</li>
+        <li>.,.,Wall_WoodLog,.,VFEPD_FilthChemfuel_North,.,.,.,.,.,VFEPD_WineRack_West,Wall_WoodLog,.</li>
+        <li>.,.,Wall_WoodLog,FermentingBarrel_West,FermentingBarrel_West,FermentingBarrel_West,FermentingBarrel_West,FermentingBarrel_West,FermentingBarrel_West,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
+        <li>.,VFEPD_PoplarTree,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,VFEPD_FilthChemfuel_North,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,VFEPD_FilthTrash_North,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,VFEPD_FilthChemfuel_North,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>.,.,.,.,.,.,.,.,1,1,1,1,.</li>
+      <li>.,.,.,.,.,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>.,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>.,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>.,1,1,1,1,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,1,1,1,1,.</li>
+      <li>.,1,1,1,1,1,1,1,1,1,1,1,.</li>
+      <li>.,.,1,1,1,1,1,1,1,1,1,.,.</li>
+      <li>.,.,1,1,1,1,1,1,1,1,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </roofGrid>
+    <tags>
+      <li>VGBE_TribalProduction</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalProduction3</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,WoodPlankFloor,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,.,.,.,.,StrawMatting,StrawMatting,.,StrawMatting,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,StrawMatting,StrawMatting,StrawMatting,StrawMatting,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,StrawMatting,StrawMatting,StrawMatting,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>VFEPD_Bush,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,.,.,.,.,.,.,.,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,.,.,Wall_WoodLog,Wall_WoodLog,VFEPD_WoodenLogs_South,VFEPD_WoodenLogs_South,.,.,.,.,VFEPD_TeakTree</li>
+        <li>Wall_WoodLog,.,.,.,TorchLamp,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Fence_WoodLog,Fence_WoodLog,.,.,Column_WoodLog</li>
+        <li>Wall_WoodLog,Shelf_WoodLog_East,.,.,.,.,.,Door_WoodLog,.,.,.,.,Fence_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,.,.,VFEPD_WeaponRackSwords_West,Wall_WoodLog,VFEPD_ArmorStandFull_East,Campfire_North,.,VFEPD_Anvil_West,Fence_WoodLog</li>
+        <li>Wall_WoodLog,Shelf_WoodLog_East,.,VFEPD_FilthTrash_North,Stool_WoodLog_South,.,.,Wall_WoodLog,VFEPD_WoodenChest_East,.,.,VFEPD_TanningRack_South,Fence_WoodLog</li>
+        <li>Wall_WoodLog,Wall_WoodLog,.,.,VFEPD_FilthRubbleSlag_North,.,Wall_WoodLog,Wall_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog</li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,VFEPD_FilthTrash_North,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,FueledSmithy_North,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,VFEPD_FilthRubbleSlag_North,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,VFEPD_FilthMachineBits_North,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>.,1,1,1,1,.,.,.,.,.,.,.,.</li>
+      <li>1,1,1,1,1,.,.,.,.,.,.,.,.</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>.,1,1,1,1,1,1,.,.,.,.,.,.</li>
+    </roofGrid>
+    <tags>
+      <li>VGBE_TribalProduction</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_Production4</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,VFEPD_BoxLarge_South,.,.,VFEPD_BrewingBarrel,VFEPD_BoxSmall_South,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Wall_WoodLog,VFEPD_PalletBoxes,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,.,.,.,VFEPD_PalletBoxes,.,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,Brazier_BlocksGranite,.,VFEPD_BrewingBarrel,.,.,VFEPD_BoxLarge_South,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,.,.,.,Wall_WoodLog,TorchLamp,.,.,.</li>
+        <li>Wall_WoodLog,VFEPD_BrewingBarrel,VFEPD_BoxLarge_South,VFEPD_BrewingBarrel,.,.,.,.,.,PlantPot_WoodLog,Wall_WoodLog</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,VFEPD_WoodenChestLarge_South,Wall_WoodLog,.,VFEPD_CoffeeTable_WoodLog_South,Wall_WoodLog,Wall_WoodLog</li>
+        <li>.,VFEPD_Bush,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalProduction</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_Production5</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.</li>
+        <li>.,.,WoodPlankFloor,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>VFEPD_TeakTree,.,.,.,.,.,.,.,.</li>
+        <li>.,.,VFEPD_Bush,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,TorchLamp,.,.,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,.,.,.,.,.,VFEPD_WoodenBookshelf_South,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,.,SimpleResearchBench_WoodLog_West,Stool_WoodLog_East,.,.,VFEPD_BoxLarge_South,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,.,.,.,.,VFEPD_WoodenBookshelf_South,Wall_WoodLog,Wall_WoodLog,.</li>
+        <li>Wall_WoodLog,Wall_WoodLog,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.</li>
+        <li>.,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_BrewingBarrel,.,.,.</li>
+        <li>VFEPD_Bush,.,.,TorchLamp,.,.,.,VFEPD_TeakTree,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalProduction</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <!-- VGBE_TribalDefence -->
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalDefence1</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,FlagstoneGranite,.,.,.,.,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,.,.,.,FlagstoneGranite,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>Plant_Grass,Plant_Grass,Plant_Grass,Plant_Grass,Plant_Grass,Skullspike_WoodLog,Plant_Grass,Plant_Grass,Plant_Grass,VFEPD_Banner_Leather_Bird_North</li>
+        <li>VFEPD_Bush,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,AnimalFlap_Leather_Plain,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,VFEPD_WoodenLogs_South,Plant_Grass</li>
+        <li>Wall_BlocksGranite,Wall_BlocksGranite,Bedroll_Leather_Light_North,.,.,.,Bedroll_Leather_Light_North,Wall_BlocksGranite,Wall_BlocksGranite,Plant_Grass</li>
+        <li>Wall_BlocksGranite,VFEPD_BoxLarge_West,.,.,.,VFEPD_FilthDirt_North,.,VFEPD_BoxSmall_West,Wall_BlocksGranite,VFEPD_PoplarTree</li>
+        <li>Wall_BlocksGranite,PlantPot_WoodLog,.,.,.,.,.,.,Wall_BlocksGranite,Plant_Grass</li>
+        <li>AnimalFlap_Leather_Plain,.,VFEPD_FilthDirt_North,.,.,.,Brazier_BlocksGranite,.,VFEPD_FilthDirt_North,Plant_Grass</li>
+        <li>Wall_BlocksGranite,.,Table1x2c_WoodLog_West,DiningChair_WoodLog_West,.,.,VFEPD_FilthDirt_North,VFEPD_BrewingBarrel,Wall_BlocksGranite,Plant_Grass</li>
+        <li>Wall_BlocksGranite,DiningChair_WoodLog_South,DiningChair_WoodLog_South,.,VFEPD_FilthDirt_North,.,.,VFEPD_BrewingBarrel,Wall_BlocksGranite,VFEPD_Bush</li>
+        <li>Wall_BlocksGranite,Wall_BlocksGranite,.,VFEPD_WeaponRackSwords_South,.,VFEPD_ArmorStandFull_South,Bedroll_Leather_Light_South,Wall_BlocksGranite,Wall_BlocksGranite,Plant_Grass</li>
+        <li>Skullspike_WoodLog,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,AnimalFlap_Leather_Plain,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Plant_Grass,Skullspike_WoodLog</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,AnimalFlap_Leather_Plain,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalDefence</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalDefence2</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,FlagstoneGranite,FlagstoneGranite,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,.,.,.</li>
+        <li>.,.,.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,.,.,.</li>
+        <li>.,.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,.,.</li>
+        <li>.,.,.,.,.,.,FlagstoneGranite,FlagstoneGranite,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,Barricade_WoodLog,Barricade_WoodLog,Barricade_WoodLog,Barricade_WoodLog,Barricade_WoodLog,.,.,.,.</li>
+        <li>.,.,.,.,TorchLamp,Barricade_WoodLog,.,.,.,Barricade_WoodLog,Barricade_WoodLog,TrapSpike_WoodLog,.,.</li>
+        <li>.,.,.,TrapSpike_WoodLog,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,Barricade_WoodLog,Barricade_WoodLog,.,VFEPD_ArrowCage,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,VFEPD_Banner_Leather_Bird_North,.,Barricade_WoodLog,Barricade_WoodLog,.</li>
+        <li>.,Barricade_WoodLog,.,.,Wall_WoodLog,Wall_WoodLog,VFEPD_BrewingBarrel,TorchLamp,Wall_WoodLog,Wall_WoodLog,.,.,Barricade_WoodLog,.</li>
+        <li>Plant_Grass,Barricade_WoodLog,.,.,Wall_WoodLog,Bedroll_Leather_Light_North,.,.,Bedroll_Leather_Light_North,Wall_WoodLog,VFEPD_PoplarTree,.,.,.</li>
+        <li>.,Barricade_WoodLog,.,.,Wall_WoodLog,.,.,.,.,Wall_WoodLog,.,.,.,Barricade_WoodLog</li>
+        <li>.,Barricade_WoodLog,Barricade_WoodLog,.,AnimalFlap_Leather_Plain,.,.,.,.,AnimalFlap_Leather_Plain,.,Campfire_North,.,Barricade_WoodLog</li>
+        <li>.,VFEPD_Bush,.,.,Wall_WoodLog,Wall_WoodLog,.,VFEPD_WeaponRackSpears_South,Wall_WoodLog,Wall_WoodLog,.,.,VFEPD_ArrowCage,Barricade_WoodLog</li>
+        <li>.,TorchLamp,.,.,VFEPD_PoplarTree,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,Barricade_WoodLog,Barricade_WoodLog</li>
+        <li>.,.,TrapSpike_WoodLog,.,.,.,.,.,.,.,TrapSpike_WoodLog,Barricade_WoodLog,Barricade_WoodLog,.</li>
+      </li>
+    </layouts>
+    <tags>
+      <li>VGBE_TribalDefence</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalDefence3</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,.,PavedTile,.,PavedTile,PavedTile,.,.</li>
+        <li>.,.,.,.,.,.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+        <li>.,.,.,.,.,.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+        <li>.,.,.,.,.,.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+        <li>PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+        <li>PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile</li>
+        <li>PavedTile,.,.,.,.,.,.,.,SilverTile,SilverTile,SilverTile,.,.,.,.,.,.,.,PavedTile,.</li>
+        <li>PavedTile,.,.,.,.,.,.,.,SilverTile,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,SilverTile,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,.</li>
+        <li>.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,.</li>
+        <li>.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+        <li>.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+        <li>.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,VFEPD_TeakTree,.,VFEPD_FilthRubbleRock_North,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,Door_BlocksGranite,SmoothedGranite,SmoothedGranite,Granite,VFEPD_BrewingBarrel,Granite,.,Granite,Granite,.,.</li>
+        <li>.,.,.,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,.,.,VFEPD_FilthRubbleRock_North,SmoothedGranite,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,.,.</li>
+        <li>.,VFEPD_Bush,.,Granite,Granite,Granite,SmoothedGranite,Brazier_BlocksGranite,.,Column_BlocksGranite,.,Brazier_BlocksGranite,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,Granite,VFEPD_Bush</li>
+        <li>VFEPD_OakTree,.,Granite,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,.,.,.,SmoothedGranite,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,Granite,Granite</li>
+        <li>Granite,Granite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,Granite,SmoothedGranite,SmoothedGranite,Door_BlocksGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,Granite,.</li>
+        <li>Granite,SmoothedGranite,SmoothedGranite,.,Bedroll_Leather_Light_West,SmoothedGranite,SmoothedGranite,SmoothedGranite,Drum_Cloth_South,.,VFEPD_ArmorStandFull_North,VFEPD_ArmorStandFull_North,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,Granite,Granite,Granite,Granite</li>
+        <li>VFEPD_BoxLarge_South,SmoothedGranite,.,.,.,SmoothedGranite,SmoothedGranite,.,.,.,.,.,VFEPD_ArmorStandEmpty_West,SmoothedGranite,TorchLamp,SmoothedGranite,SmoothedGranite,SmoothedGranite,Granite,Granite</li>
+        <li>Granite,SmoothedGranite,VFEPD_WoodenBookshelf_East,.,.,SmoothedGranite,Drum_Cloth_West,.,Column_BlocksGranite,.,Column_BlocksGranite,VFEPD_FilthRubbleRock_North,.,SmoothedGranite,.,.,Bedroll_Leather_Light_West,SmoothedGranite,Granite,.</li>
+        <li>Granite,SmoothedGranite,SmoothedGranite,TorchLamp,.,Door_BlocksGranite,.,.,.,Brazier_BlocksGranite,.,.,.,Door_BlocksGranite,.,.,.,SmoothedGranite,.,VFEPD_OakTree</li>
+        <li>Granite,Granite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,VFEPD_ArmorStandFull_East,.,Column_BlocksGranite,.,Column_BlocksGranite,.,VFEPD_ArmorStandFull_West,SmoothedGranite,.,.,.,SmoothedGranite,.,.</li>
+        <li>VFEPD_FilthRubbleRock_North,Granite,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,.,VFEPD_WeaponRackSwords_South,.,.,VFEPD_WeaponRackSpears_South,SmoothedGranite,SmoothedGranite,Bedroll_Leather_Light_South,.,VFEPD_WoodenChest_West,SmoothedGranite,Granite,Granite</li>
+        <li>.,.,Granite,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,SmoothedGranite,Door_BlocksGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,.,VFEPD_WoodenBookshelf_South,SmoothedGranite,SmoothedGranite,Granite,.</li>
+        <li>VFEPD_Bush,.,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,Brazier_BlocksGranite,.,.,VFEPD_FilthRubbleRock_North,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,Granite,Granite,.</li>
+        <li>.,.,Granite,Granite,Granite,SmoothedGranite,.,.,.,.,.,.,.,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,Granite</li>
+        <li>.,VFEPD_PoplarTree,Granite,Granite,Granite,SmoothedGranite,SculptureLarge_BlocksSandstone,.,.,.,.,.,SculptureLarge_BlocksSandstone,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,Granite</li>
+        <li>.,.,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,SmoothedGranite,.,Reliquary_BlocksGranite_South,.,.,SmoothedGranite,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,Granite</li>
+        <li>.,.,.,.,Granite,Granite,Granite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,SmoothedGranite,Granite,Granite,Granite,Granite,Granite,Granite,.</li>
+        <li>.,.,.,VFEPD_OakTree,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,Granite,.</li>
+        <li>VFEPD_TeakTree,.,.,.,.,.,.,.,.,VFEPD_TeakTree,.,VFEPD_FilthRubbleRock_North,VFEPD_FilthRubbleRock_North,Granite,Granite,.,VFEPD_Bush,.,.,VFEPD_TeakTree</li>
+      </li>
+      <li>
+        <li>.,.,.,VFEPD_BrewingBarrel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,Granite,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_FilthRubbleRock_North,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>.,.,.,.,.,.,.,1,1,1,1,1,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,1,1,1,1,1,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,1,1,1,1,1,1,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,1,1,1,1,1,.,.,.,.,.,.,.</li>
+      <li>.,.,.,1,1,1,.,1,1,1,1,1,1,.,.,.,.,.,.,.</li>
+      <li>.,.,1,1,1,1,.,1,1,1,1,1,1,1,.,.,.,.,.,.</li>
+      <li>.,.,1,1,1,1,.,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
+      <li>.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
+      <li>.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
+      <li>.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
+      <li>.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
+      <li>.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,.,.,.</li>
+      <li>.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,1,.,.,.</li>
+      <li>.,.,.,.,.,1,1,1,1,1,1,1,1,1,1,1,.,.,.,.</li>
+      <li>.,.,.,.,.,1,1,1,1,1,1,1,1,1,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,1,1,1,1,1,1,1,1,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,1,1,1,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </roofGrid>
+    <modRequirements>
+      <li>vanillaexpanded.vfepropsanddecor</li>
+      <li>ludeon.rimworld.royalty</li>
+      <li>ludeon.rimworld.ideology</li>
+    </modRequirements>
+    <tags>
+      <li>VGBE_TribalDefence</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_TribalDefence4</defName>
+    <layouts>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,WoodPlankFloor,.,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+        <li>.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+        <li>.,.,.,.,.,.,.,FlagstoneGranite,.,.,.</li>
+        <li>.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.</li>
+        <li>.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,.</li>
+        <li>.,.,.,.,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+      </li>
+      <li>
+        <li>VFEPD_BerryBush,Plant_Grass,Plant_Grass,VFEPD_BerryBush,Plant_Grass,Plant_Grass,VFEPD_BerryBush,Plant_Grass,Plant_TallGrass,VFEPD_Banner_Leather_Bird_North,Plant_Grass</li>
+        <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Wall_WoodLog,VFEPD_ArmorStandFull_East,.,.,.,.,.,Brazier_BlocksGranite,.,VFEPD_ArrowCage,Wall_WoodLog</li>
+        <li>Wall_WoodLog,VFEPD_ArmorStandFull_East,.,Stool_BlocksGranite_East,VFEPD_DinnerSet_West,.,Stool_BlocksGranite_East,.,.,VFEPD_WoodenChestLarge_West,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,.,Stool_BlocksGranite_East,VFEPD_Spices,VFEPD_DinnerSet_East,Stool_BlocksGranite_East,.,.,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,VFEPD_WeaponRackSpears_East,.,.,.,.,.,.,.,VFEPD_ArrowCage,Wall_WoodLog</li>
+        <li>Wall_WoodLog,Wall_WoodLog,VFEPD_ArmorStandEmpty_North,.,VFEPD_WeaponRackSpears_South,.,VFEPD_WeaponRackSwords_South,.,VFEPD_BrewingBarrel,Wall_WoodLog,Wall_WoodLog</li>
+        <li>Plant_Grass,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,AnimalFlap_Leather_Plain,Wall_WoodLog,Wall_WoodLog,Plant_Grass</li>
+        <li>Plant_Grass,Plant_Grass,Wall_WoodLog,.,.,.,.,.,Brazier_BlocksGranite,Wall_WoodLog,Plant_Grass</li>
+        <li>.,Plant_Grass,Wall_WoodLog,Drape_Cloth_East,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Plant_Grass</li>
+        <li>VFEPD_TeakTree,Plant_Grass,Wall_WoodLog,Wall_WoodLog,EndTable_WoodLog_South,.,DoubleBed_WoodLog_South,.,Wall_WoodLog,Plant_Grass,.</li>
+        <li>Plant_Grass,Plant_Grass,Plant_Grass,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Plant_Grass,VFEPD_PoplarTree</li>
+      </li>
+      <li>
+        <li>.,.,Plant_TallGrass,.,.,.,.,Plant_TallGrass,.,.,Plant_TallGrass</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,Table2x2c_BlocksGranite,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>Plant_TallGrass,.,.,.,.,.,.,.,.,.,Plant_TallGrass</li>
+        <li>Plant_TallGrass,Plant_TallGrass,.,.,.,.,.,.,.,.,Plant_TallGrass</li>
+        <li>.,Plant_Grass,.,.,.,.,.,.,.,.,Plant_TallGrass</li>
+        <li>.,Plant_TallGrass,.,.,.,.,.,.,.,Plant_TallGrass,.</li>
+        <li>Plant_TallGrass,Plant_TallGrass,Plant_Grass,.,.,.,.,.,.,Plant_TallGrass,.</li>
+      </li>
+      <li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,Plant_TallGrass</li>
+        <li>Plant_TallGrass,.,.,.,.,.,.,.,.,.,Plant_TallGrass</li>
+        <li>.,Plant_TallGrass,.,.,.,.,.,.,.,.,Plant_Dandelion</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,Plant_TallGrass,.,.,.,.,.,.,.,.</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1,1</li>
+      <li>.,.,1,1,1,1,1,1,1,1,.</li>
+      <li>.,.,1,1,1,1,1,1,1,1,.</li>
+      <li>.,.,1,1,1,1,1,1,1,1,.</li>
+      <li>.,.,1,1,1,1,1,1,1,.,.</li>
+      <li>.,.,.,1,1,1,1,1,1,.,.</li>
+    </roofGrid>
+    <tags>
+      <li>VGBE_TribalDefence</li>
     </tags>
   </KCSG.StructureLayoutDef>
 </Defs>

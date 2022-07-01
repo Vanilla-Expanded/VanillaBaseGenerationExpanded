@@ -30,7 +30,11 @@
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
           <chooseFromSettlements>
-            <li>VBGE_Tribals</li>
+            <li>VBGE_TribalProduction</li>
+            <li>VBGE_TribalMining</li>
+            <li>VBGE_TribalSlavery</li>
+            <li>VBGE_TribalLogging</li>
+            <li>VBGE_TribalDefence</li>
           </chooseFromSettlements>
           <preventBridgeable>true</preventBridgeable>
         </li>
@@ -44,7 +48,12 @@
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
           <chooseFromSettlements>
-            <li>VBGE_Outlanders</li>
+            <li>VBGE_OutlanderProduction</li>
+            <li>VBGE_OutlanderMining</li>
+            <li>VBGE_OutlanderSlavery</li>
+            <li>VBGE_OutlanderLogging</li>
+            <li>VBGE_OutlanderDefence</li>
+            <li>VBGE_OutlanderFields</li>
           </chooseFromSettlements>
           <preventBridgeable>true</preventBridgeable>
         </li>
@@ -58,8 +67,8 @@
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
           <chooseFromSettlements>
-            <li>VBGE_Pirates</li>
-            <li>VBGE_Outlanders</li>
+            <li>VBGE_OutlanderSlavery</li>
+            <li>VBGE_OutlanderDefence</li>
           </chooseFromSettlements>
           <preventBridgeable>true</preventBridgeable>
           <symbolResolvers>
