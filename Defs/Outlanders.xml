@@ -136,7 +136,9 @@
       </allowedMortarsDefs>
       <pawnGroupMultiplier>1.7</pawnGroupMultiplier>
     </defenseOptions>
-    <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
+    <stockpileOptions>
+      <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseOutlander">
     <defName>VBGE_OutlanderProduction</defName>
@@ -155,6 +157,17 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>MedicineIndustrial</li>
+        <li>ComponentIndustrial</li>
+        <li>Neutroamine</li>
+        <li>Chemfuel</li>
+        <li>ReinforcedBarrel</li>
+        <li>Steel</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseOutlander">
     <defName>VBGE_OutlanderMining</defName>
@@ -169,6 +182,15 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Steel</li>
+        <li>Gold</li>
+        <li>Plasteel</li>
+        <li>Silver</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseOutlander">
     <defName>VBGE_OutlanderSlavery</defName>
@@ -187,6 +209,17 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Apparel_Parka</li>
+        <li>Apparel_Pants</li>
+        <li>Apparel_BasicShirt</li>
+        <li>Apparel_CollarShirt</li>
+        <li>Apparel_Jacket</li>
+        <li>Apparel_Duster</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseOutlander">
     <defName>VBGE_OutlanderLogging</defName>
@@ -201,6 +234,12 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>WoodLog</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseOutlander">
     <defName>VBGE_OutlanderFields</defName>
@@ -219,6 +258,21 @@
         </li>
       </allowedStructures>
     </peripheralBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Milk</li>
+        <li>EggChickenUnfertilized</li>
+        <li>EggGooseUnfertilized</li>
+        <li>RawPotatoes</li>
+        <li>RawRice</li>
+        <li>RawBerries</li>
+        <li>RawHops</li>
+        <li>SmokeleafLeaves</li>
+        <li>Leather_Plain</li>
+        <li>Leather_Bluefur</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseOutlander">
     <defName>VBGE_OutlanderDefence</defName>
@@ -265,5 +319,23 @@
     <defenseOptions>
       <pawnGroupMultiplier>1.8</pawnGroupMultiplier>
     </defenseOptions>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Bullet_Revolver</li>
+        <li>Gun_Autopistol</li>
+        <li>Gun_MachinePistol</li>
+        <li>Gun_SmokeLauncher</li>
+        <li>Gun_EmpLauncher</li>
+        <li>Gun_BoltActionRifle</li>
+        <li>Gun_PumpShotgun</li>
+        <li>Gun_ChainShotgun</li>
+        <li>Gun_HeavySMG</li>
+        <li>Gun_LMG</li>
+        <li>Gun_AssaultRifle</li>
+        <li>Gun_SniperRifle</li>
+        <li>Gun_Minigun</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
 </Defs>

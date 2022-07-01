@@ -163,7 +163,9 @@
       </allowedMortarsDefs>
       <pawnGroupMultiplier>1.45</pawnGroupMultiplier>
     </defenseOptions>
-    <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
+    <stockpileOptions>
+      <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
     <defName>VBGE_EmpireProduction</defName>
@@ -182,6 +184,16 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>MedicineIndustrial</li>
+        <li>ComponentIndustrial</li>
+        <li>Neutroamine</li>
+        <li>Chemfuel</li>
+        <li>ReinforcedBarrel</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
     <defName>VBGE_EmpireMining</defName>
@@ -196,6 +208,15 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Steel</li>
+        <li>Gold</li>
+        <li>Plasteel</li>
+        <li>Silver</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
     <defName>VBGE_EmpireSlavery</defName>
@@ -214,6 +235,18 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Apparel_Parka</li>
+        <li>Apparel_Pants</li>
+        <li>Apparel_BasicShirt</li>
+        <li>Apparel_CollarShirt</li>
+        <li>Apparel_Jacket</li>
+        <li>Apparel_Duster</li>
+        <li>Apparel_FlakVest</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
     <defName>VBGE_EmpireLogging</defName>
@@ -228,6 +261,12 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>WoodLog</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseEmpire">
     <defName>VBGE_EmpireDefence</defName>
@@ -276,6 +315,25 @@
     <defenseOptions>
       <pawnGroupMultiplier>1.8</pawnGroupMultiplier>
     </defenseOptions>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>MeleeWeapon_MonoSword</li>
+        <li>MeleeWeapon_Zeushammer</li>
+        <li>Bullet_Revolver</li>
+        <li>Gun_Autopistol</li>
+        <li>Gun_MachinePistol</li>
+        <li>Gun_SmokeLauncher</li>
+        <li>Gun_EmpLauncher</li>
+        <li>Gun_BoltActionRifle</li>
+        <li>Gun_PumpShotgun</li>
+        <li>Gun_ChainShotgun</li>
+        <li>Gun_HeavySMG</li>
+        <li>Gun_LMG</li>
+        <li>Gun_AssaultRifle</li>
+        <li>Gun_SniperRifle</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <!-- EmpireShuttle -->
   <KCSG.StructureLayoutDef>

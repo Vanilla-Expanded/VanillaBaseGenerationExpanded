@@ -68,7 +68,9 @@
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_WoodenWagon</li>
       </scatterPropsDefs>
     </propsOptions>
-    <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
+    <stockpileOptions>
+      <stockpileValueMultiplier>2.0</stockpileValueMultiplier>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
     <defName>VBGE_TribalProduction</defName>
@@ -87,6 +89,13 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>MedicineHerbal</li>
+        <li>Steel</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
     <defName>VBGE_TribalMining</defName>
@@ -101,6 +110,15 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Steel</li>
+        <li>Gold</li>
+        <li>Plasteel</li>
+        <li>Silver</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
     <defName>VBGE_TribalSlavery</defName>
@@ -112,6 +130,13 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>Apparel_TribalA</li>
+        <li>Apparel_Parka</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
     <defName>VBGE_TribalLogging</defName>
@@ -126,6 +151,12 @@
         </li>
       </allowedStructures>
     </centerBuildings>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>WoodLog</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <KCSG.SettlementLayoutDef ParentName="VBGE_BaseTribal">
     <defName>VBGE_TribalDefence</defName>
@@ -165,6 +196,19 @@
     <defenseOptions>
       <pawnGroupMultiplier>1.8</pawnGroupMultiplier>
     </defenseOptions>
+    <stockpileOptions>
+      <fillStorageBuildings>true</fillStorageBuildings>
+      <fillWithDefs>
+        <li>MeleeWeapon_Club</li>
+        <li>MeleeWeapon_Knife</li>
+        <li>MeleeWeapon_Ikwa</li>
+        <li>MeleeWeapon_Spear</li>
+        <li>Bow_Short</li>
+        <li>Pila</li>
+        <li>Bow_Recurve</li>
+        <li>Bow_Great</li>
+      </fillWithDefs>
+    </stockpileOptions>
   </KCSG.SettlementLayoutDef>
   <!-- TribalCenter -->
   <!-- <KCSG.StructureLayoutDef>
