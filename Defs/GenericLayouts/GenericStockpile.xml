@@ -1248,4 +1248,55 @@
       <li>GenericStockpile</li>
     </tags>
   </KCSG.StructureLayoutDef>
+  <KCSG.StructureLayoutDef>
+    <defName>VGBE_Stockpile21</defName>
+    <layouts>
+      <li>
+        <li>.,.,Concrete,.,.,.,.,.,Concrete,.</li>
+        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+        <li>.,.,Concrete,.,.,.,Concrete,Concrete,Concrete,.</li>
+        <li>Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete</li>
+        <li>Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
+        <li>.,.,Concrete,.,.,.,Concrete,Concrete,Concrete,.</li>
+        <li>.,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
+        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+        <li>.,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
+        <li>.,.,Concrete,.,.,.,.,.,PavedTile,.</li>
+      </li>
+      <li>
+        <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,StandingLamp,.,Shelf_WoodLog_North,.,Wall_BlocksSandstone,Shelf_WoodLog_North,.,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,.,.,.,.,.,.,.,StandingLamp,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Shelf_WoodLog_East,.,.,Shelf_WoodLog_South,Wall_BlocksSandstone,.,.,Shelf_WoodLog_West,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Shelf_WoodLog_East,.,.,Wall_BlocksSandstone</li>
+        <li>.,.,.,.,.,Wall_BlocksSandstone,.,.,.,Autodoor_Steel</li>
+        <li>.,.,.,.,.,Wall_BlocksSandstone,Shelf_WoodLog_East,.,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,.,.,Shelf_WoodLog_West,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,StandingLamp,.,Shelf_WoodLog_North,.,Wall_BlocksSandstone,Shelf_WoodLog_East,.,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,.,.,.,.,.,.,.,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Shelf_WoodLog_East,.,.,Shelf_WoodLog_South,Wall_BlocksSandstone,.,Shelf_WoodLog_South,.,Wall_BlocksSandstone</li>
+        <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone</li>
+      </li>
+    </layouts>
+    <roofGrid>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+      <li>1,1,1,1,1,1,1,1,1,1</li>
+    </roofGrid>
+    <isStorage>true</isStorage>
+    <tags>
+      <li>GenericStockpile</li>
+    </tags>
+  </KCSG.StructureLayoutDef>
 </Defs>
