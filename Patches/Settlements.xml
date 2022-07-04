@@ -67,8 +67,8 @@
       <modExtensions>
         <li Class="KCSG.CustomGenOption">
           <chooseFromSettlements>
-            <li>VBGE_OutlanderSlavery</li>
-            <li>VBGE_OutlanderDefence</li>
+            <li>VBGE_PirateSlavery</li>
+            <li>VBGE_PiratesDefence</li>
           </chooseFromSettlements>
           <preventBridgeable>true</preventBridgeable>
           <symbolResolvers>

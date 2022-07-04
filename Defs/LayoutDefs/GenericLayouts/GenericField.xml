@@ -4,19 +4,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field1</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid</li>
         <li>Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid</li>
@@ -39,19 +26,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field2</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>.,Plant_TreeCocoa,.,Plant_TreeCocoa,.</li>
         <li>.,.,.,.,.</li>
@@ -74,19 +48,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field3</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand</li>
         <li>Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand</li>
@@ -109,19 +70,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field4</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Haygrass,Plant_Haygrass,Plant_Haygrass,Plant_Haygrass,Plant_Haygrass</li>
         <li>Plant_Haygrass,Plant_Haygrass,Plant_Haygrass,Plant_Haygrass,Plant_Haygrass</li>
@@ -144,19 +92,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field5</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot</li>
         <li>Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot</li>
@@ -179,19 +114,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field6</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Agave,.,Plant_Agave,.,Plant_Agave</li>
         <li>.,.,.,.,.</li>
@@ -214,19 +136,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field7</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>.,Plant_Berry,.,Plant_Berry,.</li>
         <li>.,.,.,.,.</li>
@@ -249,15 +158,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field8</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand</li>
         <li>Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand,Plant_Devilstrand</li>
@@ -276,15 +176,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field9</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot</li>
         <li>Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot,Plant_Healroot</li>
@@ -303,15 +194,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field10</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf</li>
         <li>Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf</li>
@@ -330,15 +212,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field11</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid</li>
         <li>Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid,Plant_Psychoid</li>
@@ -357,15 +230,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field12</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice</li>
         <li>Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice</li>
@@ -384,15 +248,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field13</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>.,Plant_Ambrosia,.,Plant_Ambrosia,.</li>
         <li>.,.,.,.,.</li>
@@ -411,15 +266,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field14</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_TreeCocoa,.,Plant_TreeCocoa,.,Plant_TreeCocoa</li>
         <li>.,.,.,.,.</li>
@@ -438,19 +284,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field15</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Corn,Plant_Corn,Plant_Corn,Plant_Corn,Plant_Corn</li>
         <li>Plant_Corn,Plant_Corn,Plant_Corn,Plant_Corn,Plant_Corn</li>
@@ -473,19 +306,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field16</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice</li>
         <li>Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice,Plant_Rice</li>
@@ -508,19 +328,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field17</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Potato,Plant_Potato,Plant_Potato,Plant_Potato,Plant_Potato</li>
         <li>Plant_Potato,Plant_Potato,Plant_Potato,Plant_Potato,Plant_Potato</li>
@@ -543,19 +350,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field18</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Strawberry,Plant_Strawberry,Plant_Strawberry,Plant_Strawberry,Plant_Strawberry</li>
         <li>Plant_Strawberry,Plant_Strawberry,Plant_Strawberry,Plant_Strawberry,Plant_Strawberry</li>
@@ -578,19 +372,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field19</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Cotton,Plant_Cotton,Plant_Cotton,Plant_Cotton,Plant_Cotton</li>
         <li>Plant_Cotton,Plant_Cotton,Plant_Cotton,Plant_Cotton,Plant_Cotton</li>
@@ -613,19 +394,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field20</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Hops,Plant_Hops,Plant_Hops,Plant_Hops,Plant_Hops</li>
         <li>Plant_Hops,Plant_Hops,Plant_Hops,Plant_Hops,Plant_Hops</li>
@@ -648,19 +416,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Field21</defName>
     <layouts>
-      <!-- <li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-        <li>Soil,Soil,Soil,Soil,Soil</li>
-      </li> -->
       <li>
         <li>Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf</li>
         <li>Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf,Plant_Smokeleaf</li>
