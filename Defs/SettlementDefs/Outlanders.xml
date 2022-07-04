@@ -346,7 +346,7 @@
     <stockpileOptions>
       <fillStorageBuildings>true</fillStorageBuildings>
       <fillWithDefs>
-        <li>Bullet_Revolver</li>
+        <li>Gun_Revolver</li>
         <li>Gun_Autopistol</li>
         <li>Gun_MachinePistol</li>
         <li>Gun_SmokeLauncher</li>
