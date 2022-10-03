@@ -5,15 +5,6 @@
     <defName>VBGE_Batteries1</defName>
     <layouts>
       <li>
-        <li>.,.,.,Concrete,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,.</li>
-      </li>
-      <li>
         <li>.,Wall_BlocksGranite,Wall_BlocksGranite,Door_Steel,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,.,FirefoamPopper,.,.,Wall_BlocksGranite</li>
@@ -32,6 +23,15 @@
       <li>1,1,1,1,1,1,1</li>
       <li>.,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,Concrete,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>
@@ -39,12 +39,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Batteries2</defName>
     <layouts>
-      <li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-      </li>
       <li>
         <li>Wall_BlocksSandstone,Door_WoodLog,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone</li>
         <li>Wall_BlocksSandstone,.,.,.,Wall_BlocksSandstone</li>
@@ -58,6 +52,12 @@
       <li>1,1,1,1,1</li>
       <li>1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>
@@ -65,12 +65,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Batteries3</defName>
     <layouts>
-      <li>
-        <li>Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete</li>
-      </li>
       <li>
         <li>Column_BlocksMarble,.,.,Column_BlocksMarble</li>
         <li>.,Battery_East,.,.</li>
@@ -84,6 +78,12 @@
       <li>1,1,1,1</li>
       <li>1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>
@@ -91,12 +91,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Batteries4</defName>
     <layouts>
-      <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
-      </li>
       <li>
         <li>Column_BlocksGranite,.,.,Column_BlocksGranite</li>
         <li>.,.,.,.</li>
@@ -110,6 +104,12 @@
       <li>1,1,1,1</li>
       <li>1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>
@@ -117,12 +117,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Batteries5</defName>
     <layouts>
-      <li>
-        <li>Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete</li>
-      </li>
       <li>
         <li>Column_BlocksSandstone,.,Column_BlocksSandstone</li>
         <li>Battery_North,Battery_North,Battery_North</li>
@@ -136,6 +130,12 @@
       <li>1,1,1</li>
       <li>1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>
@@ -143,12 +143,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Batteries6</defName>
     <layouts>
-      <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-      </li>
       <li>
         <li>Column_BlocksLimestone,.,Battery_East,.,Column_BlocksLimestone</li>
         <li>.,.,.,.,.</li>
@@ -162,6 +156,12 @@
       <li>1,1,1,1,1</li>
       <li>1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>
@@ -169,12 +169,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Batteries7</defName>
     <layouts>
-      <li>
-        <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
-        <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
-        <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
-        <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
-      </li>
       <li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Door_WoodLog,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,Wall_BlocksSlate</li>
@@ -188,6 +182,12 @@
       <li>1,1,1,1,1</li>
       <li>1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
+      <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
+      <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
+      <li>FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate,FlagstoneSlate</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>
@@ -195,12 +195,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Batteries8</defName>
     <layouts>
-      <li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-      </li>
       <li>
         <li>Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
         <li>Wall_BlocksLimestone,Battery_North,Battery_North,Battery_North,Battery_North,Battery_North,Battery_North,.,Wall_BlocksLimestone</li>
@@ -214,6 +208,12 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericBattery</li>
     </tags>

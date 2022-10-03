@@ -5,15 +5,6 @@
     <defName>VBGESmallStockpile1</defName>
     <layouts>
       <li>
-        <li>.,.,.,.,.,.,.,.,.,Concrete,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
         <li>.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Door_Steel,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,.,.,.,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksGranite</li>
@@ -32,6 +23,15 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>.,1,1,1,1,1,1,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,Concrete,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <isStorage>true</isStorage>
     <tags>
       <li>GenericStockpile</li>
@@ -40,20 +40,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_ProtectedStockpile</defName>
     <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,TileGranite,.,.,.,.,.,.,.,.</li>
-        <li>.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.,.</li>
-        <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.</li>
-        <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.</li>
-        <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.</li>
-        <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.,.</li>
-        <li>.,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Door_Steel,Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,Sandbags_Cloth,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
@@ -83,6 +69,20 @@
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,TileGranite,.,.,.,.,.,.,.,.</li>
+      <li>.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.,.</li>
+      <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.</li>
+      <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.</li>
+      <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.</li>
+      <li>.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.,.</li>
+      <li>.,TileGranite,TileGranite,TileGranite,TileGranite,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <!-- <isStorage>true</isStorage> -->
     <tags>
       <li>GenericStockpile</li>
@@ -91,23 +91,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile1</defName>
     <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,FlagstoneLimestone,.,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,.,.,.,.,.,Plant_TallGrass,Column_WoodLog,.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
@@ -143,6 +126,23 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,FlagstoneLimestone,.,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,.,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <!-- <isStorage>true</isStorage> -->
     <tags>
       <li>GenericStockpile</li>
@@ -151,21 +151,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile2</defName>
     <layouts>
-      <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-      </li>
       <li>
         <li>.,.,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Plasteel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,.,.</li>
         <li>.,Turret_MiniTurret_Steel,Wall_BlocksSandstone,.,.,.,.,.,Wall_BlocksSandstone,Turret_MiniTurret_Steel,.</li>
@@ -197,6 +182,21 @@
       <li>.,.,1,1,1,1,1,1,1,.,.</li>
       <li>.,.,1,1,1,1,1,1,1,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -218,21 +218,6 @@
         <li>.,WoodLog,WoodLog,WoodLog,WoodLog,.,Steel,Steel,Steel,Steel,.</li>
         <li>.,WoodLog,WoodLog,WoodLog,.,.,.,Steel,Steel,Steel,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
       </li>
       <li>
         <li>Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Door_WoodLog,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
@@ -265,6 +250,21 @@
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -272,17 +272,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile4</defName>
     <layouts>
-      <li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-      </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Shelf_WoodLog_North,.,Shelf_WoodLog_North,.,Shelf_WoodLog_North,.,.,Shelf_WoodLog_West,.,.,Shelf_WoodLog_West,Wall_Steel</li>
@@ -306,6 +295,17 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -313,17 +313,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile5</defName>
     <layouts>
-      <li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-      </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Shelf_WoodLog_North,.,Shelf_WoodLog_North,.,.,Shelf_WoodLog_North,.,Wall_Steel</li>
@@ -347,6 +336,17 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -354,17 +354,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile6</defName>
     <layouts>
-      <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-      </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,Shelf_WoodLog_West,.,.,Shelf_WoodLog_West,Wall_Steel</li>
@@ -388,6 +377,17 @@
       <li>1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -395,15 +395,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile8</defName>
     <layouts>
-      <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-      </li>
       <li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Door_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,.,.,.,.,.,Wall_BlocksMarble,Battery_North,Wall_BlocksMarble,StandingLamp,Shelf_WoodLog_North,.,Shelf_WoodLog_North,.,Wall_BlocksMarble</li>
@@ -423,6 +414,15 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -430,17 +430,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile9</defName>
     <layouts>
-      <li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-      </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Autodoor_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,StandingLamp,.,.,.,.,.,StandingLamp,.,.,.,Wall_Steel</li>
@@ -464,6 +453,17 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -471,17 +471,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile10</defName>
     <layouts>
-      <li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-      </li>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
         <li>Wall_WoodLog,Shelf_WoodLog_North,.,.,.,.,Shelf_WoodLog_North,.,Wall_WoodLog</li>
@@ -505,6 +494,17 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -512,19 +512,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile11</defName>
     <layouts>
-      <li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-        <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
-      </li>
       <li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,.,Shelf_WoodLog_West,.,.,Shelf_WoodLog_West,.,.,Shelf_WoodLog_West,Wall_BlocksGranite</li>
@@ -552,6 +539,19 @@
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+      <li>FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite,FlagstoneGranite</li>
+    </terrainGrid>
     <tags>
       <!-- <li>GenericStockpile</li> -->
     </tags>
@@ -559,19 +559,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile12</defName>
     <layouts>
-      <li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-      </li>
       <li>
         <li>Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Door_WoodLog,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
         <li>Wall_BlocksLimestone,Shelf_WoodLog_North,.,.,Shelf_WoodLog_North,.,Shelf_WoodLog_North,.,Wall_BlocksLimestone</li>
@@ -599,6 +586,19 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -606,17 +606,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile13</defName>
     <layouts>
-      <li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-        <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
-      </li>
       <li>
         <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Door_WoodLog,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Door_WoodLog,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone</li>
         <li>Wall_BlocksSandstone,.,.,.,.,.,StandingLamp,.,.,.,.,Shelf_WoodLog_West,Wall_BlocksSandstone</li>
@@ -640,6 +629,17 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+      <li>CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -647,17 +647,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile14</defName>
     <layouts>
-      <li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-        <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
-      </li>
       <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
         <li>Wall_WoodLog,TorchLamp,.,.,.,.,.,.,.,TorchLamp,Wall_WoodLog</li>
@@ -681,6 +670,17 @@
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+      <li>StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -688,19 +688,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile15</defName>
     <layouts>
-      <li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-        <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
-      </li>
       <li>
         <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Door_Steel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone</li>
         <li>Wall_BlocksSandstone,.,.,Shelf_WoodLog_West,.,.,Shelf_WoodLog_North,.,Shelf_WoodLog_North,.,Wall_BlocksSandstone</li>
@@ -728,6 +715,19 @@
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+      <li>FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -735,17 +735,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile16</defName>
     <layouts>
-      <li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-      </li>
       <li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Door_WoodLog,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Shelf_WoodLog_North,.,.,.,StandingLamp,Shelf_WoodLog_North,.,Wall_BlocksSlate</li>
@@ -769,6 +758,17 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -776,17 +776,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile17</defName>
     <layouts>
-      <li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-        <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
-      </li>
       <li>
         <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone</li>
         <li>Wall_BlocksSandstone,.,.,Shelf_WoodLog_West,Wall_BlocksSandstone</li>
@@ -810,6 +799,17 @@
       <li>1,1,1,1,1</li>
       <li>1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+      <li>TileSandstone,TileSandstone,TileSandstone,TileSandstone,TileSandstone</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -817,28 +817,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile18</defName>
     <layouts>
-      <li>
-        <li>Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
-      </li>
       <li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,StandingLamp,Turret_MiniTurret_Steel,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Turret_MiniTurret_Steel,StandingLamp,Wall_BlocksMarble</li>
@@ -906,6 +884,28 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,.,.,.,.,.,.,.,.,.,.,.,.,.,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
+    </terrainGrid>
     <!-- <isStorage>true</isStorage> -->
     <tags>
       <li>GenericStockpile</li>
@@ -914,18 +914,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile19</defName>
     <layouts>
-      <li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-      </li>
       <li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Autodoor_Steel,Autodoor_Steel,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Turret_MiniTurret_Steel,.,.,Turret_MiniTurret_Steel,Wall_BlocksMarble,Wall_BlocksMarble</li>
@@ -951,6 +939,18 @@
       <li>1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+    </terrainGrid>
     <!-- <isStorage>true</isStorage> -->
     <tags>
       <li>GenericStockpile</li>
@@ -959,23 +959,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_Stockpile20</defName>
     <layouts>
-      <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-      </li>
       <li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Autodoor_Steel,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,Shelf_Steel_South,.,Shelf_Steel_South,Wall_BlocksGranite,StandingLamp,.,StandingLamp,Wall_BlocksGranite,.,Shelf_Steel_South,.,Shelf_Steel_South,Wall_BlocksGranite</li>
@@ -1011,6 +994,23 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <!-- <isStorage>true</isStorage> -->
     <tags>
       <li>GenericStockpile</li>
@@ -1019,20 +1019,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VGBE_Stockpile21</defName>
     <layouts>
-      <li>
-        <li>.,.,Concrete,.,.,.,.,.,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,Concrete,.,.,.,Concrete,Concrete,Concrete,.</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,Concrete,.,.,.,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,Concrete,.,.,.,.,.,PavedTile,.</li>
-      </li>
       <li>
         <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone</li>
         <li>Wall_BlocksSandstone,StandingLamp,.,Shelf_WoodLog_North,.,Wall_BlocksSandstone,Shelf_WoodLog_North,.,.,Wall_BlocksSandstone</li>
@@ -1062,6 +1048,20 @@
       <li>1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,Concrete,.,.,.,.,.,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,Concrete,.,.,.,Concrete,Concrete,Concrete,.</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,Concrete,.,.,.,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,Concrete,.,.,.,.,.,PavedTile,.</li>
+    </terrainGrid>
     <!-- <isStorage>true</isStorage> -->
     <tags>
       <li>GenericStockpile</li>
@@ -1070,28 +1070,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VGBE_Stockpile22</defName>
     <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
-        <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
-        <li>.,Concrete,.,.,MetalTile,MetalTile,MetalTile,.,.,PavedTile,PavedTile,.,.,MetalTile,MetalTile,MetalTile,.,.,Concrete,.</li>
-        <li>.,Concrete,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,PavedTile,PavedTile,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,Concrete,.</li>
-        <li>.,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,Concrete,.</li>
-        <li>.,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,Concrete,.</li>
-        <li>.,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,Concrete,.</li>
-        <li>.,Concrete,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,Concrete,.</li>
-        <li>.,Concrete,.,.,MetalTile,MetalTile,MetalTile,MetalTile,.,PavedTile,PavedTile,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,Concrete,.</li>
-        <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
-        <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,.,.,Concrete,PavedTile,PavedTile,Concrete,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,PavedTile,PavedTile,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,PavedTile,PavedTile,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-      </li>
       <li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>Wall_Steel,Wall_Steel,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel</li>
@@ -1137,6 +1115,28 @@
       <li>1,1,.,.,.,.,.,1,1,1,1,1,1,.,.,.,.,.,1,1</li>
       <li>.,1,.,.,.,.,.,.,1,1,1,1,.,.,.,.,.,.,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
+      <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
+      <li>.,Concrete,.,.,MetalTile,MetalTile,MetalTile,.,.,PavedTile,PavedTile,.,.,MetalTile,MetalTile,MetalTile,.,.,Concrete,.</li>
+      <li>.,Concrete,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,PavedTile,PavedTile,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,Concrete,.</li>
+      <li>.,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,Concrete,.</li>
+      <li>.,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,Concrete,.</li>
+      <li>.,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,Concrete,.</li>
+      <li>.,Concrete,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,PavedTile,PavedTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,Concrete,.</li>
+      <li>.,Concrete,.,.,MetalTile,MetalTile,MetalTile,MetalTile,.,PavedTile,PavedTile,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,Concrete,.</li>
+      <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
+      <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,.,.,Concrete,PavedTile,PavedTile,Concrete,.,.,.,.,.,.,.,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,PavedTile,PavedTile,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,PavedTile,PavedTile,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1165,28 +1165,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,.,Concrete,Concrete,Concrete,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.,.,.</li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,.,.,.,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
         <li>.,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
@@ -1233,6 +1211,28 @@
       <li>.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.,.,.</li>
       <li>.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,.,Concrete,Concrete,Concrete,Concrete,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.,.,.,.</li>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,.,.,.,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1256,24 +1256,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,Chemfuel,Chemfuel,.,.,.,.,.,.,Chemfuel,Chemfuel,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -1313,6 +1295,24 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,.,1,1,1,.,.,1,1,1,.,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1337,24 +1337,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,Chemfuel,Chemfuel,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,.,.,.,.</li>
-        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
-        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
       </li>
       <li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
@@ -1393,6 +1375,24 @@
       <li>.,.,1,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
       <li>.,.,.,1,1,1,1,1,1,1,1,1,1,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,.,.,.,.</li>
+      <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
+      <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1400,24 +1400,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VGBE_Stockpile26</defName>
     <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>Wall_Steel,Wall_Steel,.,Shelf_Steel_North,.,.,VFEPD_WarehouseShelfEmpty_South,Shelf_Steel_North,.,.,VFEPD_WarehouseShelfEmpty_South,Shelf_Steel_North,.,.,Wall_Steel,Wall_Steel</li>
@@ -1455,6 +1437,24 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,PavedTile,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1462,22 +1462,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VGBE_Stockpile27</defName>
     <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,Concrete,Concrete,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,.,.,.</li>
-      </li>
       <li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
@@ -1527,6 +1511,22 @@
       <li>1,1,1,1,1,1,1,1,.,.,.,.,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,.,.,.,.,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,Concrete,Concrete,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.,.,PavedTile,PavedTile,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1534,24 +1534,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VGBE_Stockpile28</defName>
     <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,StandingLamp,.,.,Shelf_Steel_North,.,VFEPD_WarehouseShelfEmpty_North,.,VFEPD_WarehouseShelfEmpty_North,.,Shelf_Steel_North,.,.,.,StandingLamp,Wall_Steel</li>
@@ -1589,6 +1571,24 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1596,24 +1596,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VGBE_Stockpile29</defName>
     <layouts>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,PavedTile,PavedTile,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,PavedTile,PavedTile,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.,.,PavedTile,PavedTile,.,.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.,.,.,.,.,.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.,.,.,.,.,.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,Shelf_Steel_North,.,.,Shelf_Steel_North,.,.,Shelf_Steel_North,.,.,.,Shelf_Steel_West,Wall_Steel</li>
@@ -1651,6 +1633,24 @@
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,PavedTile,PavedTile,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,PavedTile,PavedTile,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.,.,PavedTile,PavedTile,.,.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.,.,.,.,.,.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.,.,.,.,.,.,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>
@@ -1658,24 +1658,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VGBE_Stockpile30</defName>
     <layouts>
-      <li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,.,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>
         <li>.,Wall_WoodLog,StandingLamp,Shelf_WoodLog_North,.,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Shelf_WoodLog_North,.,StandingLamp,Wall_WoodLog,.</li>
@@ -1713,6 +1695,24 @@
       <li>.,1,1,1,1,1,.,.,.,.,1,1,1,1,1,.</li>
       <li>.,1,1,1,.,.,.,.,.,.,.,.,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,.,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericStockpile</li>
     </tags>

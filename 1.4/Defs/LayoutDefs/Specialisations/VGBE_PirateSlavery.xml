@@ -2,6 +2,23 @@
 <Defs>
   <KCSG.StructureLayoutDef>
     <defName>VGBE_PirateSlavery1</defName>
+    <terrainGrid>
+      <li>.,.,Slate,Slate,Slate,Slate,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Slate,.,.,.</li>
+      <li>Slate,Slate,Slate,Slate,Slate,Slate,Slate,.,.,.,Slate,Slate,Slate,Slate,Slate,.</li>
+      <li>Slate,Slate,Slate,Slate,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Slate,.,Slate,Slate,Slate,Slate,Slate,Slate,.</li>
+      <li>Slate,Slate,Slate,.,.,Bed_WoodLog_West,Wall_WoodLog,Slate,Slate,Slate,Slate,Bed_WoodLog_East,.,.,Slate,Slate</li>
+      <li>Fence_WoodLog,Slate,Slate,Slate,.,.,VFEPD_FilthBlood_North,Bed_WoodLog_North,VFEPD_FilthDirt_North,Bed_WoodLog_North,.,.,.,.,Slate,Slate</li>
+      <li>Fence_WoodLog,.,Slate,Slate,Slate,.,.,.,.,.,.,.,.,Slate,Slate,Fence_WoodLog</li>
+      <li>Fence_WoodLog,.,.,.,Slate,.,Column_WoodLog,VFEPD_FilthDirt_North,.,VFEPD_FilthDirt_North,.,Column_WoodLog,.,Wall_WoodLog,Slate,Fence_WoodLog</li>
+      <li>Fence_WoodLog,.,.,Slate,Wall_WoodLog,.,.,Bed_WoodLog_North,.,Bed_WoodLog_North,.,.,.,Wall_WoodLog,.,Fence_WoodLog</li>
+      <li>Fence_WoodLog,.,Slate,Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,VFEPD_FilthBlood_North,.,VFEPD_FilthDirt_North,Wall_WoodLog,Slate,Fence_WoodLog</li>
+      <li>Fence_WoodLog,.,.,Wall_WoodLog,.,VFEPD_FilthDirt_North,.,.,.,.,.,.,.,Slate,Slate,Fence_WoodLog</li>
+      <li>Fence_WoodLog,.,Slate,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,.,VFEPD_FilthDirt_North,.,.,Slate,Slate,Slate</li>
+      <li>Fence_WoodLog,Slate,Slate,.,StandingLamp,.,Skullspike_WoodLog,Sandbags_Cloth,.,.,Skullspike_WoodLog,.,.,.,Slate,Slate</li>
+      <li>Slate,Slate,Slate,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,Slate,Slate</li>
+      <li>.,Slate,Slate,Slate,Slate,WoodFiredGenerator,.,Wall_WoodLog,.,Wall_WoodLog,Slate,Slate,Slate,Slate,Slate,Slate</li>
+      <li>.,.,.,Slate,.,.,.,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Slate,Slate,Slate,Slate,.,Slate</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -19,23 +36,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,Slate,Slate,Slate,Slate,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Slate,.,.,.</li>
-        <li>Slate,Slate,Slate,Slate,Slate,Slate,Slate,.,.,.,Slate,Slate,Slate,Slate,Slate,.</li>
-        <li>Slate,Slate,Slate,Slate,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Slate,.,Slate,Slate,Slate,Slate,Slate,Slate,.</li>
-        <li>Slate,Slate,Slate,.,.,Bed_WoodLog_West,Wall_WoodLog,Slate,Slate,Slate,Slate,Bed_WoodLog_East,.,.,Slate,Slate</li>
-        <li>Fence_WoodLog,Slate,Slate,Slate,.,.,VFEPD_FilthBlood_North,Bed_WoodLog_North,VFEPD_FilthDirt_North,Bed_WoodLog_North,.,.,.,.,Slate,Slate</li>
-        <li>Fence_WoodLog,.,Slate,Slate,Slate,.,.,.,.,.,.,.,.,Slate,Slate,Fence_WoodLog</li>
-        <li>Fence_WoodLog,.,.,.,Slate,.,Column_WoodLog,VFEPD_FilthDirt_North,.,VFEPD_FilthDirt_North,.,Column_WoodLog,.,Wall_WoodLog,Slate,Fence_WoodLog</li>
-        <li>Fence_WoodLog,.,.,Slate,Wall_WoodLog,.,.,Bed_WoodLog_North,.,Bed_WoodLog_North,.,.,.,Wall_WoodLog,.,Fence_WoodLog</li>
-        <li>Fence_WoodLog,.,Slate,Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,VFEPD_FilthBlood_North,.,VFEPD_FilthDirt_North,Wall_WoodLog,Slate,Fence_WoodLog</li>
-        <li>Fence_WoodLog,.,.,Wall_WoodLog,.,VFEPD_FilthDirt_North,.,.,.,.,.,.,.,Slate,Slate,Fence_WoodLog</li>
-        <li>Fence_WoodLog,.,Slate,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,.,VFEPD_FilthDirt_North,.,.,Slate,Slate,Slate</li>
-        <li>Fence_WoodLog,Slate,Slate,.,StandingLamp,.,Skullspike_WoodLog,Sandbags_Cloth,.,.,Skullspike_WoodLog,.,.,.,Slate,Slate</li>
-        <li>Slate,Slate,Slate,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,Slate,Slate</li>
-        <li>.,Slate,Slate,Slate,Slate,WoodFiredGenerator,.,Wall_WoodLog,.,Wall_WoodLog,Slate,Slate,Slate,Slate,Slate,Slate</li>
-        <li>.,.,.,Slate,.,.,.,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Slate,Slate,Slate,Slate,.,Slate</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -78,6 +78,23 @@
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VGBE_PirateSlavery2</defName>
+    <terrainGrid>
+      <li>.,.,.,.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
+      <li>.,.,.,.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
+      <li>.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
+      <li>.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
+      <li>.,.,WoodPlankFloor,.,.,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
+      <li>.,.,WoodPlankFloor,.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,.,.,Concrete,Concrete,Concrete,.,.,FlagstoneSandstone,Concrete,Concrete,Concrete,.,.</li>
+      <li>.,WoodPlankFloor,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -94,23 +111,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,VESSlave,.,.,VESSlave,.,.,VESSlave,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
-        <li>.,.,.,.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
-        <li>.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
-        <li>.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
-        <li>.,.,WoodPlankFloor,.,.,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,.,.</li>
-        <li>.,.,WoodPlankFloor,.,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,PavedTile,Concrete,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,.,.,Concrete,Concrete,Concrete,.,.,FlagstoneSandstone,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,WoodPlankFloor,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,PavedTile,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,StrawMatting,PavedTile,WoodPlankFloor,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -154,6 +154,24 @@
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VGBE_PirateSlavery3</defName>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,.,PavedTile,.,.,.</li>
+      <li>.,.,.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,PavedTile,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,PavedTile,WoodPlankFloor,PavedTile,WoodPlankFloor,.</li>
+      <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,PavedTile</li>
+      <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,.</li>
+      <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,.</li>
+      <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,PavedTile,WoodPlankFloor,PavedTile,WoodPlankFloor,PavedTile</li>
+      <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -188,24 +206,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,Yayo,.,.,.,.</li>
         <li>.,.,.,.,.,PsychoidLeaves,PsychoidLeaves,.,.,.,.,Yayo,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,.,PavedTile,.,.,.</li>
-        <li>.,.,.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,PavedTile,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,PavedTile,WoodPlankFloor,PavedTile,WoodPlankFloor,.</li>
-        <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,PavedTile</li>
-        <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,.</li>
-        <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,WoodPlankFloor,PavedTile,WoodPlankFloor,.</li>
-        <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,PavedTile,PavedTile,WoodPlankFloor,PavedTile,WoodPlankFloor,PavedTile</li>
-        <li>.,Concrete,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,Concrete,Concrete,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
@@ -270,6 +270,24 @@
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VGBE_PirateSlavery4</defName>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,.,.,.,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,.,.,.,.</li>
+      <li>.,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,.</li>
+      <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
+      <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
+      <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
+      <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
+      <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
+      <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -305,24 +323,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,.,.,.,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,.,.,.,.</li>
-        <li>.,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,.</li>
-        <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
-        <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
-        <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
-        <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
-        <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
-        <li>.,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -368,6 +368,24 @@
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VGBE_PirateSlavery5</defName>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,Concrete,Concrete,.,.,.,.,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,Concrete,Concrete,.,.,Concrete,.,.,Concrete,.,.,Concrete,Concrete,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -403,24 +421,6 @@
         <li>.,.,.,.,.,SmokeleafLeaves,SmokeleafLeaves,.,.,SmokeleafLeaves,SmokeleafLeaves,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,Concrete,Concrete,.,.,.,.,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,Concrete,Concrete,.,.,Concrete,.,.,Concrete,.,.,Concrete,Concrete,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -484,6 +484,24 @@
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VGBE_PirateSlavery6</defName>
+    <terrainGrid>
+      <li>.,.,.,Concrete,.,.,.,.,.,.,.,.,Concrete,.,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,.</li>
+      <li>.,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,.</li>
+      <li>.,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,.</li>
+      <li>.,.,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+      <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -519,24 +537,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,Concrete,.,.,.,.,.,.,.,.,Concrete,.,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,.</li>
-        <li>.,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,.</li>
-        <li>.,Concrete,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,.</li>
-        <li>.,.,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
-        <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -638,24 +638,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,.,.,.,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,.,.,.,.,.,.,.,PavedTile,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
         <li>Wall_WoodLog,Wall_WoodLog,.,.,.,Column_WoodLog,.,.,.,.,Column_WoodLog,.,.,.,Wall_WoodLog,Wall_WoodLog</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_WoodLog,Wall_WoodLog,Wall_Steel,Door_WoodLog,Door_WoodLog,Wall_Steel,Wall_WoodLog,Wall_WoodLog,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
@@ -692,12 +674,46 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,.,.,.,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,.,.,.,.,.,.,.,PavedTile,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_PirateSlavery</li>
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VGBE_PirateSlavery8</defName>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
+      <li>.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,.,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,.,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -713,22 +729,6 @@
         <li>.,.,.,.,.,.,.,.,VESSlave,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,VESSlave,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.</li>
-        <li>.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,.,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,.,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,FlagstoneSandstone,FlagstoneSandstone,FlagstoneSandstone,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>

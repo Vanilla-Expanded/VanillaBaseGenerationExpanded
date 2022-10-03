@@ -15,16 +15,6 @@
         <li>.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>.,.,.,PavedTile,.,.,.,.</li>
-        <li>.,.,.,PavedTile,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,PavedTile,Concrete,Concrete,Concrete,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,Concrete,Concrete,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,Concrete,Concrete,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,PavedTile,.,.,.,.</li>
-      </li>
-      <li>
         <li>.,.,Plant_Bush,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>.,.,.,.,Wall_Steel,VFEPD_FilthVomit_North,Stool_Steel_East,Wall_Steel</li>
         <li>.,.,.,.,Wall_Steel,VFEPD_FilthTrash_North,Stool_Steel_East,Wall_Steel</li>
@@ -55,6 +45,16 @@
       <li>1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,PavedTile,.,.,.,.</li>
+      <li>.,.,.,PavedTile,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,PavedTile,Concrete,Concrete,Concrete,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,Concrete,Concrete,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,PavedTile,Concrete,Concrete,Concrete,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,PavedTile,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -76,21 +76,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,VESSlave,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,CarpetBlue,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,SterileTile,CarpetRed,CarpetRed,CarpetRed,CarpetRed,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,CarpetRed,CarpetRed,CarpetRed,CarpetRed,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,.,.,BrokenAsphalt,BrokenAsphalt,PavedTile,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,.,.,.,.,PavedTile,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,.,.,BrokenAsphalt,BrokenAsphalt,PavedTile,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,.,BrokenAsphalt,BrokenAsphalt,BrokenAsphalt,PavedTile,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,.,BrokenAsphalt,BrokenAsphalt,BrokenAsphalt,.,.,.,.</li>
       </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
@@ -138,6 +123,21 @@
       <li>1,1,1,1,1,1,.,.,.,1,1,1,1</li>
       <li>1,1,1,1,1,1,.,.,.,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,CarpetBlue,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,SterileTile,SterileTile,SterileTile,SterileTile,SterileTile,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,SterileTile,CarpetRed,CarpetRed,CarpetRed,CarpetRed,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,CarpetRed,CarpetRed,CarpetRed,CarpetRed,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,.,.,BrokenAsphalt,BrokenAsphalt,PavedTile,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,.,.,.,.,PavedTile,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,.,.,BrokenAsphalt,BrokenAsphalt,PavedTile,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,.,BrokenAsphalt,BrokenAsphalt,BrokenAsphalt,PavedTile,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,BrokenAsphalt,BrokenAsphalt,BrokenAsphalt,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -164,26 +164,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,VESSlave,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,CarpetCream,CarpetCream,CarpetBlue,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,CarpetCream,CarpetCream,CarpetBlue,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,WoodPlankFloor,WoodPlankFloor,CarpetBlue,CarpetCream</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetCream</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
       </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Wall_Steel,Wall_Steel</li>
@@ -226,6 +206,26 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,CarpetCream,CarpetCream,CarpetBlue,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,CarpetCream,CarpetCream,CarpetBlue,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,WoodPlankFloor,WoodPlankFloor,CarpetBlue,CarpetCream</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,CarpetCream,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetCream</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream,CarpetCream</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -276,27 +276,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile</li>
-        <li>.,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,PavedTile</li>
-        <li>.,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.,Concrete,Concrete,PavedTile,PavedTile,.,Concrete,PavedTile</li>
-        <li>.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>.,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
-        <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
-      </li>
-      <li>
         <li>Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,.,.,Fence_Steel,Fence_Steel,Fence_Steel</li>
         <li>Fence_Steel,StandingLamp,.,.,VFEPD_Hedge,.,.,.,VFEPD_Hedge,.,StandingLamp,.,.,.,Fence_Steel,VFEPD_LargeDecalWordPrison_North,.,Fence_Steel,StandingLamp,Fence_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Fence_Steel,.,.,Fence_Steel,.,Fence_Steel</li>
@@ -339,6 +318,27 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile</li>
+      <li>.,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.,Concrete,Concrete,PavedTile,PavedTile,Concrete,Concrete,PavedTile</li>
+      <li>.,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.,Concrete,Concrete,PavedTile,PavedTile,.,Concrete,PavedTile</li>
+      <li>.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>.,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
+      <li>TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,TileSlate,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -387,28 +387,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,ChunkSandstone,ChunkSandstone,.,.,.,ChunkSandstone,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,ChunkSandstone,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
-        <li>.,.,.,.,WoodPlankFloor,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
-        <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
@@ -479,6 +457,28 @@
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
+      <li>.,.,.,.,WoodPlankFloor,.,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
+      <li>.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,Concrete,Concrete,PavedTile,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -531,28 +531,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
-        <li>.,.,PavedTile,Concrete,PavedTile,.,.,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,PavedTile,Concrete,PavedTile,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
-        <li>.,PavedTile,Concrete,PavedTile,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
-        <li>WoodPlankFloor,WoodPlankFloor,Concrete,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,Concrete,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-        <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
-      </li>
-      <li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Fence_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog,Fence_WoodLog</li>
         <li>Wall_WoodLog,.,.,VFEPD_TanningRack_South,.,Wall_WoodLog,.,Wall_WoodLog,Bed_WoodLog_North,Stool_WoodLog_North,Bed_WoodLog_North,Wall_WoodLog,.,.,.,.,.,.,.,Fence_WoodLog</li>
         <li>Wall_WoodLog,HandTailoringBench_WoodLog_West,Stool_WoodLog_North,.,HandTailoringBench_WoodLog_East,Wall_WoodLog,.,Wall_WoodLog,.,.,.,Wall_WoodLog,.,.,.,.,.,.,.,Fence_WoodLog</li>
@@ -597,6 +575,28 @@
       <li>1,1,1,1,1,.,1,1,1,1,1,1,.,.,.,1,1,1,1,1</li>
       <li>1,1,1,1,1,.,1,1,1,1,1,1,.,.,.,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,Concrete,PavedTile,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
+      <li>.,.,PavedTile,Concrete,PavedTile,.,.,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,PavedTile,Concrete,PavedTile,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
+      <li>.,PavedTile,Concrete,PavedTile,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,PavedTile,Concrete,PavedTile,.</li>
+      <li>WoodPlankFloor,WoodPlankFloor,Concrete,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,Concrete,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+      <li>WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,MetalTile,MetalTile,WoodPlankFloor,WoodPlankFloor,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -646,28 +646,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,SilverTile,SilverTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,.</li>
-        <li>.,Concrete,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
-        <li>.,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -737,6 +715,28 @@
       <li>.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
       <li>.,.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,SilverTile,SilverTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,Concrete,.</li>
+      <li>.,Concrete,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,.,.,.,.,.,.,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,FineTileSlate,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,Concrete,.</li>
+      <li>.,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -765,28 +765,6 @@
         <li>.,.,.,.,.,.,.,.,.,VESSlave,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,VESSlave,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,Concrete,PavedTile,PavedTile,Concrete,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,Concrete,Concrete,Concrete,FineTileMarble,FineTileMarble,SilverTile,SilverTile,FineTileMarble,Concrete,Concrete,Concrete,Concrete,.,.,.</li>
-        <li>.,.,.,.,Concrete,Concrete,Concrete,FineTileMarble,SilverTile,GoldTile,GoldTile,SilverTile,FineTileMarble,Concrete,Concrete,Concrete,.,.,.,.</li>
-        <li>.,.,.,.,Concrete,GoldTile,GoldTile,FineTileMarble,SilverTile,GoldTile,GoldTile,SilverTile,FineTileMarble,GoldTile,GoldTile,Concrete,.,.,.,.</li>
-        <li>.,.,.,.,Concrete,GoldTile,GoldTile,FineTileMarble,SilverTile,GoldTile,GoldTile,FineTileMarble,FineTileMarble,GoldTile,GoldTile,Concrete,.,.,.,.</li>
-        <li>.,.,.,.,Concrete,Concrete,FineTileMarble,FineTileMarble,SilverTile,GoldTile,Concrete,FineTileMarble,Concrete,Concrete,Concrete,Concrete,.,.,.,.</li>
-        <li>.,.,.,.,.,Concrete,SilverTile,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,.,.,.,.,Concrete,SilverTile,SilverTile,GoldTile,FineTileMarble,FineTileMarble,GoldTile,GoldTile,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,.,.,.,.,Concrete,SilverTile,SilverTile,SilverTile,SilverTile,FineTileMarble,GoldTile,GoldTile,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,.,.,.,.,Concrete,Concrete,Concrete,SilverTile,SilverTile,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,Concrete,.,.,Concrete,Concrete,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
       </li>
       <li>
         <li>.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,VFEPD_BoxSmall_South,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.</li>
@@ -855,6 +833,28 @@
       <li>.,.,.,.,.,1,1,1,1,1,1,1,1,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,1,1,1,1,1,1,1,1,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,Concrete,PavedTile,PavedTile,Concrete,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,SilverTile,SilverTile,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,Concrete,Concrete,Concrete,FineTileMarble,FineTileMarble,SilverTile,SilverTile,FineTileMarble,Concrete,Concrete,Concrete,Concrete,.,.,.</li>
+      <li>.,.,.,.,Concrete,Concrete,Concrete,FineTileMarble,SilverTile,GoldTile,GoldTile,SilverTile,FineTileMarble,Concrete,Concrete,Concrete,.,.,.,.</li>
+      <li>.,.,.,.,Concrete,GoldTile,GoldTile,FineTileMarble,SilverTile,GoldTile,GoldTile,SilverTile,FineTileMarble,GoldTile,GoldTile,Concrete,.,.,.,.</li>
+      <li>.,.,.,.,Concrete,GoldTile,GoldTile,FineTileMarble,SilverTile,GoldTile,GoldTile,FineTileMarble,FineTileMarble,GoldTile,GoldTile,Concrete,.,.,.,.</li>
+      <li>.,.,.,.,Concrete,Concrete,FineTileMarble,FineTileMarble,SilverTile,GoldTile,Concrete,FineTileMarble,Concrete,Concrete,Concrete,Concrete,.,.,.,.</li>
+      <li>.,.,.,.,.,Concrete,SilverTile,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,.,.,.,.,Concrete,SilverTile,SilverTile,GoldTile,FineTileMarble,FineTileMarble,GoldTile,GoldTile,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,.,.,.,.,Concrete,SilverTile,SilverTile,SilverTile,SilverTile,FineTileMarble,GoldTile,GoldTile,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,.,.,.,.,Concrete,Concrete,Concrete,SilverTile,SilverTile,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,Concrete,.,.,Concrete,Concrete,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -904,28 +904,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,.,.,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -995,6 +973,28 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,FlagstoneSlate,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,.,.,FlagstoneSlate,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,FlagstoneSlate,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -1021,27 +1021,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,Concrete,.,.,Concrete,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -1108,6 +1087,27 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>.,1,1,1,1,1,1,.,.,.,.,.,.,1,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,Concrete,.,.,Concrete,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,Concrete,Concrete,Concrete,Concrete,.,.,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>
@@ -1158,28 +1158,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,PavedTile,Concrete,Concrete,Concrete,.,.,Concrete,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.,.</li>
-        <li>.,.,Concrete,.,PavedTile,PavedTile,PavedTile,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,PavedTile,.,PavedTile</li>
-        <li>.,.,Concrete,.,Concrete,PavedTile,.,.,PavedTile,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,.,PavedTile</li>
-        <li>.,.,.,.,.,.,.,.,.,CarpetDark,.,.,.,.,.,.,.,PavedTile,PavedTile,.</li>
-        <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,.,PavedTile,.,.</li>
-        <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,.,PavedTile,.,.</li>
-        <li>.,Concrete,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,PavedTile,.,.</li>
-        <li>Concrete,Concrete,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,.,.</li>
-        <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,.,.</li>
-        <li>Concrete,Concrete,PavedTile,PavedTile,Concrete,PavedTile,.,.,.,.,.,.,.,.,.,Concrete,Concrete,PavedTile,.,.</li>
-        <li>.,PavedTile,.,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,Concrete,PavedTile,.,PavedTile</li>
-        <li>.,Concrete,.,Concrete,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,.,.</li>
-        <li>PavedTile,Concrete,.,Concrete,Concrete,PavedTile,.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,.,.</li>
-        <li>.,Concrete,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
-        <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,PavedTile,Concrete,PavedTile,.</li>
-        <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,.,Concrete,.,.</li>
-        <li>.,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,.</li>
-        <li>.,.,.,.,.,.,Concrete,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,Concrete,.,.,.,.,.,.,Concrete,.,.,.,.,.,Concrete,PavedTile,.,.</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
@@ -1248,6 +1226,28 @@
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,PavedTile,Concrete,Concrete,Concrete,.,.,Concrete,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,.,.</li>
+      <li>.,.,Concrete,.,PavedTile,PavedTile,PavedTile,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,Concrete,PavedTile,PavedTile,.,PavedTile</li>
+      <li>.,.,Concrete,.,Concrete,PavedTile,.,.,PavedTile,PavedTile,Concrete,Concrete,PavedTile,Concrete,PavedTile,Concrete,Concrete,Concrete,.,PavedTile</li>
+      <li>.,.,.,.,.,.,.,.,.,CarpetDark,.,.,.,.,.,.,.,PavedTile,PavedTile,.</li>
+      <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,.,PavedTile,.,.</li>
+      <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,.,PavedTile,.,.</li>
+      <li>.,Concrete,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,PavedTile,.,.</li>
+      <li>Concrete,Concrete,.,PavedTile,Concrete,PavedTile,.,.,.,.,.,.,.,.,.,.,Concrete,Concrete,.,.</li>
+      <li>.,Concrete,.,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,PavedTile,PavedTile,.,.</li>
+      <li>Concrete,Concrete,PavedTile,PavedTile,Concrete,PavedTile,.,.,.,.,.,.,.,.,.,Concrete,Concrete,PavedTile,.,.</li>
+      <li>.,PavedTile,.,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,Concrete,PavedTile,.,PavedTile</li>
+      <li>.,Concrete,.,Concrete,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,.,.</li>
+      <li>PavedTile,Concrete,.,Concrete,Concrete,PavedTile,.,.,.,.,.,.,.,.,.,.,PavedTile,Concrete,.,.</li>
+      <li>.,Concrete,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.</li>
+      <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,PavedTile,Concrete,PavedTile,.</li>
+      <li>.,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,CarpetDark,.,Concrete,.,.</li>
+      <li>.,Concrete,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Concrete,.</li>
+      <li>.,.,.,.,.,.,Concrete,.,.,.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,Concrete,.,.,.,.,.,.,Concrete,.,.,.,.,.,Concrete,PavedTile,.,.</li>
+    </terrainGrid>
     <tags>
       <li>VGBE_Slavery</li>
     </tags>

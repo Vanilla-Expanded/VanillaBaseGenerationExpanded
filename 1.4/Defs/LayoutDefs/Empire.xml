@@ -5,21 +5,6 @@
     <defName>VBGEEmpireShuttle1</defName>
     <layouts>
       <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.</li>
-        <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
-        <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
-        <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
-        <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
-        <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
-        <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
-        <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
-        <li>.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
         <li>Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,Turret_MiniTurret_Steel,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth</li>
         <li>.,.,ShipLandingBeacon,.,.,.,.,.,.,.,ShipLandingBeacon,.,.</li>
@@ -35,6 +20,21 @@
         <li>Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth</li>
       </li>
     </layouts>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.</li>
+      <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
+      <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
+      <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
+      <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
+      <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
+      <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
+      <li>.,.,MetalTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,MetalTile,.,.</li>
+      <li>.,.,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>EmpireShuttle</li>
     </tags>
@@ -65,17 +65,6 @@
     <defName>VBGEThroneRoom1</defName>
     <layouts>
       <li>
-        <li>.,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,.</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>.,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,.</li>
-      </li>
-      <li>
         <li>.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,.,.,Drape_Cloth_South,.,.,.,.,.,SculptureLarge_WoodLog,.,Drape_Cloth_South,.,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,Brazier_Steel,.,.,.,.,.,Harpsichord_East,.,.,.,.,.,.,.,Wall_BlocksGranite</li>
@@ -98,6 +87,17 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>.,1,1,1,1,1,1,1,1,1,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,.</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>.,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,.</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -105,24 +105,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone1</defName>
     <layouts>
-      <li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,FineTileSlate,FineTileSlate,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,FineTileSlate,FineTileSlate,TileMarble</li>
-        <li>TileMarble,FineTileSlate,FineTileSlate,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,FineTileSlate,FineTileSlate,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>.,.,.,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,.,.,.</li>
-        <li>.,FineTileMarble,.,.,.,.,.,MetalTile,.,.,.,.,.,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>.,.,.,.,.,Brazier_BlocksMarble,.,.,.,Brazier_BlocksMarble,.,.,.,.,.</li>
         <li>.,SculptureGrand_Jade,.,.,.,.,.,.,.,.,.,.,SculptureGrand_WoodLog,.,.</li>
@@ -178,6 +160,24 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>TileMarble,FineTileSlate,FineTileSlate,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,FineTileSlate,FineTileSlate,TileMarble</li>
+      <li>TileMarble,FineTileSlate,FineTileSlate,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,FineTileSlate,FineTileSlate,TileMarble</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>.,.,.,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,.,.,.</li>
+      <li>.,FineTileMarble,.,.,.,.,.,MetalTile,.,.,.,.,.,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -185,24 +185,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone2</defName>
     <layouts>
-      <li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>.,.,.,.,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,.,.,.,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,.,.,MetalTile,.,.,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
       <li>
         <li>.,.,.,.,.,Column_BlocksMarble,.,.,.,Column_BlocksMarble,.,.,.,.,.</li>
         <li>.,.,Brazier_BlocksMarble,.,.,.,.,.,.,.,.,.,Brazier_BlocksMarble,.,.</li>
@@ -258,6 +240,24 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>.,.,.,.,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,.,.,.,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,TileMarble,MetalTile,MetalTile,MetalTile,TileMarble,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,.,.,.,MetalTile,.,.,.,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -265,17 +265,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone3</defName>
     <layouts>
-      <li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-        <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
-      </li>
       <li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Autodoor_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,Wall_Steel</li>
@@ -299,6 +288,17 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+      <li>FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble,FlagstoneMarble</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -306,17 +306,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone4</defName>
     <layouts>
-      <li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-        <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
-      </li>
       <li>
         <li>Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
         <li>Wall_Plasteel,.,.,.,.,.,.,.,Wall_Plasteel</li>
@@ -340,6 +329,17 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+      <li>CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen,CarpetGreen</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -347,17 +347,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone5</defName>
     <layouts>
-      <li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-        <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
-      </li>
       <li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Autodoor_Steel,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,.,.,.,.,.,.,.,Wall_BlocksMarble</li>
@@ -381,6 +370,17 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+      <li>CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue,CarpetBlue</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -388,23 +388,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone6</defName>
     <layouts>
-      <li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-        <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
-      </li>
       <li>
         <li>Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
         <li>Wall_Plasteel,.,.,.,.,.,.,.,Wall_Plasteel</li>
@@ -440,6 +423,23 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+      <li>MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile,MetalTile</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -447,23 +447,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone7</defName>
     <layouts>
-      <li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-        <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
-      </li>
       <li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,.,.,.,Brazier_Steel,.,.,.,Wall_BlocksMarble</li>
@@ -499,6 +482,23 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+      <li>FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble,FineTileMarble</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -506,23 +506,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone8</defName>
     <layouts>
-      <li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-      </li>
       <li>
         <li>Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
         <li>Wall_BlocksLimestone,.,.,.,.,.,.,.,Wall_BlocksLimestone</li>
@@ -558,6 +541,23 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -565,23 +565,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone9</defName>
     <layouts>
-      <li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-        <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
-      </li>
       <li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Autodoor_Steel,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksMarble</li>
@@ -617,6 +600,23 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+      <li>CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -624,23 +624,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireThrone10</defName>
     <layouts>
-      <li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-      </li>
       <li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Autodoor_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksGranite</li>
@@ -676,6 +659,23 @@
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+    </terrainGrid>
     <tags>
       <li>EmpireThrone</li>
     </tags>
@@ -704,28 +704,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,FlagstoneLimestone,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>FlagstoneLimestone,.,FlagstoneLimestone,.,Concrete,Concrete,.,FlagstoneLimestone,.,.,.,.,Concrete,.,.,.,.,.,.,.</li>
-        <li>.,.,Concrete,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.,.,.,.,.</li>
-        <li>.,FlagstoneLimestone,.,FlagstoneLimestone,.,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,PavedTile,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.</li>
-        <li>.,.,.,FlagstoneLimestone,.,.,.,CarpetCream,CarpetRed,CarpetCream,.,.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
-        <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
-        <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,PavedTile,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone</li>
-        <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
-        <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
-        <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,.,FlagstoneLimestone,.,.,.</li>
-        <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,.,.</li>
-        <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
-        <li>.,.,.,.,.,.,CarpetCream,CarpetRed,CarpetRed,CarpetRed,CarpetCream,.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
-        <li>Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,CarpetRed,CarpetRed,CarpetRed,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
-        <li>Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,CarpetRed,CarpetRed,CarpetRed,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,FlagstoneLimestone,.</li>
-        <li>.,Concrete,Concrete,PavedTile,Concrete,Concrete,.,.,.,.,FlagstoneMarble,.,.,FlagstoneLimestone,.,.,.,.,FlagstoneLimestone,.</li>
-        <li>.,Concrete,.,Concrete,PavedTile,Concrete,Concrete,Concrete,.,.,.,.,.,FlagstoneLimestone,.,.,.,.,.,.</li>
       </li>
       <li>
         <li>.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.,.,.,.,.</li>
@@ -772,6 +750,28 @@
       <li>.,1,1,1,1,1,1,1,1,1,1,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,FlagstoneLimestone,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>FlagstoneLimestone,.,FlagstoneLimestone,.,Concrete,Concrete,.,FlagstoneLimestone,.,.,.,.,Concrete,.,.,.,.,.,.,.</li>
+      <li>.,.,Concrete,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.,.,.,.,.</li>
+      <li>.,FlagstoneLimestone,.,FlagstoneLimestone,.,FlagstoneLimestone,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,PavedTile,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,.,.</li>
+      <li>.,.,.,FlagstoneLimestone,.,.,.,CarpetCream,CarpetRed,CarpetCream,.,.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
+      <li>.,.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
+      <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,PavedTile,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone</li>
+      <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
+      <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
+      <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,.,FlagstoneLimestone,.,.,.</li>
+      <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,.,.,.</li>
+      <li>.,CarpetFineBurgundy,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,CarpetCream,CarpetCream,CarpetRed,CarpetCream,CarpetCream,.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
+      <li>.,.,.,.,.,.,CarpetCream,CarpetRed,CarpetRed,CarpetRed,CarpetCream,.,.,.,.,FlagstoneLimestone,.,.,.,.</li>
+      <li>Concrete,PavedTile,PavedTile,PavedTile,PavedTile,.,.,CarpetRed,CarpetRed,CarpetRed,.,.,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.</li>
+      <li>Concrete,Concrete,Concrete,PavedTile,PavedTile,PavedTile,.,CarpetRed,CarpetRed,CarpetRed,.,.,.,FlagstoneLimestone,FlagstoneLimestone,FlagstoneLimestone,.,.,FlagstoneLimestone,.</li>
+      <li>.,Concrete,Concrete,PavedTile,Concrete,Concrete,.,.,.,.,FlagstoneMarble,.,.,FlagstoneLimestone,.,.,.,.,FlagstoneLimestone,.</li>
+      <li>.,Concrete,.,Concrete,PavedTile,Concrete,Concrete,Concrete,.,.,.,.,.,FlagstoneLimestone,.,.,.,.,.,.</li>
+    </terrainGrid>
     <modRequirements>
       <li>ludeon.rimworld.royalty</li>
       <li>vanillaexpanded.vfepropsanddecor</li>
@@ -784,17 +784,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireBedrooms1</defName>
     <layouts>
-      <li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-        <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
-      </li>
       <li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Autodoor_Steel,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,StandingLamp,.,.,.,.,PlantPot_WoodLog,PlantPot_WoodLog,Wall_BlocksGranite</li>
@@ -818,6 +807,17 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+      <li>FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite,FineTileGranite</li>
+    </terrainGrid>
     <tags>
       <li>EmpireBedrooms</li>
     </tags>
@@ -825,17 +825,6 @@
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireBedrooms2</defName>
     <layouts>
-      <li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-        <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
-      </li>
       <li>
         <li>Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Autodoor_Steel,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone,Wall_BlocksSandstone</li>
         <li>Wall_BlocksSandstone,.,Table1x2c_Steel_West,.,.,.,SculptureLarge_Steel,.,Wall_BlocksSandstone</li>
@@ -859,24 +848,35 @@
       <li>1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+      <li>CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite</li>
+    </terrainGrid>
     <tags>
       <li>EmpireBedrooms</li>
     </tags>
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireBedrooms3</defName>
+    <terrainGrid>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+      <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
+    </terrainGrid>
     <layouts>
-      <li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-        <li>FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone,FineTileLimestone</li>
-      </li>
       <li>
         <li>Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Autodoor_Steel,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone,Wall_BlocksLimestone</li>
         <li>Wall_BlocksLimestone,Heater,.,.,.,.,.,.,Wall_BlocksLimestone</li>
@@ -906,18 +906,18 @@
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireBedrooms4</defName>
+    <terrainGrid>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+      <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
+    </terrainGrid>
     <layouts>
-      <li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-        <li>CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo,CarpetFineIndigo</li>
-      </li>
       <li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Autodoor_Steel,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,.,.,.,.,Wall_BlocksSlate</li>
@@ -947,6 +947,19 @@
   </KCSG.StructureLayoutDef>
   <KCSG.StructureLayoutDef>
     <defName>VBGE_EmpireBedrooms5</defName>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,CarpetFineWhite,.,CarpetFineWhite,.,.,.</li>
+      <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
+      <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
+      <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
+      <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
+      <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
+      <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
+      <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <layouts>
       <li>
         <li>.,.,.,.,.,.,.,.,.</li>
@@ -959,19 +972,6 @@
         <li>.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,CarpetFineWhite,.,CarpetFineWhite,.,.,.</li>
-        <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
-        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
-        <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
-        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
-        <li>.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.</li>
-        <li>.,.,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,CarpetFineWhite,.,.</li>
-        <li>.,.,.,CarpetFineBurgundy,CarpetFineBurgundy,CarpetFineBurgundy,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>

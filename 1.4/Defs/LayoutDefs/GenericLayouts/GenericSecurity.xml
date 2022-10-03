@@ -19,20 +19,6 @@
         <li>.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,.,.</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-      </li>
-      <li>
         <li>.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.</li>
         <li>.,Wall_BlocksGranite,.,Shelf_Steel_North,.,.,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
         <li>.,Wall_BlocksGranite,Shelf_Steel_East,.,FirefoamPopper,.,Shelf_Steel_West,Wall_BlocksGranite,.</li>
@@ -61,6 +47,20 @@
       <li>.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,.,.</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -78,17 +78,6 @@
         <li>.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
-        <li>.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
-        <li>.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
-        <li>Concrete,Concrete,Concrete,Concrete,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
-        <li>Concrete,Concrete,Concrete,Concrete,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,.,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,.,Concrete,Concrete,.,.,Concrete,Concrete,Concrete,Concrete</li>
       </li>
       <li>
         <li>.,.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
@@ -113,6 +102,17 @@
       <li>.,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,.</li>
+      <li>.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
+      <li>.,.,.,.,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
+      <li>Concrete,Concrete,Concrete,Concrete,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
+      <li>Concrete,Concrete,Concrete,Concrete,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite,TileGranite</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,.,Concrete,Concrete,Concrete,.,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,.,Concrete,Concrete,.,.,Concrete,Concrete,Concrete,Concrete</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -145,15 +145,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,Concrete,Concrete,Concrete</li>
-      </li>
-      <li>
         <li>.,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Autodoor_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Wall_BlocksGranite,StandingLamp,.,Autodoor_BlocksGranite,.,.,.,Shelf_Steel_West,Wall_BlocksGranite</li>
         <li>Sandbags_Cloth,.,Turret_Mortar_Steel_West,.,.,.,Wall_BlocksGranite,.,.,.,.,Wall_BlocksGranite</li>
@@ -172,6 +163,15 @@
       <li>.,.,.,.,1,1,1,1,1,1,1,1</li>
       <li>.,.,.,.,1,1,1,.,.,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.,.,.,Concrete,Concrete,Concrete</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -228,22 +228,6 @@
         <li>.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
-        <li>.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>.,.,.,Concrete,.,.,Concrete,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
         <li>.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.</li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,StandingLamp,Shelf_WoodLog_North,.,Shelf_WoodLog_North,.,StandingLamp,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,.,.,.,.,.,.,Shelf_WoodLog_West,Wall_BlocksGranite</li>
@@ -276,6 +260,22 @@
       <li>.,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>.,.,.,Concrete,.,.,Concrete,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -298,23 +298,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,.,PavedTile,PavedTile,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.</li>
-        <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.</li>
-        <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.</li>
-        <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -352,6 +335,23 @@
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,.,PavedTile,PavedTile,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.</li>
+      <li>.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.</li>
+      <li>.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.</li>
+      <li>.,.,.,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,PavedTile,PavedTile,.,.,.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -369,17 +369,6 @@
         <li>.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,Shell_HighExplosive,Shell_Incendiary,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile</li>
-        <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
-        <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
       </li>
       <li>
         <li>.,.,Plant_TallGrass,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Plant_Grass</li>
@@ -404,6 +393,17 @@
       <li>.,.,.,1,1,1,1,1,1</li>
       <li>.,.,.,1,1,1,1,1,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile</li>
+      <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete</li>
+      <li>.,.,.,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -417,13 +417,6 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>PavedTile,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
-        <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,.</li>
-        <li>PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
-        <li>PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile</li>
-        <li>PavedTile,PavedTile,PavedTile,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile</li>
       </li>
       <li>
         <li>.,Shelf_Steel_North,.,Column_BlocksMarble,PlantPot_BlocksLimestone,.,PlantPot_BlocksLimestone,Column_BlocksMarble,.,Wall_Steel,Wall_Steel,Wall_Steel</li>
@@ -440,6 +433,13 @@
       <li>.,.,.,1,1,1,1,1,.,.,.,.</li>
       <li>.,.,.,1,1,1,1,1,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>PavedTile,.,.,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,PavedTile,.,.,.</li>
+      <li>PavedTile,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,PavedTile,Concrete,Concrete,Concrete,.</li>
+      <li>PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,.</li>
+      <li>PavedTile,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,Concrete,PavedTile</li>
+      <li>PavedTile,PavedTile,PavedTile,.,.,.,.,.,PavedTile,PavedTile,PavedTile,PavedTile</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -454,14 +454,6 @@
         <li>.,.,.,.,Shell_HighExplosive,Shell_HighExplosive,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.</li>
-      </li>
-      <li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>.,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
-        <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
       </li>
       <li>
         <li>.,.,.,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
@@ -480,6 +472,14 @@
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
       <li>1,1,1,1,1,1,1,1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>.,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,.</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+      <li>TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble,TileMarble</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
@@ -493,13 +493,6 @@
         <li>.,.,.,.</li>
         <li>.,.,.,.</li>
         <li>.,.,.,.</li>
-      </li>
-      <li>
-        <li>.,PavedTile,FlagstoneMarble,.</li>
-        <li>.,PavedTile,FlagstoneMarble,.</li>
-        <li>.,Concrete,Concrete,.</li>
-        <li>FlagstoneMarble,Concrete,FlagstoneMarble,FlagstoneMarble</li>
-        <li>PavedTile,PavedTile,PavedTile,FlagstoneMarble</li>
       </li>
       <li>
         <li>.,.,Shelf_Steel_South,.</li>
@@ -523,6 +516,13 @@
       <li>1,1,1,1</li>
       <li>1,1,1,1</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,PavedTile,FlagstoneMarble,.</li>
+      <li>.,PavedTile,FlagstoneMarble,.</li>
+      <li>.,Concrete,Concrete,.</li>
+      <li>FlagstoneMarble,Concrete,FlagstoneMarble,FlagstoneMarble</li>
+      <li>PavedTile,PavedTile,PavedTile,FlagstoneMarble</li>
+    </terrainGrid>
     <tags>
       <li>GenericSecurity</li>
     </tags>
