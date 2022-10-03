@@ -581,11 +581,11 @@
         <li>.,.,.,.,.,Wall_Steel,Wall_Plasteel,Barricade_Jade,.,.,.,.,.,Wall_Plasteel,Wall_Steel,.,.,.,.,.</li>
         <li>.,.,.,.,Wall_Steel,Wall_Steel,Wall_Plasteel,Barricade_Jade,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,SculptureSmall_BlocksSlate,Wall_Plasteel,Wall_Steel,Wall_Steel,.,.,.,.</li>
         <li>.,.,.,.,Wall_Steel,Wall_Plasteel,Wall_Plasteel,Barricade_Jade,Door_Plasteel,Drape_Hyperweave_North,.,Door_Plasteel,Armchair_Hyperweave_East,Wall_Plasteel,Wall_Plasteel,Wall_Steel,.,.,.,.</li>
-        <li>.,.,.,.,Wall_Steel,Wall_Plasteel,.,Barricade_Jade,Wall_Plasteel,TrapIED_AntigrainWarhead,SculptureSmall_Steel,Wall_Plasteel,.,Shelf_Steel_West,Wall_Plasteel,Wall_Steel,.,.,.,.</li>
+        <li>.,.,.,.,Wall_Steel,Wall_Plasteel,.,Barricade_Jade,Wall_Plasteel,TrapIED_HighExplosive,SculptureSmall_Steel,Wall_Plasteel,.,Shelf_Steel_West,Wall_Plasteel,Wall_Steel,.,.,.,.</li>
         <li>.,.,.,.,Wall_Steel,Wall_Plasteel,Shelf_Steel_East,Barricade_Jade,Wall_Plasteel,Door_Plasteel,Door_Plasteel,Wall_Plasteel,Bedroll_DevilstrandCloth_South,.,Wall_Plasteel,Wall_Steel,.,.,.,.</li>
         <li>Wall_Steel,Barricade_Steel,Wall_Steel,.,Wall_Steel,Wall_Plasteel,Wall_Plasteel,Barricade_Jade,Wall_Plasteel,.,Shelf_Plasteel_West,Wall_Plasteel,Column_Gold,Wall_Plasteel,Wall_Plasteel,Wall_Steel,.,Wall_Steel,Barricade_Steel,Wall_Steel</li>
-        <li>Barricade_Steel,Turret_MiniTurret_Plasteel,Barricade_Steel,.,Wall_Steel,Wall_Plasteel,Turret_MiniTurret_Plasteel,Column_Jade,Wall_Plasteel,Shelf_Plasteel_East,.,Wall_Plasteel,TrapIED_AntigrainWarhead,Turret_MiniTurret_Plasteel,Wall_Plasteel,Wall_Steel,.,Barricade_Steel,Turret_MiniTurret_Plasteel,Barricade_Steel</li>
-        <li>Wall_Steel,Barricade_Steel,Wall_Steel,.,Wall_Steel,Wall_Plasteel,Wall_Plasteel,TrapIED_AntigrainWarhead,Wall_Plasteel,.,Shelf_Plasteel_South,Wall_Plasteel,SculptureLarge_BlocksSlate,Wall_Plasteel,Wall_Plasteel,Wall_Steel,.,Wall_Steel,Barricade_Steel,Wall_Steel</li>
+        <li>Barricade_Steel,Turret_MiniTurret_Plasteel,Barricade_Steel,.,Wall_Steel,Wall_Plasteel,Turret_MiniTurret_Plasteel,Column_Jade,Wall_Plasteel,Shelf_Plasteel_East,.,Wall_Plasteel,TrapIED_HighExplosive,Turret_MiniTurret_Plasteel,Wall_Plasteel,Wall_Steel,.,Barricade_Steel,Turret_MiniTurret_Plasteel,Barricade_Steel</li>
+        <li>Wall_Steel,Barricade_Steel,Wall_Steel,.,Wall_Steel,Wall_Plasteel,Wall_Plasteel,TrapIED_HighExplosive,Wall_Plasteel,.,Shelf_Plasteel_South,Wall_Plasteel,SculptureLarge_BlocksSlate,Wall_Plasteel,Wall_Plasteel,Wall_Steel,.,Wall_Steel,Barricade_Steel,Wall_Steel</li>
         <li>.,.,.,.,Wall_Steel,Wall_Plasteel,.,SculptureSmall_Uranium,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Table1x2c_Jade_North,Shelf_Steel_West,Wall_Plasteel,Wall_Steel,.,.,.,.</li>
         <li>.,.,.,.,Wall_Steel,Wall_Plasteel,Shelf_Steel_East,PlantPot_Gold,Wall_Plasteel,Battery_East,.,Wall_Plasteel,.,.,Wall_Plasteel,Wall_Steel,.,.,.,.</li>
         <li>.,.,.,.,Wall_Steel,Wall_Plasteel,Wall_Plasteel,.,.,.,SculptureSmall_BlocksSandstone,.,Stool_Silver_East,Wall_Plasteel,Wall_Plasteel,Wall_Steel,.,.,.,.</li>
@@ -869,7 +869,7 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,Shell_Firefoam,ReinforcedBarrel,Shell_EMP,.,.,.,Shell_HighExplosive,Shell_Smoke,ReinforcedBarrel,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,Shell_AntigrainWarhead,.,.,.,.,.,.,.,Shell_Incendiary,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,Shell_HighExplosive,.,.,.,.,.,.,.,Shell_Incendiary,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -1093,7 +1093,7 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,Shell_EMP,Chemfuel,ComponentSpacer,Shell_HighExplosive,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Shell_AntigrainWarhead,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Shell_HighExplosive,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Shell_Incendiary,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
