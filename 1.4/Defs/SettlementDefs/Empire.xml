@@ -56,6 +56,10 @@
           <count>1~1</count>
           <tag>EmpireThrone</tag>
         </li>
+        <li>
+          <count>1~1</count>
+          <tag>EmpireProduction</tag>
+        </li>
       </allowedStructures>
     </centerBuildings>
     <roadOptions>

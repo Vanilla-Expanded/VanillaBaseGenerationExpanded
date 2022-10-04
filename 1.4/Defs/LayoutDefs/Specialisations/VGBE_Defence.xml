@@ -178,10 +178,10 @@
         <li>Fence_Steel,.,VFEPD_LargeDecalSymbolZero_North,VFEPD_LargeDecalSymbolOne_North,.,.,.,VFEPD_LargeDecalSymbolZero_North,VFEPD_LargeDecalSymbolTwo_North,.,.,.,.,.,Shelf_Steel_West,Wall_Steel</li>
         <li>Fence_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Shelf_Steel_South,.,Wall_Steel</li>
         <li>Wall_Steel,Battery_North,.,VFEPD_DecalArrowLong_South,.,.,.,VFEPD_DecalArrowLong_South,.,.,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,.,.,.,VFEPD_SkipWhite_South,.,.,.,.,.,Wall_Steel,.,StandingLamp_Blue,Shelf_Steel_North,.,Wall_Steel</li>
-        <li>Wall_Steel,Battery_North,.,.,.,.,VFEPD_FilthChemfuel_North,StandingLamp_Blue,.,.,Wall_Steel,.,Table1x2c_Steel_North,Stool_Steel_North,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,VFEPD_SkipWhite_South,.,.,.,.,.,Wall_Steel,.,StandingLamp,Shelf_Steel_North,.,Wall_Steel</li>
+        <li>Wall_Steel,Battery_North,.,.,.,.,VFEPD_FilthChemfuel_North,StandingLamp,.,.,Wall_Steel,.,Table1x2c_Steel_North,Stool_Steel_North,.,Wall_Steel</li>
         <li>Wall_Steel,.,Column_Steel,.,.,.,.,Column_Steel,.,.,Wall_Steel,.,.,.,VFEPD_DataConsole_West,Wall_Steel</li>
-        <li>Wall_Steel,.,StandingLamp_Blue,.,.,.,.,.,.,VFEPD_ContainerGrey_South,Wall_Steel,.,VFEPD_ElectricalCabinet_North,.,.,Wall_Steel</li>
+        <li>Wall_Steel,.,StandingLamp,.,.,.,.,.,.,VFEPD_ContainerGrey_South,Wall_Steel,.,VFEPD_ElectricalCabinet_North,.,.,Wall_Steel</li>
         <li>Wall_Steel,Shelf_Steel_East,.,.,VFEPD_FilthChemfuel_North,VFEPD_SkipWhite_South,.,.,.,.,Wall_Steel,.,Wall_Steel,VFEPD_PalletBarrelGreen,.,Wall_Steel</li>
         <li>Wall_Steel,.,Shelf_Steel_South,.,.,.,.,.,.,.,Door_Steel,.,Wall_Steel,.,.,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
@@ -273,10 +273,10 @@
       <li>
         <li>.,Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,.,Wall_Steel,.,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth,.</li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,.,Door_Steel,PodLauncher_East,.,PodLauncher_East,.,Door_Steel,.,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth</li>
-        <li>Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,StandingLamp_Red,.,Wall_Steel,.,CommsConsole_North,.,Wall_Steel,Wall_Steel,.,StandingLamp_Red,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth</li>
+        <li>Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,StandingLamp,.,Wall_Steel,.,CommsConsole_North,.,Wall_Steel,Wall_Steel,.,StandingLamp,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth</li>
         <li>Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,VFEPD_PersonalConsole_East,.,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
-        <li>Door_Steel,.,StandingLamp_Red,.,.,.,.,.,VFEPD_PlanningScreen_South,.,VFEPD_SteelTallCabinet_South,VFEPD_SteelCupboardNarrow_South,VFEPD_SteelTallCabinet_South,.,.,.,.,StandingLamp_Red,.,Door_Steel</li>
+        <li>Door_Steel,.,StandingLamp,.,.,.,.,.,VFEPD_PlanningScreen_South,.,VFEPD_SteelTallCabinet_South,VFEPD_SteelCupboardNarrow_South,VFEPD_SteelTallCabinet_South,.,.,.,.,StandingLamp,.,Door_Steel</li>
         <li>Wall_Steel,.,.,.,.,Turret_MiniTurret_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Turret_MiniTurret_Steel,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,Bed_Steel_East,.,.,.,Wall_Steel,.,.,StandingLamp,VFEPD_LargeDecalWordSecurity_South,.,.,Wall_Steel,.,.,.,Bed_Steel_West,.,Wall_Steel</li>
         <li>Wall_Steel,.,Wall_Steel,Wall_Steel,.,.,Wall_Steel,.,Turret_Mortar_Steel_South,.,.,.,Turret_Mortar_Steel_South,Wall_Steel,.,.,Wall_Steel,Wall_Steel,.,Wall_Steel</li>
@@ -285,10 +285,10 @@
         <li>Wall_Steel,.,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Turret_Mortar_Steel_North,.,.,.,Turret_Mortar_Steel_North,.,Wall_Steel,.,.,Wall_Steel,Wall_Steel,.,Wall_Steel</li>
         <li>Wall_Steel,.,Bed_Steel_East,.,.,.,Wall_Steel,.,.,VFEPD_LargeDecalWordSecurity_North,StandingLamp,.,.,Wall_Steel,.,.,.,Bed_Steel_West,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,Turret_MiniTurret_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Turret_MiniTurret_Steel,.,.,.,.,Wall_Steel</li>
-        <li>Door_Steel,.,StandingLamp_Red,.,.,.,Shelf_Steel_South,Bed_Steel_East,.,.,.,.,Bed_Steel_West,.,Shelf_Steel_South,.,.,StandingLamp_Red,.,Door_Steel</li>
+        <li>Door_Steel,.,StandingLamp,.,.,.,Shelf_Steel_South,Bed_Steel_East,.,.,.,.,Bed_Steel_West,.,Shelf_Steel_South,.,.,StandingLamp,.,Door_Steel</li>
         <li>Wall_Steel,.,.,.,.,Shelf_Steel_North,.,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Shelf_Steel_North,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,.,.,.,.,.,.,Wall_Steel,.,.,Wall_Steel,.,.,.,.,.,.,Wall_Steel,Wall_Steel</li>
-        <li>Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,StandingLamp_Red,.,Bed_Steel_South,Wall_Steel,.,.,Wall_Steel,Bed_Steel_South,.,StandingLamp_Red,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth</li>
+        <li>Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,StandingLamp,.,Bed_Steel_South,Wall_Steel,.,.,Wall_Steel,Bed_Steel_South,.,StandingLamp,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth</li>
         <li>Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>.,Sandbags_Cloth,Sandbags_Cloth,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Sandbags_Cloth,Sandbags_Cloth,.</li>
       </li>
@@ -988,14 +988,14 @@
     <layouts>
       <li>
         <li>.,.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,Wall_Steel</li>
-        <li>.,.,.,.,.,.,StandingLamp_Blue,.,.,Wall_Steel,.,.,.,VFEPD_ContainerGrey_East,.,.,.,Wall_Steel</li>
+        <li>.,.,.,.,.,.,StandingLamp,.,.,Wall_Steel,.,.,.,VFEPD_ContainerGrey_East,.,.,.,Wall_Steel</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>.,.,.,.,.,.,.,VFEPD_ContainerYellow_East,.,.,.,.,VFEPD_PalletBarrelGreen,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,ShipLandingBeacon,.,.,.,.,.,.,.,.,.,ShipLandingBeacon,.,.,.</li>
         <li>Wall_Steel,.,.,VFEPD_SpacerContainerStack,.,.,.,.,.,.,.,.,VFEPD_SpacerContainerLarge_North,.,.,.,.,.</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>Wall_Steel,.,StandingLamp_Blue,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_SpacerContainerLarge_South,.</li>
-        <li>Plant_Grass,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp_Blue,Wall_Steel</li>
+        <li>Wall_Steel,.,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_SpacerContainerLarge_South,.</li>
+        <li>Plant_Grass,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,VFEPD_AlbatrossWhite_East,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,VFEPD_ContainerYellow_South,VFEPD_SpacerContainerStack,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_LongCommandConsole_West,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
@@ -1022,7 +1022,7 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,ShipLandingBeacon,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,StandingLamp_Blue,.,.,.,.,.,.,StandingLamp_Blue,.,.,.,.</li>
+        <li>.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.,StandingLamp,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,Shelf_WoodLog_South,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>

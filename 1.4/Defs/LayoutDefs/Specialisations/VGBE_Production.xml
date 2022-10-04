@@ -438,7 +438,7 @@
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>Wall_Steel,Wall_Steel,StandingLamp,Heater,Shelf_Steel_North,.,VFEPD_TripleDisplay_North,.,Wall_Steel,Door_Steel,Door_Steel,Wall_Steel,VFEPD_TripleDisplay_North,.,Shelf_Steel_North,.,.,StandingLamp,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,VFEPD_TripleDisplay_West,Wall_Steel</li>
-        <li>Wall_Steel,VFEPD_TripleDisplay_East,.,.,.,.,StandingLamp_Red,.,.,.,.,.,.,StandingLamp_Red,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,VFEPD_TripleDisplay_East,.,.,.,.,StandingLamp,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Battery_North,.,.,.,HiTechResearchBench_Steel_North,.,.,.,.,.,.,.,.,HiTechResearchBench_Steel_North,.,.,.,Battery_North,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,VFEPD_PersonalConsole_South,.,.,VFEPD_PersonalConsole_South,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>.,.,VFEPD_TripleDisplay_South,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,VFEPD_TripleDisplay_South,Wall_Steel</li>
@@ -1802,10 +1802,10 @@
         <li>Wall_Steel,Fence_Steel,Fence_Steel,Wall_Steel,Fence_Steel,Fence_Steel,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Fence_Steel,Fence_Steel,Wall_Steel,Fence_Steel,Wall_Steel</li>
         <li>Fence_Steel,.,.,.,VFEPD_Pipes_West,.,.,.,.,.,Sandbags_Cloth,.,Wall_Steel,.,.,.,.,Wall_Steel</li>
         <li>Fence_Steel,VFEPD_Pipes_North,.,.,.,.,.,.,.,.,Wall_Steel,Door_WoodLog,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,StandingLamp_Red,.,Wall_Steel,Shelf_WoodLog_West,.,.,Shelf_WoodLog_West,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,StandingLamp,.,Wall_Steel,Shelf_WoodLog_West,.,.,Shelf_WoodLog_West,Wall_Steel</li>
         <li>Fence_Steel,.,.,.,VFEPD_Pipes_South,.,.,.,.,.,.,.,.,.,Shelf_WoodLog_East,.,.,Wall_Steel</li>
         <li>Fence_Steel,VFEPD_Pipes_North,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp_Red,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp,Wall_Steel</li>
         <li>Fence_Steel,.,.,.,.,.,.,.,.,.,VFEPD_GeneratorUnitLarge,.,.,VFEPD_GeneratorUnitLarge,.,VFEPD_BrickPile_BlocksSlate,.,Wall_Steel</li>
         <li>Fence_Steel,.,.,VFEPD_CarForklift_East,.,.,.,.,.,.,.,.,VFEPD_BrickPile_BlocksSlate,.,.,VFEPD_BrickPile_BlocksSlate,VFEPD_BrickPile_BlocksSlate,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_BlocksSlate,Door_BlocksSlate,Door_BlocksSlate,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,VFEPD_BrickPile_BlocksSlate,Wall_Steel</li>
@@ -1813,9 +1813,9 @@
         <li>Wall_Steel,.,.,.,.,.,VFEPD_DataConsole_South,.,.,.,.,.,.,.,.,Wall_Steel,Stool_WoodLog_West,.</li>
         <li>Wall_Steel,.,.,.,.,.,.,.,.,.,VFEPD_SwitchPanel_South,.,.,.,.,.,.,.</li>
         <li>Wall_Steel,.,ElectricSmithy_East,ElectricSmithy_West,.,.,.,.,.,.,.,.,Shelf_WoodLog_West,ChemfuelPoweredGenerator,.,Wall_Steel,Stool_WoodLog_West,.</li>
-        <li>Wall_Steel,.,.,.,.,.,FabricationBench_West,.,.,VFEPD_CoalBurner_South,.,StandingLamp_Red,.,.,.,Wall_Steel,Stool_WoodLog_West,.</li>
-        <li>Wall_Steel,.,.,.,.,.,.,.,VFEPD_AdvancedRotor_West,Wall_Steel,.,VFEPD_AdvancedRotor_West,Shelf_WoodLog_West,ChemfuelPoweredGenerator,.,Wall_Steel,StandingLamp_Red,.</li>
-        <li>Wall_Steel,.,ElectricSmelter_North,.,StandingLamp_Red,.,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,.,.</li>
+        <li>Wall_Steel,.,.,.,.,.,FabricationBench_West,.,.,VFEPD_CoalBurner_South,.,StandingLamp,.,.,.,Wall_Steel,Stool_WoodLog_West,.</li>
+        <li>Wall_Steel,.,.,.,.,.,.,.,VFEPD_AdvancedRotor_West,Wall_Steel,.,VFEPD_AdvancedRotor_West,Shelf_WoodLog_West,ChemfuelPoweredGenerator,.,Wall_Steel,StandingLamp,.</li>
+        <li>Wall_Steel,.,ElectricSmelter_North,.,StandingLamp,.,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,.,.</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.</li>
       </li>
       <li>
@@ -1989,7 +1989,7 @@
         <li>.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,Wall_Steel,Wall_Steel,Shelf_Steel_North,.,Shelf_Steel_North,.,Wall_Steel,Wall_Steel,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,.,.,.</li>
         <li>.,.,.,Cooler_East,.,.,.,.,.,.,Door_Steel,.,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
-        <li>.,.,.,Wall_Steel,StandingLamp_Blue,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
+        <li>.,.,.,Wall_Steel,StandingLamp,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
         <li>.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,Wall_Steel,Wall_Steel,.,.,.,.,.,.,.,.,Sandbags_Cloth</li>
         <li>.,.,.,.,Wall_Steel,Wall_Steel,.,.,.,Wall_Steel,StandingLamp,.,.,.,.,.,SolarGenerator,.,.,Sandbags_Cloth</li>
         <li>.,.,.,.,Wall_Steel,Wall_Steel,.,.,.,Wall_Steel,VFEPD_BoxLarge_West,.,.,.,.,.,.,.,.,.</li>
@@ -2017,15 +2017,15 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,BiofuelRefinery_South,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,StandingLamp_Green,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Door_Steel,.,.,.,.,.</li>
-        <li>.,.,.,.,MultiAnalyzer,.,StandingLamp_Red,.,PodLauncher_East,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,MultiAnalyzer,.,StandingLamp,.,PodLauncher_East,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,VFEPD_SwitchPanel_East,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,BiofuelRefinery_East,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,StandingLamp_Blue,.,VFEPD_DataConveyor_South,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,StandingLamp,.,VFEPD_DataConveyor_South,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
       </li>

@@ -147,7 +147,7 @@
         <li>.,Filth_Ash,Wall_Plasteel,.,.,Wall_Plasteel,.,Wall_WoodLog,.,Wall_WoodLog,Wall_Plasteel,Filth_RubbleBuilding,Filth_RubbleBuilding,.,Filth_Ash,.,.,Wall_WoodLog,.,Filth_Ash</li>
         <li>.,Wall_Plasteel,Wall_Plasteel,.,Filth_Ash,Wall_Plasteel,Filth_RubbleBuilding,Wall_WoodLog,.,Shelf_Plasteel_West,Wall_Plasteel,.,PowerSwitch,Filth_MachineBits,Filth_MachineBits,.,.,Wall_WoodLog,.,.</li>
         <li>.,Wall_Plasteel,.,Filth_Ash,Filth_RubbleBuilding,.,.,Wall_WoodLog,Filth_Ash,.,Wall_Plasteel,Wall_Plasteel,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_Plasteel,Wall_Plasteel,Wall_WoodLog,Filth_RubbleBuilding,.</li>
-        <li>Filth_RubbleBuilding,Wall_WoodLog,StandingLamp_Red,.,Filth_Ash,Battery_South,.,Wall_WoodLog,.,.,Wall_Plasteel,.,Filth_Ash,.,Filth_RubbleBuilding,ShipChunk_North,.,.,.,.</li>
+        <li>Filth_RubbleBuilding,Wall_WoodLog,StandingLamp,.,Filth_Ash,Battery_South,.,Wall_WoodLog,.,.,Wall_Plasteel,.,Filth_Ash,.,Filth_RubbleBuilding,ShipChunk_North,.,.,.,.</li>
         <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,.,.,.,.</li>
       </li>
       <li>
@@ -163,11 +163,11 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,Filth_Ash,.,.,.,.,Filth_MachineBits,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,StandingLamp_Red,.,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,Filth_MachineBits,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,TableMachining_West,.,.,.,.,.,.,.,.,.,.,Filth_MachineBits,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,StandingLamp_Red,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,Filth_MachineBits,Filth_MachineBits,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -281,12 +281,12 @@
         <li>.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.,.,.,VFEPD_WeaponRackEmpty_North,.,.,Wall_WoodLog,.,.,VFEPD_WeaponRackSpears_South,.,.,Wall_WoodLog,Wall_WoodLog,.</li>
         <li>.,Wall_WoodLog,Wall_WoodLog,TorchLamp,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_WoodLog,.,Shelf_WoodLog_West,Wall_WoodLog,.,.</li>
         <li>.,Wall_WoodLog,.,.,.,.,Wall_Plasteel,.,.,.,.,.,ElectricStove_South,.,Wall_WoodLog,.,.,Wall_WoodLog,.,.</li>
-        <li>.,Wall_WoodLog,.,Shelf_WoodLog_South,.,Stool_WoodLog_East,Wall_Plasteel,StandingLamp_Red,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.</li>
+        <li>.,Wall_WoodLog,.,Shelf_WoodLog_South,.,Stool_WoodLog_East,Wall_Plasteel,StandingLamp,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.</li>
         <li>.,Wall_WoodLog,Wall_WoodLog,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Battery_West,.,Door_WoodLog,.,.,.,.,Wall_WoodLog,.</li>
         <li>.,.,.,.,.,.,.,.,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_WoodLog,.,.,.,.,Wall_WoodLog,.</li>
-        <li>.,.,.,.,.,Ship_Engine_East,.,.,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Shelf_Plasteel_North,.,Wall_WoodLog,.,.,.,StandingLamp_Red,Wall_WoodLog,.</li>
+        <li>.,.,.,.,.,Ship_Engine_East,.,.,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Shelf_Plasteel_North,.,Wall_WoodLog,.,.,.,StandingLamp,Wall_WoodLog,.</li>
         <li>.,.,.,.,.,.,.,.,Wall_Plasteel,.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_WoodLog,Wall_WoodLog,.</li>
-        <li>.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp_Red,.,.,.,.,.,.,.,.,.,.</li>
+        <li>.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.,Fence_Plasteel,Fence_Plasteel,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Fence_Plasteel,.,.,.,.,.</li>
       </li>
@@ -398,7 +398,7 @@
         <li>Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,.,Filth_RubbleRock,CollapsedRocks_North,Wall_Plasteel,Limestone,Limestone,Limestone,Limestone,Wall_WoodLog,Filth_Dirt,Door_WoodLog,.,.,.</li>
         <li>Limestone,.,Limestone,Limestone,Limestone,Wall_Plasteel,Filth_RubbleRock,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Limestone,Wall_WoodLog,Filth_RubbleBuilding,Wall_WoodLog,.,.,.</li>
         <li>.,Limestone,Limestone,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_RubbleBuilding,Limestone,Limestone,Wall_Plasteel,Limestone,Limestone,Wall_Plasteel,Limestone,Wall_WoodLog,Filth_Dirt,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
-        <li>Filth_RubbleRock,Limestone,Limestone,Wall_Plasteel,Limestone,StandingLamp_Red,Limestone,Filth_RubbleRock,Wall_Plasteel,Wall_Plasteel,Limestone,Filth_RubbleRock,.,Limestone,Wall_WoodLog,Filth_Dirt,Filth_Dirt,.,Bedroll_Leather_Rhinoceros_West,Wall_WoodLog</li>
+        <li>Filth_RubbleRock,Limestone,Limestone,Wall_Plasteel,Limestone,StandingLamp,Limestone,Filth_RubbleRock,Wall_Plasteel,Wall_Plasteel,Limestone,Filth_RubbleRock,.,Limestone,Wall_WoodLog,Filth_Dirt,Filth_Dirt,.,Bedroll_Leather_Rhinoceros_West,Wall_WoodLog</li>
         <li>Filth_RubbleRock,Limestone,Limestone,Filth_RubbleBuilding,Limestone,Filth_RubbleRock,.,Filth_RubbleRock,Wall_Plasteel,TorchLamp,Filth_RubbleRock,Filth_RubbleBuilding,Filth_RubbleRock,.,Filth_Dirt,Filth_Dirt,.,.,Wall_WoodLog,Wall_WoodLog</li>
         <li>Limestone,Limestone,Limestone,Wall_Plasteel,Filth_RubbleBuilding,.,CollapsedRocks_North,Filth_Dirt,Filth_RubbleBuilding,Filth_RubbleRock,Filth_MachineBits,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,VFEPD_WeaponRackSpears_South,Wall_WoodLog,.</li>
         <li>Limestone,Limestone,Limestone,Wall_Plasteel,VitalsMonitor_South,CollapsedRocks_North,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,CollapsedRocks_North,CollapsedRocks_North,Limestone,Wall_Plasteel,Wall_Plasteel,TorchLamp,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>

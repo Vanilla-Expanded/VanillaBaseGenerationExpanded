@@ -340,7 +340,7 @@
         <li>Wall_WoodLog,.,.,.,.,Stool_WoodLog_North,.,Stool_WoodLog_North,.,.,Stool_WoodLog_North,.,.,.,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
-        <li>Wall_WoodLog,.,Bed_WoodLog_South,.,Bed_WoodLog_South,.,.,.,.,StandingLamp_Red,.,Bed_WoodLog_South,.,Bed_WoodLog_South,.,Wall_WoodLog</li>
+        <li>Wall_WoodLog,.,Bed_WoodLog_South,.,Bed_WoodLog_South,.,.,.,.,StandingLamp,.,Bed_WoodLog_South,.,Bed_WoodLog_South,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog</li>
       </li>
     </layouts>
@@ -436,7 +436,7 @@
         <li>Wall_WoodLog,.,.,.,HydroponicsBasin_East,.,.,.,.,.,HydroponicsBasin_East,.,.,.,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,HydroponicsBasin_South,.,.,.,.,.,.,.,.,.,.,.,.,HydroponicsBasin_South,Wall_WoodLog</li>
         <li>Wall_WoodLog,.,.,.,.,HydroponicsBasin_West,.,.,.,.,.,HydroponicsBasin_West,.,.,.,Wall_WoodLog</li>
-        <li>Wall_WoodLog,VFEPD_WarehouseShelfEmpty_West,.,.,StandingLamp_Red,Shelf_Steel_North,.,.,.,Shelf_Steel_North,.,StandingLamp_Red,.,.,VFEPD_WarehouseShelfBoxes_West,Wall_WoodLog</li>
+        <li>Wall_WoodLog,VFEPD_WarehouseShelfEmpty_West,.,.,StandingLamp,Shelf_Steel_North,.,.,.,Shelf_Steel_North,.,StandingLamp,.,.,VFEPD_WarehouseShelfBoxes_West,Wall_WoodLog</li>
         <li>Wall_WoodLog,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_WoodLog</li>
         <li>Wall_WoodLog,Wall_WoodLog,.,Bed_WoodLog_West,Wall_WoodLog,Wall_WoodLog,.,Wall_WoodLog,Wall_WoodLog,Door_WoodLog,Wall_WoodLog,Wall_WoodLog,Bed_WoodLog_East,.,Wall_WoodLog,Wall_WoodLog</li>
         <li>.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,Skullspike_Steel,.,.,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,Wall_WoodLog,.</li>

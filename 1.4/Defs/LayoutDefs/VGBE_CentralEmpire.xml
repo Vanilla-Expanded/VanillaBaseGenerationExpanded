@@ -441,11 +441,11 @@
         <li>.,.,.,.,.,.,.,Wall_BlocksMarble,FenceGate_Steel,Wall_BlocksMarble,FenceGate_Steel,Wall_BlocksMarble,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,Wall_BlocksMarble,Wall_BlocksMarble,.,Wall_BlocksMarble,.,Wall_BlocksMarble,Wall_BlocksMarble,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,Wall_BlocksMarble,Wall_BlocksMarble,.,.,Wall_BlocksMarble,.,.,Wall_BlocksMarble,Wall_BlocksMarble,.,.,.,.,.,.</li>
-        <li>.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,StandingLamp_Green,.,.,.,.,.,StandingLamp_Green,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,.</li>
+        <li>.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,StandingLamp,.,.,.,.,.,StandingLamp,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,.</li>
         <li>.,Wall_BlocksMarble,.,CommsConsole_North,.,Wall_BlocksMarble,.,.,.,Wall_Gold,.,.,.,Wall_BlocksMarble,.,.,Battery_North,Wall_BlocksMarble,.,.</li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,.,.,.,Wall_BlocksMarble,.,.,Wall_Gold,PsychicEmanator,Wall_Gold,.,.,Wall_BlocksMarble,.,Wall_BlocksMarble,.,Wall_BlocksMarble,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,SolarPinhole_North,.,.,.,.,.,.,.,Wall_Gold,.,.,.,.,.,Wall_BlocksMarble,ChemfuelPoweredGenerator,.,Wall_BlocksMarble,.</li>
-        <li>Wall_BlocksMarble,Armchair_WoolSheep_East,ChessTable_WoodLog,Armchair_WoolSheep_West,.,Wall_BlocksMarble,StandingLamp_Green,.,.,.,.,.,StandingLamp_Green,Wall_BlocksMarble,.,Wall_BlocksMarble,.,.,Wall_BlocksMarble,.</li>
+        <li>Wall_BlocksMarble,Armchair_WoolSheep_East,ChessTable_WoodLog,Armchair_WoolSheep_West,.,Wall_BlocksMarble,StandingLamp,.,.,.,.,.,StandingLamp,Wall_BlocksMarble,.,Wall_BlocksMarble,.,.,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Door_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,Wall_Gold,Throne_Silver_South,Wall_Gold,.,Wall_BlocksMarble,Wall_BlocksMarble,Door_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,.,DiningChair_WoodLog_North,.,.,TubeTelevision_West,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.,.,.,.,AnimalSleepingBox_WoodLog,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,.,Table2x2c_WoodLog,.,.,.,Wall_BlocksMarble,.,SolarPinhole_North,Shelf_WoodLog_North,.,Dresser_WoodLog_West,Wall_BlocksMarble,VFEPD_WoodenCupboardDouble_East,.,.,.,Wall_BlocksMarble,Wall_BlocksMarble,.</li>
@@ -677,7 +677,7 @@
         <li>.,Filth_Ash,.,Wall_Plasteel,.,.,.,Wall_Plasteel,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,.,.,.,Sandbags_Cloth,.,.</li>
         <li>.,.,Wall_Plasteel,Wall_Plasteel,.,ChemfuelPoweredGenerator,.,Wall_Plasteel,Wall_Plasteel,Filth_Ash,.,.,.,.,Filth_Dirt,.,.,Sandbags_Cloth,Sandbags_Cloth,.</li>
         <li>ShipLandingBeacon,.,Wall_Plasteel,Wall_Plasteel,Battery_South,.,.,Wall_Plasteel,Wall_Plasteel,.,ShipLandingBeacon,.,.,.,.,.,.,.,Sandbags_Cloth,.</li>
-        <li>.,Filth_Ash,Wall_Plasteel,DiningChair_Steel_East,.,Armchair_Synthread_North,.,StandingLamp_Red,Wall_Plasteel,.,.,.,.,Filth_Dirt,.,.,VFEPD_BoxSmall_South,.,.,.</li>
+        <li>.,Filth_Ash,Wall_Plasteel,DiningChair_Steel_East,.,Armchair_Synthread_North,.,StandingLamp,Wall_Plasteel,.,.,.,.,Filth_Dirt,.,.,VFEPD_BoxSmall_South,.,.,.</li>
         <li>.,.,Wall_Plasteel,Filth_Dirt,.,VFEPD_PersonalConsole_South,OrbitalTradeBeacon,.,Autodoor_Plasteel,.,.,.,.,.,.,VFEPD_PalletBoxes,.,Wall_Steel,.,.</li>
         <li>.,.,Wall_Plasteel,DiningChair_Steel_East,.,.,.,.,Wall_Plasteel,.,.,.,.,.,VFEPD_BoxLarge_South,.,.,Wall_Steel,.,.</li>
         <li>.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
@@ -686,7 +686,7 @@
         <li>ShipLandingBeacon,Filth_Dirt,.,Wall_Plasteel,Shelf_Steel_East,Filth_Dirt,.,Wall_Plasteel,Filth_Ash,.,ShipLandingBeacon,.,Fence_Steel,.,Door_Steel,Filth_Dirt,.,.,Wall_Steel,.</li>
         <li>.,.,.,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,.,.,.,.,Fence_Steel,.,Wall_Steel,VFEPD_BarrelRed_East,.,VFEPD_BoxSmall_South,Wall_Steel,.</li>
         <li>.,.,.,.,Wall_Plasteel,Shelf_Steel_East,Wall_Plasteel,Filth_Ash,.,Filth_Dirt,.,.,Wall_Steel,Wall_Steel,Wall_Steel,VFEPD_PalletBoxes,.,VFEPD_BoxLarge_South,Wall_Steel,.</li>
-        <li>.,.,Filth_Ash,.,Wall_Plasteel,StandingLamp_Red,Wall_Plasteel,.,.,.,.,.,Wall_Steel,VFEPD_PalletBarrelRed,.,.,.,VFEPD_CardboardBoxLarge_West,Wall_Steel,.</li>
+        <li>.,.,Filth_Ash,.,Wall_Plasteel,StandingLamp,Wall_Plasteel,.,.,.,.,.,Wall_Steel,VFEPD_PalletBarrelRed,.,.,.,VFEPD_CardboardBoxLarge_West,Wall_Steel,.</li>
         <li>.,Filth_Dirt,.,Filth_Ash,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,Filth_Dirt,.,.,.,Wall_Steel,.,.,VFEPD_CardboardBoxSmall_South,.,Shelf_WoodLog_South,Wall_Steel,.</li>
         <li>.,.,.,.,.,Wall_Plasteel,.,.,.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>ShipLandingBeacon,.,.,.,.,Wall_Plasteel,.,.,.,.,ShipLandingBeacon,.,.,.,.,.,.,Filth_Dirt,.,.</li>
@@ -793,11 +793,11 @@
         <li>.,.,.,Wall_Plasteel,.,.,.,Wall_Plasteel,.,.,.,Wall_Plasteel,.,.,.,Wall_Plasteel,.,.,.,.</li>
         <li>.,.,Wall_Plasteel,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,.,.,.</li>
         <li>.,.,Wall_Plasteel,.,Battery_East,.,ChemfuelPoweredGenerator,.,Wall_Plasteel,.,Wall_Plasteel,ChemfuelPoweredGenerator,.,Battery_East,.,Battery_North,Wall_Plasteel,.,.,.</li>
-        <li>.,.,Wall_Plasteel,Battery_South,StandingLamp_Red,.,.,.,Wall_Plasteel,.,Wall_Plasteel,.,.,.,StandingLamp_Red,.,Wall_Plasteel,.,.,.</li>
+        <li>.,.,Wall_Plasteel,Battery_South,StandingLamp,.,.,.,Wall_Plasteel,.,Wall_Plasteel,.,.,.,StandingLamp,.,Wall_Plasteel,.,.,.</li>
         <li>ShipLandingBeacon,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,ShipLandingBeacon</li>
-        <li>.,Wall_Plasteel,StandingLamp_Red,Armchair_Synthread_North,.,.,.,DiningChair_Steel_North,DiningChair_Steel_North,Wall_Plasteel,ShieldGeneratorBullets_North,Shelf_Steel_North,.,.,Shelf_Steel_North,.,VFEPD_ElectricalCabinet_North,Wall_Plasteel,.,.</li>
+        <li>.,Wall_Plasteel,StandingLamp,Armchair_Synthread_North,.,.,.,DiningChair_Steel_North,DiningChair_Steel_North,Wall_Plasteel,ShieldGeneratorBullets_North,Shelf_Steel_North,.,.,Shelf_Steel_North,.,VFEPD_ElectricalCabinet_North,Wall_Plasteel,.,.</li>
         <li>.,Wall_Plasteel,.,.,.,Wall_Plasteel,.,.,.,Autodoor_Plasteel,.,.,.,.,.,.,.,Autodoor_Plasteel,.,.</li>
-        <li>.,Wall_Plasteel,.,CommsConsole_South,.,Wall_Plasteel,.,DiningChair_Steel_South,DiningChair_Steel_South,Wall_Plasteel,.,Shelf_Steel_South,.,.,StandingLamp_Red,.,Shelf_Steel_South,Wall_Plasteel,.,.</li>
+        <li>.,Wall_Plasteel,.,CommsConsole_South,.,Wall_Plasteel,.,DiningChair_Steel_South,DiningChair_Steel_South,Wall_Plasteel,.,Shelf_Steel_South,.,.,StandingLamp,.,Shelf_Steel_South,Wall_Plasteel,.,.</li>
         <li>.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.</li>
         <li>.,.,Wall_Plasteel,.,.,Wall_Plasteel,.,Shelf_Steel_West,Wall_Plasteel,.,Wall_Plasteel,.,.,Wall_Plasteel,.,Shelf_Steel_West,Wall_Plasteel,.,.,.</li>
         <li>.,.,Wall_Plasteel,Shelf_Steel_East,.,Turret_MiniTurret_Plasteel,.,.,Wall_Plasteel,.,Wall_Plasteel,Shelf_Steel_East,.,Turret_MiniTurret_Plasteel,.,.,Wall_Plasteel,.,.,.</li>
@@ -805,7 +805,7 @@
         <li>.,.,.,Wall_Plasteel,.,.,Shelf_Steel_West,Wall_Plasteel,.,.,.,Wall_Plasteel,.,.,Shelf_Steel_West,Wall_Plasteel,.,.,.,.</li>
         <li>.,.,.,Wall_Plasteel,Shelf_Steel_East,.,.,Wall_Plasteel,.,.,.,Wall_Plasteel,Shelf_Steel_East,.,.,Wall_Plasteel,.,.,.,.</li>
         <li>.,.,.,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,.,.,.,.</li>
-        <li>.,.,.,.,Wall_Plasteel,StandingLamp_Red,Wall_Plasteel,.,.,.,.,.,Wall_Plasteel,StandingLamp_Red,Wall_Plasteel,.,.,.,.,.</li>
+        <li>.,.,.,.,Wall_Plasteel,StandingLamp,Wall_Plasteel,.,.,.,.,.,Wall_Plasteel,StandingLamp,Wall_Plasteel,.,.,.,.,.</li>
         <li>.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.</li>
         <li>ShipLandingBeacon,.,.,.,.,Wall_Plasteel,.,.,.,ShipLandingBeacon,.,.,.,Wall_Plasteel,.,.,.,.,.,ShipLandingBeacon</li>
       </li>
@@ -891,14 +891,14 @@
         <li>.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,Wall_Plasteel,.,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.</li>
         <li>.,Filth_Ash,.,Turret_Sniper,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Turret_Sniper,.,Barricade_Plasteel,.</li>
         <li>.,.,.,.,.,Wall_Plasteel,.,Shelf_Steel_North,.,Wall_Plasteel,.,Wall_Plasteel,Shelf_Steel_North,.,Shelf_Steel_West,Wall_Plasteel,.,.,Barricade_Plasteel,.</li>
-        <li>.,.,.,.,Wall_Plasteel,Wall_Plasteel,Shelf_Steel_East,StandingLamp_Red,.,.,.,.,Filth_Dirt,StandingLamp_Red,.,Wall_Plasteel,.,.,Wall_Plasteel,Filth_RubbleBuilding</li>
+        <li>.,.,.,.,Wall_Plasteel,Wall_Plasteel,Shelf_Steel_East,StandingLamp,.,.,.,.,Filth_Dirt,StandingLamp,.,Wall_Plasteel,.,.,Wall_Plasteel,Filth_RubbleBuilding</li>
         <li>.,.,.,Filth_RubbleBuilding,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,Filth_Ash,.</li>
         <li>.,Filth_RubbleBuilding,Filth_RubbleBuilding,Filth_Ash,Barricade_Plasteel,Turret_Sniper,.,Wall_Plasteel,ChemfuelPoweredGenerator,.,Filth_Dirt,ChemfuelPoweredGenerator,.,Wall_Plasteel,Turret_Sniper,.,Barricade_Plasteel,Filth_Ash,.,Filth_RubbleBuilding</li>
         <li>.,.,.,.,Barricade_Plasteel,.,.,Wall_Plasteel,.,.,ShieldGeneratorBullets_North,.,.,Wall_Plasteel,.,.,Barricade_Plasteel,.,.,.</li>
         <li>.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,ChemfuelPoweredGenerator,.,.,ChemfuelPoweredGenerator,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_RubbleBuilding,.</li>
         <li>.,.,.,Filth_Ash,Barricade_Plasteel,Turret_Sniper,.,Wall_Plasteel,.,.,.,.,.,Wall_Plasteel,Turret_Sniper,.,Barricade_Plasteel,.,.,.</li>
         <li>.,.,Filth_Ash,.,Barricade_Plasteel,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Barricade_Plasteel,Filth_Ash,.,.</li>
-        <li>.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp_Red,.,Filth_Dirt,.,Turret_MiniTurret_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Filth_RubbleBuilding</li>
+        <li>.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp,.,Filth_Dirt,.,Turret_MiniTurret_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Filth_RubbleBuilding</li>
         <li>.,.,Filth_Ash,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,Armchair_Synthread_North,.,.,Shelf_Steel_West,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,.</li>
         <li>.,.,Filth_RubbleBuilding,Wall_Plasteel,Turret_Autocannon,.,Wall_Plasteel,Shelf_Steel_East,Wall_Plasteel,.,.,.,Wall_Plasteel,.,Wall_Plasteel,Turret_Autocannon,.,Wall_Plasteel,Filth_RubbleBuilding,.</li>
         <li>.,.,.,Barricade_Plasteel,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Barricade_Plasteel,Filth_Ash,.</li>
@@ -1008,7 +1008,7 @@
         <li>.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.</li>
         <li>.,.,.,.,Battery_East,.,Wall_Plasteel,DiningChair_Steel_North,DiningChair_Steel_North,DiningChair_Steel_North,DiningChair_Steel_North,DiningChair_Steel_North,Wall_Plasteel,Armchair_Synthread_East,VFEPD_PersonalConsole_West,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,.,.</li>
         <li>.,Ship_Engine_East,.,.,ChemfuelPoweredGenerator,.,ShieldGeneratorBullets_North,.,Filth_Dirt,.,.,Filth_Dirt,.,.,Filth_Dirt,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
-        <li>.,.,.,.,.,.,Wall_Plasteel,Filth_Dirt,DiningChair_Steel_South,DiningChair_Steel_South,DiningChair_Steel_South,StandingLamp_Red,Wall_Plasteel,.,Shelf_Steel_South,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,.</li>
+        <li>.,.,.,.,.,.,Wall_Plasteel,Filth_Dirt,DiningChair_Steel_South,DiningChair_Steel_South,DiningChair_Steel_South,StandingLamp,Wall_Plasteel,.,Shelf_Steel_South,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,.</li>
         <li>.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Filth_Ash,.,.</li>
         <li>ShipLandingBeacon,.,Filth_Ash,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Turret_MiniTurret_Plasteel,Wall_Plasteel,Turret_MiniTurret_Plasteel,Wall_Plasteel,Turret_MiniTurret_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Filth_Ash,.,Filth_Dirt,ShipLandingBeacon</li>
         <li>.,.,Filth_Ash,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Barricade_Plasteel,Wall_Plasteel,Barricade_Plasteel,Wall_Plasteel,Barricade_Plasteel,Wall_Plasteel,Filth_Ash,Filth_Ash,.,.,.,.,.</li>
@@ -1107,7 +1107,7 @@
       <li>
         <li>.,.,.,.,Filth_RubbleBuilding,Filth_RubbleBuilding,.,.,.,.,.,Filth_RubbleBuilding,Filth_RubbleBuilding,.,.,.,.,.</li>
         <li>Filth_Ash,.,.,Filth_RubbleBuilding,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_RubbleBuilding,.,.,Filth_Ash</li>
-        <li>.,.,.,Filth_Ash,Barricade_Plasteel,Turret_MiniTurret_Plasteel,Wall_Plasteel,OrbitalTradeBeacon,.,Armchair_Synthread_South,StandingLamp_Red,Wall_Plasteel,Turret_MiniTurret_Plasteel,Barricade_Plasteel,.,.,.,.</li>
+        <li>.,.,.,Filth_Ash,Barricade_Plasteel,Turret_MiniTurret_Plasteel,Wall_Plasteel,OrbitalTradeBeacon,.,Armchair_Synthread_South,StandingLamp,Wall_Plasteel,Turret_MiniTurret_Plasteel,Barricade_Plasteel,.,.,.,.</li>
         <li>.,.,.,Filth_RubbleBuilding,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Filth_Dirt,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,Filth_RubbleBuilding,Filth_Ash,.</li>
         <li>.,.,.,Filth_Ash,Autodoor_Plasteel,.,.,.,VFEPD_DataConveyor_North,.,.,.,Turret_MiniTurret_Plasteel,Wall_Plasteel,.,Filth_RubbleBuilding,.,.</li>
         <li>.,.,Filth_Ash,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,Filth_RubbleBuilding,.</li>
@@ -1119,7 +1119,7 @@
         <li>Barricade_Plasteel,.,.,Wall_Plasteel,.,.,.,.,.,.,.,.,Filth_MachineBits,.,Wall_Plasteel,.,.,Barricade_Plasteel</li>
         <li>Barricade_Plasteel,Turret_Sniper,.,Wall_Plasteel,.,.,VFEPD_SkipWhite_South,.,.,.,.,.,.,Fence_Plasteel,Wall_Plasteel,Turret_Sniper,.,Barricade_Plasteel</li>
         <li>Barricade_Plasteel,.,.,Wall_Plasteel,.,.,.,.,.,.,.,Filth_MachineBits,Filth_MachineBits,.,Wall_Plasteel,.,.,Barricade_Plasteel</li>
-        <li>Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp_Red,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,VFEPD_SwitchPanel_South,Filth_Dirt,StandingLamp_Red,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
+        <li>Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,VFEPD_SwitchPanel_South,Filth_Dirt,StandingLamp,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
         <li>.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Turret_Autocannon,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_RubbleBuilding</li>
         <li>Filth_Ash,Wall_Plasteel,.,.,.,Wall_Plasteel,.,Wall_Plasteel,.,.,Wall_Plasteel,Filth_RubbleBuilding,Wall_Plasteel,.,.,.,Wall_Plasteel,.</li>
         <li>.,Fence_Plasteel,.,.,.,Fence_Plasteel,Filth_RubbleBuilding,Wall_Plasteel,Barricade_Plasteel,Barricade_Plasteel,Wall_Plasteel,Filth_Ash,Fence_Plasteel,.,.,.,Fence_Plasteel,Filth_RubbleBuilding</li>
@@ -1258,7 +1258,7 @@
         <li>ShipLandingBeacon,.,.,.,.,Filth_Dirt,.,.,.,.,.,.,.,.,.,.,.,.,.,ShipLandingBeacon</li>
         <li>.,Filth_Ash,.,Wall_Plasteel,Wall_Plasteel,.,Filth_Ash,.,.,.,Filth_Ash,.,Wall_Plasteel,.,.,.,.,.,.,.</li>
         <li>Filth_Ash,Fence_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,.,.,.,.</li>
-        <li>.,.,.,.,Battery_East,.,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp_Red,DiningChair_Plasteel_North,ShieldGeneratorBullets_North,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Filth_Ash,.</li>
+        <li>.,.,.,.,Battery_East,.,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp,DiningChair_Plasteel_North,ShieldGeneratorBullets_North,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Filth_Ash,.</li>
         <li>.,Ship_Engine_East,.,.,ChemfuelPoweredGenerator,.,Autodoor_Plasteel,.,Filth_Dirt,.,.,.,.,.,Armchair_Synthread_East,VFEPD_PersonalConsole_West,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.</li>
         <li>.,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Shelf_Plasteel_South,Turret_MiniTurret_Steel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,ShipLandingBeacon</li>
         <li>.,Fence_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Filth_Ash,Filth_Ash,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Filth_Ash,.,.</li>
@@ -1519,7 +1519,7 @@
         <li>ShipLandingBeacon,.,Wall_Plasteel,Shelf_Plasteel_East,.,.,.,.,Wall_Plasteel,.,Wall_Plasteel,.,.,.,.,Wall_Plasteel,.,.,Ship_Engine_West,.</li>
         <li>.,.,Wall_Plasteel,Wall_Plasteel,.,Shelf_Plasteel_South,VFEPD_PalletCardboard,.,Wall_Plasteel,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.</li>
         <li>.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Wall_Plasteel,.,.,.,StandingLamp,Wall_Plasteel,Turret_MiniTurret_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Fence_Plasteel,.</li>
-        <li>.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,StandingLamp_Red,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,Barricade_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.</li>
+        <li>.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,StandingLamp,Wall_Plasteel,.,.,.,Wall_Plasteel,Wall_Plasteel,Barricade_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.</li>
         <li>.,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,RoyalBed_WoodLog_South,EndTable_WoodLog_South,Wall_Plasteel,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Fence_Plasteel,Fence_Plasteel,.,.,.,.</li>
         <li>ShipLandingBeacon,.,.,.,.,.,ShipLandingBeacon,.,.,.,.,.,.,ShipLandingBeacon,.,.,.,.,.,ShipLandingBeacon</li>
@@ -1629,14 +1629,14 @@
         <li>.,.,.,VFEPD_SensorPlatform,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.,.</li>
-        <li>.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp_Green,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.</li>
+        <li>.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,Autodoor_Plasteel,.,.,.,VFEPD_SpacerContainerStack,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.</li>
         <li>.,Ship_Engine_East,.,.,.,.,Wall_Plasteel,Fence_Plasteel,Fence_Plasteel,Wall_Plasteel,Fence_Plasteel,Wall_Plasteel,.,.,.,VFEPD_AdvancedRotor_North,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
         <li>.,.,.,.,Armchair_Synthread_East,VFEPD_LongCommandConsole_West,Fence_Plasteel,VanometricPowerCell_North,VanometricPowerCell_North,Wall_Plasteel,ShieldGeneratorBullets_North,Fence_Plasteel,.,.,OrbitalTradeBeacon,.,.,.,Wall_Plasteel,.</li>
         <li>.,.,.,.,Armchair_Synthread_East,.,Fence_Plasteel,.,.,Wall_Plasteel,ShieldGeneratorMortar_North,Fence_Plasteel,.,.,.,.,.,.,Wall_Plasteel,.</li>
         <li>.,Ship_Engine_East,.,.,.,.,Wall_Plasteel,Fence_Plasteel,Fence_Plasteel,Wall_Plasteel,Fence_Plasteel,Wall_Plasteel,VitalsMonitor_East,.,.,VFEPD_PlanningScreen_South,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
         <li>.,.,.,.,.,.,.,.,.,Autodoor_Plasteel,.,.,.,.,StandingLamp,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.</li>
-        <li>.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp_Green,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,VFEPD_SpacerContainerLarge_West,VFEPD_SpacerContainer_South,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.</li>
+        <li>.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,StandingLamp,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,VFEPD_SpacerContainerLarge_West,VFEPD_SpacerContainer_South,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.</li>
         <li>.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,VFEPD_SpacerStorage_North,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,LongRangeMineralScanner_South,.</li>
@@ -1801,7 +1801,7 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Turret_Autocannon,.,Sandbags_Cloth,.</li>
         <li>.,.,.,.,Wall_Plasteel,VFEPD_Exhaust_North,Wall_Plasteel,VFEPD_Exhaust_North,Wall_Plasteel,VFEPD_Exhaust_North,Wall_Plasteel,VFEPD_Exhaust_North,Wall_Plasteel,.,.,.,.,.,Sandbags_Cloth,.</li>
         <li>.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,.,Sandbags_Cloth,Sandbags_Cloth,.</li>
-        <li>.,.,Wall_Plasteel,StandingLamp_Blue,.,.,VFEPD_PersonalConsole_North,.,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,.,.,.,Sandbags_Cloth,Sandbags_Cloth</li>
+        <li>.,.,Wall_Plasteel,StandingLamp,.,.,VFEPD_PersonalConsole_North,.,.,.,.,.,.,Wall_Plasteel,Wall_Plasteel,.,.,.,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>.,.,Wall_Plasteel,MultiAnalyzer,.,.,.,.,VitalsMonitor_North,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth</li>
         <li>.,.,Wall_Plasteel,.,.,.,VitalsMonitor_West,.,.,.,.,.,.,.,.,.,.,.,.,Sandbags_Cloth</li>
         <li>.,.,Wall_Plasteel,.,.,.,.,.,.,.,.,.,.,VFEPD_PersonalConsole_West,Wall_Plasteel,.,.,.,.,.</li>
@@ -1826,7 +1826,7 @@
         <li>.,.,.,.,.,.,.,.,.,.,.,VFEPD_DataConsole_North,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Autodoor_Plasteel,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_Plasteel,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp_Blue,.,.,.,.,.,.,.</li>
+        <li>.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,VFEPD_TripleDisplay_South,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,LongRangeMineralScanner_South,.,.</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
@@ -2439,7 +2439,7 @@
         <li>.,.,Plant_GrassAnima,.,Plant_GrassAnima,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,Plant_GrassAnima,.,Plant_GrassAnima,.,.,.,.,Plant_GrassAnima,Plant_GrassAnima,SunLamp,.,.,.,.,.,.,.,.</li>
         <li>.,.,Plant_GrassAnima,.,Plant_GrassAnima,.,.,.,.,Plant_GrassAnima,Plant_TreeAnima,Plant_GrassAnima,.,.,.,.,.,.,.,.</li>
-        <li>.,.,StandingLamp_Blue,.,StandingLamp_Blue,.,.,.,.,Plant_GrassAnima,Plant_GrassAnima,Plant_GrassAnima,.,.,.,.,.,SolarGenerator,.,.</li>
+        <li>.,.,StandingLamp,.,StandingLamp,.,.,.,.,Plant_GrassAnima,Plant_GrassAnima,Plant_GrassAnima,.,.,.,.,.,SolarGenerator,.,.</li>
         <li>.,.,Plant_GrassAnima,.,Plant_GrassAnima,.,.,.,Plant_GrassAnima,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,Plant_GrassAnima,.,Plant_GrassAnima,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>
         <li>.,.,Plant_GrassAnima,.,Plant_GrassAnima,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.</li>

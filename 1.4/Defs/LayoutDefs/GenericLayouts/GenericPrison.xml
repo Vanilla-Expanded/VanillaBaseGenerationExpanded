@@ -36,7 +36,7 @@
         <li>.,Wall_BlocksGranite,.,.,.,.,Shelf_Steel_North,.,Wall_BlocksGranite,.,.,SleepingSpot_West,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>.,Wall_BlocksGranite,VitalsMonitor_North,HospitalBed_Steel_North,.,.,.,.,Door_Steel,.,.,.,SleepingSpot_West,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,.,.,Shelf_Steel_South,Wall_BlocksGranite,Turret_MiniTurret_Steel,.,.,.,Wall_BlocksGranite</li>
-        <li>Wall_BlocksGranite,.,.,StandingLamp_Red,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,Wall_BlocksGranite</li>
+        <li>Wall_BlocksGranite,.,.,StandingLamp,.,.,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,.,.,.,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,Shelf_Steel_East,.,.,.,.,Wall_BlocksGranite,.,Sandbags_Cloth,Wall_BlocksGranite,Wall_BlocksGranite,SleepingSpot_South,SleepingSpot_South,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,VitalsMonitor_South,HospitalBed_Steel_South,.,.,Door_Steel,.,Sandbags_Cloth,Turret_MiniTurret_Steel,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite,Wall_BlocksGranite</li>
         <li>Wall_BlocksGranite,.,.,.,.,.,Wall_BlocksGranite,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.,.</li>
@@ -98,17 +98,17 @@
         <li>.,Wall_Steel,Table1x2c_Steel_East,.,Filth_Blood,.,Wall_Steel,Barricade_Steel,Barricade_Steel,Wall_Steel,.,.,Table1x2c_Steel_East,.,Wall_Steel,.</li>
         <li>.,Wall_Steel,Stool_Steel_North,Filth_Blood,Filth_Blood,.,Door_Steel,.,.,Door_Steel,.,.,.,Stool_Steel_North,Wall_Steel,.</li>
         <li>.,Wall_Steel,Filth_Trash,.,Filth_Blood,.,Door_Steel,.,.,Door_Steel,.,.,.,.,Wall_Steel,.</li>
-        <li>.,Wall_Steel,Filth_Trash,.,.,StandingLamp_Red,Wall_Steel,.,.,Wall_Steel,StandingLamp_Red,.,.,Bedroll_Cloth_West,Wall_Steel,.</li>
+        <li>.,Wall_Steel,Filth_Trash,.,.,StandingLamp,Wall_Steel,.,.,Wall_Steel,StandingLamp,.,.,Bedroll_Cloth_West,Wall_Steel,.</li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>.,Wall_Steel,Table1x2c_Steel_East,.,.,.,Wall_Steel,.,.,Wall_Steel,.,Filth_Sand,Table1x2c_Steel_East,.,Wall_Steel,.</li>
         <li>.,Wall_Steel,Stool_Steel_North,.,.,.,Door_Steel,.,.,Door_Steel,Filth_Trash,Filth_Trash,.,Stool_Steel_North,Wall_Steel,.</li>
         <li>.,Wall_Steel,.,.,.,.,Door_Steel,.,.,Door_Steel,.,.,Filth_Trash,.,Wall_Steel,.</li>
-        <li>.,Wall_Steel,Bedroll_Cloth_East,.,.,StandingLamp_Red,Wall_Steel,.,.,Wall_Steel,StandingLamp_Red,Filth_Trash,.,Bedroll_Cloth_West,Wall_Steel,.</li>
+        <li>.,Wall_Steel,Bedroll_Cloth_East,.,.,StandingLamp,Wall_Steel,.,.,Wall_Steel,StandingLamp,Filth_Trash,.,Bedroll_Cloth_West,Wall_Steel,.</li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>.,Wall_Steel,Table1x2c_Steel_East,.,Filth_Trash,Filth_Blood,Wall_Steel,.,.,Wall_Steel,Filth_Trash,Filth_Vomit,Table1x2c_Steel_East,.,Wall_Steel,.</li>
         <li>.,Wall_Steel,Stool_Steel_North,Filth_Blood,Filth_Blood,.,Door_Steel,.,.,Door_Steel,.,Filth_Trash,Filth_Vomit,Filth_Vomit,Wall_Steel,.</li>
         <li>.,Wall_Steel,Filth_Trash,.,.,.,Door_Steel,.,.,Door_Steel,.,.,.,.,Wall_Steel,.</li>
-        <li>.,Wall_Steel,Bedroll_Cloth_East,.,Filth_Trash,StandingLamp_Red,Wall_Steel,.,.,Wall_Steel,StandingLamp_Red,Filth_Vomit,.,Bedroll_Cloth_West,Wall_Steel,.</li>
+        <li>.,Wall_Steel,Bedroll_Cloth_East,.,Filth_Trash,StandingLamp,Wall_Steel,.,.,Wall_Steel,StandingLamp,Filth_Vomit,.,Bedroll_Cloth_West,Wall_Steel,.</li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
         <li>.,.,.,.,.,.,Wall_Steel,Autodoor_Steel,Autodoor_Steel,Wall_Steel,.,.,.,.,.,.</li>
       </li>

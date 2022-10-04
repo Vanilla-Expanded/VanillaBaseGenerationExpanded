@@ -20,13 +20,13 @@
         <li>.,.,.,.,Wall_Steel,VFEPD_FilthTrash_North,Stool_Steel_East,Wall_Steel</li>
         <li>Wall_Steel,Door_Steel,Wall_Steel,.,Wall_Steel,VFEPD_FilthVomit_North,Stool_Steel_East,Wall_Steel</li>
         <li>Wall_Steel,.,Wall_Steel,Door_Steel,Wall_Steel,VFEPD_FilthTrash_North,Stool_Steel_East,Wall_Steel</li>
-        <li>Wall_Steel,StandingLamp_Blue,Table1x2c_Steel_North,.,Door_Steel,VFEPD_FilthTrash_North,Stool_Steel_East,Wall_Steel</li>
+        <li>Wall_Steel,StandingLamp,Table1x2c_Steel_North,.,Door_Steel,VFEPD_FilthTrash_North,Stool_Steel_East,Wall_Steel</li>
         <li>Wall_Steel,DiningChair_WoodLog_East,.,.,Wall_Steel,VFEPD_WaterTank,Stool_Steel_East,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
       </li>
       <li>
         <li>.,.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,StandingLamp_Blue,.,.</li>
+        <li>.,.,.,.,.,StandingLamp,.,.</li>
         <li>.,.,.,.,.,.,.,.</li>
         <li>.,.,.,.,.,VFEPD_FilthTrash_North,.,.</li>
         <li>.,.,.,.,.,.,.,.</li>
@@ -655,14 +655,14 @@
         <li>Wall_BlocksSlate,.,Wall_BlocksSlate,StandingLamp,.,.,.,.,.,.,.,.,.,.,.,.,StandingLamp,Wall_BlocksSlate,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,Wall_BlocksSlate,.,.,.,VFEPD_Banner_Cloth_North,Column_BlocksSlate,.,.,.,.,Column_BlocksSlate,VFEPD_Banner_Cloth_South,.,.,.,Wall_BlocksSlate,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Bed_Steel_South,Wall_BlocksSlate,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksSlate,Bed_Steel_South,Wall_BlocksSlate</li>
-        <li>Wall_BlocksSlate,StandingLamp_Red,Wall_BlocksSlate,.,DiningChair_Steel_East,.,Fence_Steel,Fence_Steel,Fence_Steel,FenceGate_Steel,FenceGate_Steel,Fence_Steel,Fence_Steel,Fence_Steel,.,DiningChair_Steel_West,.,Wall_BlocksSlate,StandingLamp_Red,Wall_BlocksSlate</li>
+        <li>Wall_BlocksSlate,StandingLamp,Wall_BlocksSlate,.,DiningChair_Steel_East,.,Fence_Steel,Fence_Steel,Fence_Steel,FenceGate_Steel,FenceGate_Steel,Fence_Steel,Fence_Steel,Fence_Steel,.,DiningChair_Steel_West,.,Wall_BlocksSlate,StandingLamp,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,.,.,.,Fence_Steel,.,.,.,.,.,VFEPD_FilthBlood_North,Fence_Steel,.,.,.,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,.,DiningChair_Steel_East,.,Fence_Steel,.,.,.,.,.,.,Fence_Steel,.,DiningChair_Steel_West,.,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,.,.,.,Fence_Steel,.,.,VFEPD_FilthBlood_North,.,VFEPD_FilthBlood_North,.,Fence_Steel,.,.,VFEPD_WeaponRackSwords_West,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,VFEPD_WeaponRackSwords_East,.,.,Fence_Steel,.,VFEPD_FilthBlood_North,.,RitualSpot,.,.,Fence_Steel,.,.,.,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,.,DiningChair_Steel_East,.,Fence_Steel,.,.,.,.,.,.,Fence_Steel,.,DiningChair_Steel_West,.,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,.,VFEPD_BrazierEmpty_Steel,.,Fence_Steel,.,.,.,.,.,VFEPD_FilthBlood_North,Fence_Steel,.,VFEPD_BrazierEmpty_Steel,.,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
-        <li>Wall_BlocksSlate,StandingLamp_Red,Wall_BlocksSlate,.,DiningChair_Steel_East,.,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,.,DiningChair_Steel_West,.,Wall_BlocksSlate,StandingLamp_Red,Wall_BlocksSlate</li>
+        <li>Wall_BlocksSlate,StandingLamp,Wall_BlocksSlate,.,DiningChair_Steel_East,.,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,.,DiningChair_Steel_West,.,Wall_BlocksSlate,StandingLamp,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Bed_Steel_North,Wall_BlocksSlate,.,.,.,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksSlate,Bed_Steel_North,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,Wall_BlocksSlate,.,.,.,DiningChair_Steel_South,.,DiningChair_Steel_South,.,.,DiningChair_Steel_South,.,DiningChair_Steel_South,.,.,.,Wall_BlocksSlate,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,Wall_BlocksSlate,StandingLamp,.,Column_BlocksSlate,.,.,.,.,VFEPD_WeaponRackSwords_South,.,.,.,Column_BlocksSlate,.,StandingLamp,Wall_BlocksSlate,.,Wall_BlocksSlate</li>
@@ -912,15 +912,15 @@
         <li>Wall_Steel,.,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,.,.,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,Door_Steel,.,.,.,.,.,Door_Steel,.,.,.,.,.,Battery_East,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,Wall_Steel,Shelf_Steel_North,.,Shelf_Steel_North,.,.,Wall_Steel,Fence_Steel,FenceGate_Steel,Fence_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,.,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,Fence_Steel,.,.,Wall_Steel,StandingLamp_Red,.,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel,Fence_Steel,.,.,Wall_Steel,StandingLamp,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,StandingLamp,Wall_Steel,.,Shelf_Steel_South,StandingLamp,.,.,Wall_Steel,Fence_Steel,.,.,Autodoor_Steel,.,.,EndTable_Steel_West,Wall_Steel</li>
         <li>Wall_Steel,.,CommsConsole_South,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Door_Steel,Door_Steel,Wall_Steel,Fence_Steel,.,.,Wall_Steel,.,.,Bed_Steel_West,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,StandingLamp,.,.,.,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel,Vent_South,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,Bed_Steel_East,.,.,Wall_Steel,.,.,.,DiningChair_Steel_East,.,.,DiningChair_Steel_West,.,.,.,Wall_Steel,.,.,Bed_Steel_West,Wall_Steel</li>
         <li>Wall_Steel,EndTable_Steel_East,.,.,Autodoor_Steel,.,.,.,.,Table2x4c_Steel_North,.,DiningChair_Steel_West,.,.,.,Autodoor_Steel,.,.,EndTable_Steel_West,Wall_Steel</li>
-        <li>Wall_Steel,.,.,StandingLamp_Red,Wall_Steel,.,.,.,DiningChair_Steel_East,.,.,.,.,.,.,Wall_Steel,StandingLamp_Red,.,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,StandingLamp,Wall_Steel,.,.,.,DiningChair_Steel_East,.,.,.,.,.,.,Wall_Steel,StandingLamp,.,.,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,.,Wall_Steel,Wall_Steel,StandingLamp,.,.,DiningChair_Steel_East,.,.,.,.,.,StandingLamp,Wall_Steel,Wall_Steel,Vent_South,Wall_Steel,Wall_Steel</li>
-        <li>Wall_Steel,.,.,StandingLamp_Red,Wall_Steel,.,.,.,.,DiningChair_Steel_South,.,.,.,.,.,Wall_Steel,StandingLamp_Red,.,.,Wall_Steel</li>
+        <li>Wall_Steel,.,.,StandingLamp,Wall_Steel,.,.,.,.,DiningChair_Steel_South,.,.,.,.,.,Wall_Steel,StandingLamp,.,.,Wall_Steel</li>
         <li>Wall_Steel,EndTable_Steel_East,.,.,Autodoor_Steel,.,.,.,.,.,.,.,.,DiningChair_Steel_South,.,Autodoor_Steel,.,.,EndTable_Steel_West,Wall_Steel</li>
         <li>Wall_Steel,Bed_Steel_East,.,.,Wall_Steel,Heater,Wall_Steel,StandingLamp,.,.,.,.,StandingLamp,Wall_Steel,Heater,Wall_Steel,.,.,Bed_Steel_West,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,Stool_Steel_North,PokerTable_Steel,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>

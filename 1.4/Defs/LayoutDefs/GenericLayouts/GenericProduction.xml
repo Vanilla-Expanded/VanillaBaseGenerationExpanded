@@ -1513,7 +1513,7 @@
         <li>Wall_BlocksSlate,.,.,DiningChair_Steel_East,.,.,DiningChair_Steel_West,.,Autodoor_Steel,.,.,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,.,.,.,.,Wall_BlocksSlate,.,.,Shelf_WoodLog_South,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Door_WoodLog,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
-        <li>Wall_BlocksSlate,StandingLamp_Red,.,.,Shelf_WoodLog_West,.,.,StandingLamp,.,Shelf_WoodLog_West,.,.,Wall_BlocksSlate</li>
+        <li>Wall_BlocksSlate,StandingLamp,.,.,Shelf_WoodLog_West,.,.,StandingLamp,.,Shelf_WoodLog_West,.,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,.,Shelf_WoodLog_East,.,.,.,.,Shelf_WoodLog_East,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,.,.,.,.,.,.,.,.,Door_WoodLog</li>
         <li>Wall_BlocksSlate,ElectricSmelter_West,.,.,.,.,Stool_Steel_North,.,.,Shelf_WoodLog_West,.,.,Wall_BlocksSlate</li>
@@ -2642,12 +2642,12 @@
         <li>.,.,.,Sandbags_Cloth,.,.,.,Column_Steel,.,VFEPD_BarrelYellow_East,.,.,.,Wall_Steel,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,VFEPD_WarehouseShelfBoxes_East,Wall_Steel</li>
         <li>Wall_Steel,Table1x2c_Plasteel_East,.,DiningChair_Plasteel_West,.,.,.,.,.,.,VFEPD_ToxicWasteBarrel,VFEPD_PalletBarrelYellow,.,Wall_Steel,.,.,.,.,.,Wall_Steel</li>
-        <li>Wall_Steel,StandingLamp_Red,DiningChair_Plasteel_South,.,.,.,.,VFEPD_LongCommandConsole_South,.,.,.,.,.,Wall_Steel,.,.,.,.,Shelf_Plasteel_West,Wall_Steel</li>
+        <li>Wall_Steel,StandingLamp,DiningChair_Plasteel_South,.,.,.,.,VFEPD_LongCommandConsole_South,.,.,.,.,.,Wall_Steel,.,.,.,.,Shelf_Plasteel_West,Wall_Steel</li>
         <li>Wall_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Wall_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Fence_Steel,Wall_Steel,.,.,VFEPD_BarrelYellow_South,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,WaterproofConduit,.,.,.,.,.,.,Fence_Steel,.,.,.,Wall_Steel,.,Wall_Steel,StandingLamp,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,WaterproofConduit,MineableUranium,.,MineableUranium,.,MineableUranium,.,Fence_Steel,VFEPD_DataConsole_East,.,.,Door_Steel,.,Door_Steel,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,MineableUranium,.,MineableUranium,MineableUranium,MineableUranium,WaterproofConduit,.,Wall_Steel,.,.,.,Wall_Steel,.,Wall_Steel,.,Shelf_Plasteel_South,.,Wall_Steel</li>
-        <li>Wall_Steel,MineableUranium,MineableUranium,.,WaterproofConduit,WaterproofConduit,WaterproofConduit,WaterproofConduit,WaterproofConduit,Fence_Steel,StandingLamp_Red,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
+        <li>Wall_Steel,MineableUranium,MineableUranium,.,WaterproofConduit,WaterproofConduit,WaterproofConduit,WaterproofConduit,WaterproofConduit,Fence_Steel,StandingLamp,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,MineableUranium,MineableUranium,MineableUranium,MineableUranium,MineableUranium,.,MineableUranium,.,Fence_Steel,.,VFEPD_DisplayScreen_South,.,Wall_Steel,.,.,.,.,.,.</li>
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.,.,.,.,.,.</li>
       </li>

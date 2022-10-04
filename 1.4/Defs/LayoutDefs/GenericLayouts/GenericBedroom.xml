@@ -832,7 +832,7 @@
         <li>Wall_BlocksSlate,Armchair_Cloth_East,.,.,.,.,Table2x2c_Steel,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,.,.,.,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,.,.,DiningChair_Steel_South,DiningChair_Steel_South,Wall_BlocksSlate</li>
-        <li>Wall_BlocksSlate,StandingLamp_Red,.,.,.,.,.,.,Wall_BlocksSlate</li>
+        <li>Wall_BlocksSlate,StandingLamp,.,.,.,.,.,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,.,.,.,.,.,.,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,.,EndTable_Steel_South,.,RoyalBed_Steel_South,.,.,Dresser_Steel_South,Wall_BlocksSlate</li>
         <li>Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate,Wall_BlocksSlate</li>
@@ -3742,13 +3742,13 @@
         <li>Wall_BlocksMarble,StandingLamp,.,.,.,.,StandingLamp,Wall_BlocksMarble,Table1x2c_Steel_East,.,Table1x2c_Steel_East,.,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,.,.,.,.,.,.,Wall_BlocksMarble,Stool_WoodLog_North,Stool_WoodLog_North,Stool_WoodLog_North,Stool_WoodLog_North,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,Bed_WoodLog_East,.,.,.,.,.,Wall_BlocksMarble,.,.,.,.,Shelf_Steel_West,Wall_BlocksMarble</li>
-        <li>Wall_BlocksMarble,EndTable_WoodLog_East,.,.,.,.,.,Autodoor_Steel,.,.,.,StandingLamp_Green,.,Wall_BlocksMarble</li>
+        <li>Wall_BlocksMarble,EndTable_WoodLog_East,.,.,.,.,.,Autodoor_Steel,.,.,.,StandingLamp,.,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,Bed_WoodLog_East,.,.,.,.,DoubleBed_WoodLog_West,Wall_BlocksMarble,.,.,.,.,Wall_BlocksMarble,Wall_BlocksMarble</li>
         <li>Wall_BlocksMarble,EndTable_WoodLog_East,.,.,.,.,.,Wall_BlocksMarble,.,.,.,.,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,Bed_WoodLog_East,.,.,.,.,.,Autodoor_Steel,.,Stool_WoodLog_North,Stool_WoodLog_North,Stool_WoodLog_North,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,.,.,.,.,.,.,Wall_BlocksMarble,.,.,.,.,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,.,.,.,.,.,.,Wall_BlocksMarble,.,.,.,.,Wall_BlocksMarble,.</li>
-        <li>Wall_BlocksMarble,StandingLamp,Bed_WoodLog_South,.,Dresser_Steel_South,Bed_WoodLog_South,StandingLamp,Wall_BlocksMarble,.,TubeTelevision_South,.,StandingLamp_Green,Wall_BlocksMarble,.</li>
+        <li>Wall_BlocksMarble,StandingLamp,Bed_WoodLog_South,.,Dresser_Steel_South,Bed_WoodLog_South,StandingLamp,Wall_BlocksMarble,.,TubeTelevision_South,.,StandingLamp,Wall_BlocksMarble,.</li>
         <li>Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.</li>
       </li>
     </layouts>
@@ -4027,7 +4027,7 @@
         <li>Wall_Steel,Wall_Steel,Bed_WoodLog_East,.,Bed_WoodLog_East,.,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,PlantPot_Bonsai_WoodLog,.,.,.,.,PlantPot_Bonsai_WoodLog,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,.,.,Door_WoodLog</li>
-        <li>Wall_Steel,StandingLamp_Green,.,.,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,StandingLamp,.,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,PlantPot_Bonsai_WoodLog,.,.,.,.,PlantPot_Bonsai_WoodLog,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,Bed_WoodLog_East,.,Bed_WoodLog_East,.,Wall_Steel,Wall_Steel</li>
         <li>.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,.</li>
@@ -4064,7 +4064,7 @@
         <li>Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Wall_Steel,.,Stool_WoodLog_West,.,Table1x2c_WoodLog_West,Wall_Steel</li>
         <li>Wall_Steel,Bed_WoodLog_South,.,Stool_WoodLog_South,Dresser_WoodLog_West,Wall_Steel</li>
-        <li>Wall_Steel,StandingLamp_Green,.,.,.,Wall_Steel</li>
+        <li>Wall_Steel,StandingLamp,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,.,.,.,.,Wall_Steel</li>
         <li>Wall_Steel,Bed_WoodLog_South,.,.,Bed_WoodLog_South,Wall_Steel</li>
         <li>Wall_Steel,Wall_Steel,.,.,Wall_Steel,Wall_Steel</li>
@@ -4203,7 +4203,7 @@
         <li>.,.,.,.,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel,Wall_Steel</li>
         <li>Column_WoodLog,.,.,.,Door_WoodLog,.,.,Shelf_WoodLog_West,Wall_Steel</li>
         <li>.,.,Wall_Steel,Wall_Steel,Wall_Steel,PlantPot_Bonsai_WoodLog,.,.,Wall_Steel</li>
-        <li>.,.,Wall_Steel,StandingLamp_Red,.,.,.,Shelf_WoodLog_West,Wall_Steel</li>
+        <li>.,.,Wall_Steel,StandingLamp,.,.,.,Shelf_WoodLog_West,Wall_Steel</li>
         <li>Column_WoodLog,.,Wall_Steel,.,.,.,.,.,Wall_Steel</li>
         <li>.,.,Wall_Steel,Bed_WoodLog_South,.,.,PlantPot_WoodLog,Wall_Steel,Wall_Steel</li>
         <li>.,.,Wall_Steel,EndTable_WoodLog_South,Armchair_Cloth_East,VFEPD_CoffeeTableSmall_WoodLog,.,Campfire_East,Wall_Steel</li>

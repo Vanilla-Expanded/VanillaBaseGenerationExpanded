@@ -9,14 +9,14 @@
         <li>.,Wall_WoodLog,Wall_WoodLog,Plant_Daylily,.,.,Plant_Daylily,Wall_WoodLog,Wall_WoodLog,.</li>
         <li>.,Wall_WoodLog,.,.,.,.,.,.,Wall_WoodLog,.</li>
         <li>Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog</li>
-        <li>Wall_WoodLog,StandingLamp_Green,.,.,BilliardsTable_WoodLog_North,.,.,.,StandingLamp_Green,Wall_WoodLog</li>
+        <li>Wall_WoodLog,StandingLamp,.,.,BilliardsTable_WoodLog_North,.,.,.,StandingLamp,Wall_WoodLog</li>
         <li>Wall_WoodLog,Wall_WoodLog,.,.,.,.,.,.,Wall_WoodLog,Wall_WoodLog</li>
         <li>.,Wall_WoodLog,.,.,.,.,.,.,Wall_WoodLog,.</li>
         <li>.,Autodoor_WoodLog,.,.,.,.,.,.,Autodoor_WoodLog,.</li>
         <li>.,Autodoor_WoodLog,.,.,.,.,.,.,Autodoor_WoodLog,.</li>
         <li>.,Wall_WoodLog,.,.,.,.,.,.,Wall_WoodLog,.</li>
         <li>Wall_WoodLog,Wall_WoodLog,Armchair_Cloth_North,.,Armchair_Cloth_North,Armchair_Cloth_North,.,Armchair_Cloth_North,Wall_WoodLog,Wall_WoodLog</li>
-        <li>Wall_WoodLog,StandingLamp_Green,.,.,.,.,.,.,StandingLamp_Green,Wall_WoodLog</li>
+        <li>Wall_WoodLog,StandingLamp,.,.,.,.,.,.,StandingLamp,Wall_WoodLog</li>
         <li>Wall_WoodLog,Wall_WoodLog,Armchair_Cloth_North,.,Armchair_Cloth_North,Armchair_Cloth_North,.,Armchair_Cloth_North,Wall_WoodLog,Wall_WoodLog</li>
         <li>.,Wall_WoodLog,.,.,.,.,.,.,Wall_WoodLog,.</li>
         <li>.,Wall_WoodLog,Wall_WoodLog,Plant_Daylily,.,FlatscreenTelevision_South,Plant_Daylily,Wall_WoodLog,Wall_WoodLog,.</li>
@@ -706,7 +706,7 @@
         <li>.,Wall_BlocksMarble,Plant_Rose,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Plant_Rose,Wall_BlocksMarble,.</li>
         <li>.,Wall_BlocksMarble,.,.,.,.,.,.,.,.,.,.,.,Wall_BlocksMarble,.</li>
         <li>Column_BlocksMarble,Wall_BlocksMarble,Plant_Rose,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Armchair_Cloth_North,.,Plant_Rose,Wall_BlocksMarble,Column_BlocksMarble</li>
-        <li>.,Wall_BlocksMarble,StandingLamp_Blue,.,.,.,.,.,.,.,.,.,StandingLamp_Blue,Wall_BlocksMarble,.</li>
+        <li>.,Wall_BlocksMarble,StandingLamp,.,.,.,.,.,.,.,.,.,StandingLamp,Wall_BlocksMarble,.</li>
         <li>.,Wall_BlocksMarble,Column_BlocksMarble,.,.,.,.,.,.,.,.,.,Column_BlocksMarble,Wall_BlocksMarble,.</li>
         <li>Column_BlocksMarble,Wall_BlocksMarble,.,.,SculptureSmall_WoodLog,.,.,MegascreenTelevision_South,.,.,SculptureSmall_Uranium,.,.,Wall_BlocksMarble,Column_BlocksMarble</li>
         <li>.,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,Wall_BlocksMarble,.</li>
