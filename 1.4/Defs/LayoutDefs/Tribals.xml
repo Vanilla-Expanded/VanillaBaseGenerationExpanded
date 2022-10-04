@@ -1264,22 +1264,6 @@
         <li>.,.,.,ChunkGranite,.,.,.</li>
       </li>
       <li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-        <li>.,.,.,.,.,.,.</li>
-      </li>
-      <li>
         <li>Fence_WoodLog,Fence_WoodLog,.,.,.,Fence_WoodLog,Fence_WoodLog</li>
         <li>Fence_WoodLog,.,.,.,.,.,Fence_WoodLog</li>
         <li>.,.,.,.,.,.,.</li>
@@ -1312,6 +1296,22 @@
       <li>.,.,.,.,.,.,.</li>
       <li>.,.,.,.,.,.,.</li>
     </roofGrid>
+    <terrainGrid>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,.,WoodPlankFloor,WoodPlankFloor,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,WoodPlankFloor,WoodPlankFloor,WoodPlankFloor,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+      <li>.,.,.,.,.,.,.</li>
+    </terrainGrid>
     <tags>
       <li>TribalKitchen</li>
     </tags>
