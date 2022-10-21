@@ -3622,7 +3622,7 @@
         <li>.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.</li>
         <li>.,Wall_Plasteel,VFEPD_Fridge_North,VFEPD_Fridge_North,Heart,Kidney,Wall_Plasteel,VitalsMonitor_North,HospitalBed_Steel_North,Wall_Plasteel,VitalsMonitor_North,HospitalBed_Steel_North,Wall_Plasteel,MedicineIndustrial,MedicineUltratech,StandingLamp,.,Penoxycyline,Wall_Plasteel,.</li>
         <li>.,Cooler_West,.,.,.,.,Wall_Plasteel,.,.,Wall_Plasteel,.,.,Wall_Plasteel,.,.,.,.,MedicineIndustrial,Wall_Plasteel,Turret_MiniTurret_Plasteel</li>
-        <li>.,Wall_Plasteel,Corpse_Human,.,.,.,Wall_Plasteel,.,.,Wall_Plasteel,.,.,Wall_Plasteel,.,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
+        <li>.,Wall_Plasteel,.,.,.,.,Wall_Plasteel,.,.,Wall_Plasteel,.,.,Wall_Plasteel,.,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel</li>
         <li>Turret_MiniTurret_Plasteel,Wall_Plasteel,StandingLamp,.,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,.,VFEPD_Knives_North,VFEPD_KitchenSurfaceEmpty_North,VFEPD_Spices,Wall_Plasteel</li>
         <li>Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Autodoor_Plasteel,Wall_Plasteel,.,.,.,.,.,.,.,.,.,Wall_Plasteel,.,Filth_Blood,.,.,Wall_Plasteel</li>
         <li>Wall_Plasteel,ChemfuelPoweredGenerator,.,.,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,Wall_Plasteel,.,Wall_Plasteel,.,Table1x2c_Plasteel_East,.,VitalsMonitor_West,Wall_Plasteel</li>
@@ -3815,7 +3815,7 @@
       <li>
         <li>.,.,.,.,.,.,.,.,.,PenMarker_Steel,.,PenMarker_Steel,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth,.,.</li>
         <li>.,.,.,.,.,.,Wall_Steel,Fence_Steel,Wall_Steel,Fence_Steel,Wall_Steel,Fence_Steel,Wall_Steel,.,.,.,Turret_MiniTurret_Steel,Sandbags_Cloth,.,.</li>
-        <li>.,.,.,.,.,.,Fence_Steel,.,Fence_Steel,Corpse_Human,Fence_Steel,Corpse_Human,Fence_Steel,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
+        <li>.,.,.,.,.,.,Fence_Steel,.,Fence_Steel,.,Fence_Steel,.,Fence_Steel,.,.,.,.,Sandbags_Cloth,Sandbags_Cloth,Sandbags_Cloth</li>
         <li>.,.,.,.,.,.,Wall_Steel,Fence_Steel,Wall_Steel,Fence_Steel,Wall_Steel,Fence_Steel,Wall_Steel,.,.,.,.,.,Turret_MiniTurret_Steel,Sandbags_Cloth</li>
         <li>.,.,.,.,.,.,.,.,.,.,.,.,.,.,Column_BlocksMarble,.,.,.,.,Column_BlocksMarble</li>
         <li>.,.,.,SmoothedGranite,.,.,.,SmoothedGranite,.,.,.,.,.,.,.,.,ChemfuelPoweredGenerator,.,Battery_North,.</li>
