@@ -84,22 +84,7 @@
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyBlack</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupBlack</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageBlack</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryWhite</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyWhite</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupWhite</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageWhite</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliverySilver</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilySilver</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupSilver</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageSilver</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryBlue</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyBlue</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupBlue</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageBlue</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarDeliveryRed</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarFamilyRed</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarPickupRed</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CarVintageRed</li>
+      
       </mainRoadPropsDefs>
       <mainRoadPropsChance>0.03</mainRoadPropsChance>
       <mainRoadMinDistance>9</mainRoadMinDistance>
@@ -122,23 +107,14 @@
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_CardboardBoxSmall</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BrickPile</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelGreen</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelGrey</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelRed</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelYellow</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_BarrelBlue</li>
+    
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletCardboard</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBoxes</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Pallet</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelGreen</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelGrey</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelRed</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelYellow</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_PalletBarrelBlue</li>
+     
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerGreen</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerGrey</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerRed</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerYellow</li>
-        <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ContainerBlue</li>
+    
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Pipes</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_Planks</li>
         <li MayRequire="VanillaExpanded.VFEPropsandDecor">VFEPD_ConcreteBags</li>
